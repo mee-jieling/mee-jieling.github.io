@@ -33,6 +33,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ```markdown
 1. Numbered
 2. List
+
+#### Journal Papers
+
+#### Conference Papers
+
+#### Books and Chapters
+
 ```
 #### Journal Papers
 
