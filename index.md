@@ -21,12 +21,13 @@
 
 ## Research
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mee-jieling/mee-jieling.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+To be continued...
 
 ## Teaching
 ### Undergraduate Courses
-
+To be continued...
 ### Master's and Doctoral Courses
+To be continued...
 
 ## Publications
 ### Papers under Revision to Resubmit
@@ -160,6 +161,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 [1] **Jie Ling**, and Xiaohui Xiao*. Rapid and precise control of a micro-manipulation stage combining H∞ with ILC algorithm. _The 2013 World Congress on Advances in Nano, Biomechanics, Robotics, and Energy Research_, Aug. 25-28, Seoul, South Korea, 2013.
 
 ### Books and Chapters
+To be continued...
 
 ## Associates
 
