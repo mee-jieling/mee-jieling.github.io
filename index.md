@@ -7,6 +7,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <table border="0">
   <tr>
     <td width="75%">
+      <h1>Jie LING</h1>
+      <p><b>Associate Professor</p></b>
       </td>
      <td width="25%">
       </td>
