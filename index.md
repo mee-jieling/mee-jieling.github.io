@@ -9,7 +9,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
     <td width="75%">
       <h1>Jie LING</h1>
       <p><b>Associate Professor</p></b>
-      </td>
+      <p><b>Nanjing University of Aeronautics and Astronautics</p></b>
+      <p><b>Email: meejling@nuaa.edu.cn</p></b>
+      <p><b>Address: No.29, Yudao Street, Qinhuai District, Nanjing, China </p></b>
+    </td>
      <td width="25%">
       </td>
     </tr>
