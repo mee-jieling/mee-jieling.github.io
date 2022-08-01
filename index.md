@@ -134,31 +134,31 @@ To be continued...
 
 [14] Dongdong Zheng, **Jie Ling**, Xuemei Ren*. Closed-loop distributed data-driven modeling and control for islanded microgrids. _The 33rd Chinese Control and Decision Conference (CCDC 2021)_. May 22-24, Kunming, China, 2021. (Poster)
 
-[13] Zhao Feng, **Jie Ling**, Feng Wan, Zhixin Yang. Iterative learning enhanced integral terminal sliding mode control for precision motion systems. _IEEE 10th Data Driven Control and Learning Systems Conference (DDCLS'21)_. May 14-16, Suzhou, China, 2021.
+[13] Zhao Feng, **Jie Ling**, Feng Wan, Zhixin Yang. [Iterative learning enhanced integral terminal sliding mode control for precision motion systems](https://ieeexplore.ieee.org/abstract/document/9455576). _IEEE 10th Data Driven Control and Learning Systems Conference (DDCLS'21)_. May 14-16, Suzhou, China, 2021.
 
-[12] Min Ming, Wenyu Liang, **Jie Ling**, Zhao Feng, Abdullah Al Mamun, and Xiaohui Xiao*. Composite integral sliding mode control with neural network based friction compensation for a piezoelectric ultrasonic motor. _The 46th Annual Conference of the IEEE Industrial Electronics Society (IECON 2020)_. Oct 18-21, Singapore, 2020. 
+[12] Min Ming, Wenyu Liang, **Jie Ling**, Zhao Feng, Abdullah Al Mamun, and Xiaohui Xiao*. [Composite integral sliding mode control with neural network based friction compensation for a piezoelectric ultrasonic motor](https://ieeexplore.ieee.org/abstract/document/9255085). _The 46th Annual Conference of the IEEE Industrial Electronics Society (IECON 2020)_. Oct 18-21, Singapore, 2020. 
 
-[11] Yingting Ye, **Jie Ling***, Tianhang Yao, and Xiaohui Xiao. Design of a 2-DOF Constant Force Compliant Microgripper for Optical Switch Assembly. _The 46th Annual Conference of the IEEE Industrial Electronics Society (IECON 2020)_. Oct 18-21, Singapore, 2020.
+[11] Yingting Ye, **Jie Ling***, Tianhang Yao, and Xiaohui Xiao. [Design of a 2-DOF Constant Force Compliant Microgripper for Optical Switch Assembly](https://ieeexplore.ieee.org/abstract/document/9255396/). _The 46th Annual Conference of the IEEE Industrial Electronics Society (IECON 2020)_. Oct 18-21, Singapore, 2020.
 
-[10] **Jie Ling**, Tingting Ye, Zhao Feng, Min Ming, and Xiaohui Xiao*. Damping controller design for triangular scanning of a third-order nanopositioning stage. _International Conference on Control, Automation and Systems (ICCAS 2019)_. Oct 15-18, ICC Jeju, Korea, 2019. 
+[10] **Jie Ling**, Tingting Ye, Zhao Feng, Min Ming, and Xiaohui Xiao*. [Damping controller design for triangular scanning of a third-order nanopositioning stage](https://ieeexplore.ieee.org/abstract/document/8971563). _International Conference on Control, Automation and Systems (ICCAS 2019)_. Oct 15-18, ICC Jeju, Korea, 2019. 
 
-[9] Min Ming, Zhao Feng, **Jie Ling**, and Xiaohui Xiao*. Disturbance observer-based model prediction control for a 2-DOF nanopositioning stage. _IEEE 45th Annual Conference of the Industrial Electronics Society (IECON 2019)_. Oct. 14-17, Lisbon, Portugal, 2019.
+[9] Min Ming, Zhao Feng, **Jie Ling**, and Xiaohui Xiao*. [Disturbance observer-based model prediction control for a 2-DOF nanopositioning stage](https://ieeexplore.ieee.org/abstract/document/8927729). _IEEE 45th Annual Conference of the Industrial Electronics Society (IECON 2019)_. Oct. 14-17, Lisbon, Portugal, 2019.
 
-[8] Zhao Feng, **Jie Ling**, Min Ming, and Xiaohui Xiao*. Model-assisted extended state observer based repetitive control for high precision tracking of piezoelectric nanopositioning stages. _38th Chinese Control Conference (CCC 2019)_, Jul. 27-30, Guangzhou, China, 2019. 
+[8] Zhao Feng, **Jie Ling**, Min Ming, and Xiaohui Xiao*. [Model-assisted extended state observer based repetitive control for high precision tracking of piezoelectric nanopositioning stages](https://ieeexplore.ieee.org/abstract/document/8866117). _38th Chinese Control Conference (CCC 2019)_, Jul. 27-30, Guangzhou, China, 2019. 
 
-[7] **Jie Ling**, Zhao Feng, Zhao Guo, and Xiaohui Xiao*. Integrating damping control with iterative learning control for fast and precise scanning of nanopositioners: a TITO design. _IEEE International Conference on Advanced Robotics and Mechatronics (ICARM 2018)_, Jul. 18-20, Singapore, 2018. **(Best Student Paper Finalist)**
+[7] **Jie Ling**, Zhao Feng, Zhao Guo, and Xiaohui Xiao*. [Integrating damping control with iterative learning control for fast and precise scanning of nanopositioners: a TITO design](https://ieeexplore.ieee.org/abstract/document/8610755/). _IEEE International Conference on Advanced Robotics and Mechatronics (ICARM 2018)_, Jul. 18-20, Singapore, 2018. **(Best Student Paper Finalist)**
 
-[6] Zhao Guo, Jiantao Sun, **Jie Ling**, Tairen Sun, Yongping Pan and Xiaohui Xiao*. Robust control of a serial variable stiffness actuator based on nonlinear disturbance observer (NDOB). _IEEE International Conference on Advanced Robotics and Mechatronics (ICARM 2018)_, Jul. 18-20, Singapore, 2018.
+[6] Zhao Guo, Jiantao Sun, **Jie Ling**, Tairen Sun, Yongping Pan and Xiaohui Xiao*. [Robust control of a serial variable stiffness actuator based on nonlinear disturbance observer (NDOB)](https://ieeexplore.ieee.org/abstract/document/8610767/). _IEEE International Conference on Advanced Robotics and Mechatronics (ICARM 2018)_, Jul. 18-20, Singapore, 2018.
 
-[5] **Jie Ling**, Zhao Feng, Daojin Yao, and Xiaohui Xiao*. A position domain iteration learning control for contour tracking with application to a multi-axis motion testbed. _American Control Conference (ACC 2016)_, Jul. 6-8, Boston, MA, USA, 2016.
+[5] **Jie Ling**, Zhao Feng, Daojin Yao, and Xiaohui Xiao*. [A position domain iteration learning control for contour tracking with application to a multi-axis motion testbed](https://ieeexplore.ieee.org/abstract/document/7525088). _American Control Conference (ACC 2016)_, Jul. 6-8, Boston, MA, USA, 2016.
 
-[4] **Jie Ling**, Zhao Feng, Min Ming, and Xiaohui Xiao*. Combined model-free decoupling control and double resonant control in parallel nanopositioning stages for fast and precise raster scanning. _International Conference on Intelligent Robotics and Applications (ICIRA 2016)_. Aug. 22-26, Hachioji, Tokyo, Japan, 2016. **(Best Student Paper Award)**
+[4] **Jie Ling**, Zhao Feng, Min Ming, and Xiaohui Xiao*. [Combined model-free decoupling control and double resonant control in parallel nanopositioning stages for fast and precise raster scanning](https://link.springer.com/chapter/10.1007/978-3-319-43506-0_5). _International Conference on Intelligent Robotics and Applications (ICIRA 2016)_. Aug. 22-26, Hachioji, Tokyo, Japan, 2016. **(Best Student Paper Award)**
 
-[3] Feng, Zhao, **Jie Ling**, Min Ming, and Xiaohui Xiao*. Data-driven feedforward decoupling filter design for parallel nanopositioning stages. _International Conference on Intelligent Robotics and Applications (ICIAR 2016)_. Aug. 22-26, Hachioji, Tokyo, Japan, 2016.
+[3] Feng, Zhao, **Jie Ling**, Min Ming, and Xiaohui Xiao*. [Data-driven feedforward decoupling filter design for parallel nanopositioning stages](https://link.springer.com/chapter/10.1007/978-3-319-43506-0_61). _International Conference on Intelligent Robotics and Applications (ICIAR 2016)_. Aug. 22-26, Hachioji, Tokyo, Japan, 2016.
 
-[2] **Jie Ling**, Zhao Feng, and Xiaohui Xiao*. A position domain cross-coupled iteration learning control for contour tracking in multi-axis precision motion control systems. _International Conference on Intelligent Robotics and Applications (ICIRA 2015)_. Aug. 24-27, Portsmouth, UK, 2015.
+[2] **Jie Ling**, Zhao Feng, and Xiaohui Xiao*. [A position domain cross-coupled iteration learning control for contour tracking in multi-axis precision motion control systems](https://link.springer.com/chapter/10.1007/978-3-319-22879-2_60). _International Conference on Intelligent Robotics and Applications (ICIRA 2015)_. Aug. 24-27, Portsmouth, UK, 2015.
 
-[1] **Jie Ling**, and Xiaohui Xiao*. Rapid and precise control of a micro-manipulation stage combining H∞ with ILC algorithm. _The 2013 World Congress on Advances in Nano, Biomechanics, Robotics, and Energy Research_, Aug. 25-28, Seoul, South Korea, 2013.
+[1] **Jie Ling**, and Xiaohui Xiao*. [Rapid and precise control of a micro-manipulation stage combining H∞ with ILC algorithm](http://www.i-asem.org/publication_conf/anbre13/M5C.3.RR608_1046F.pdf). _The 2013 World Congress on Advances in Nano, Biomechanics, Robotics, and Energy Research_, Aug. 25-28, Seoul, South Korea, 2013.
 
 ### Books and Chapters
 To be continued...
