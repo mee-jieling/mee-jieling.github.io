@@ -30,17 +30,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Publications
 #### Papers under Revision to Resubmit
-```markdown
-1. Numbered
-2. List
 
-#### Journal Papers
-
-#### Conference Papers
-
-#### Books and Chapters
-
-```
 #### Journal Papers
 
 #### Conference Papers
