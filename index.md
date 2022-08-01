@@ -14,7 +14,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
       <p><b>Address: No.29, Yudao Street, Qinhuai District, Nanjing, China </p></b>
     </td>
      <td width="25%">
-      </td>
+      <img src="/lingjie.jpg" width="100%">  
+     </td>
     </tr>
   
 </table>
