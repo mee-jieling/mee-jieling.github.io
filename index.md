@@ -152,7 +152,7 @@ To be continued...
 
 [5] **Jie Ling**, Zhao Feng, Daojin Yao, and Xiaohui Xiao*. A position domain iteration learning control for contour tracking with application to a multi-axis motion testbed. _American Control Conference (ACC 2016)_, Jul. 6-8, Boston, MA, USA, 2016.
 
-[4] **Jie Ling**, Zhao Feng, Min Ming, and Xiaohui Xiao*. Combined model-free decoupling control and double resonant control in parallel nanopositioning stages for fast and precise raster scanning. _International Conference on Intelligent Robotics and Applications (ICIRA 2016)_. Aug. 22-26, Hachioji, Tokyo, Japan, 2016.** (Best Student Paper Award)**
+[4] **Jie Ling**, Zhao Feng, Min Ming, and Xiaohui Xiao*. Combined model-free decoupling control and double resonant control in parallel nanopositioning stages for fast and precise raster scanning. _International Conference on Intelligent Robotics and Applications (ICIRA 2016)_. Aug. 22-26, Hachioji, Tokyo, Japan, 2016. **(Best Student Paper Award)**
 
 [3] Feng, Zhao, **Jie Ling**, Min Ming, and Xiaohui Xiao*. Data-driven feedforward decoupling filter design for parallel nanopositioning stages. _International Conference on Intelligent Robotics and Applications (ICIAR 2016)_. Aug. 22-26, Hachioji, Tokyo, Japan, 2016.
 
