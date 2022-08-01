@@ -37,4 +37,12 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 #### Conference Papers
 
+#### Books and Chapters
+
 ### Associates
+
+#### PhD Students
+
+#### Master Students
+
+#### Undergraduate Students
