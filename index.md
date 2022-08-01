@@ -45,7 +45,7 @@ To be continued...
 
 ### Journal Papers _(First / Corresponding Author)_
 
-[19] **Jie Ling**, Long Chen, Zhao Feng, and Yuchuan Zhu. [Development and test of a high speed pusher-type inchworm piezoelectric actuator with asymmetric driving and clamping configuration] (https://www.sciencedirect.com/science/article/abs/pii/S0094114X22002488). **_Mechanism and Machine Theory_**. 2022, 176: 104997. 
+[19] **Jie Ling**, Long Chen, Zhao Feng, and Yuchuan Zhu. [Development and test of a high speed pusher-type inchworm piezoelectric actuator with asymmetric driving and clamping configuration](https://www.sciencedirect.com/science/article/abs/pii/S0094114X22002488). **_Mechanism and Machine Theory_**. 2022, 176: 104997. 
 
 [18] **Jie Ling**, Tingting Ye, Zhao Feng, Yuchuan Zhu, Yangmin Li, Xiaohui Xiao. [A survey on synthesis of compliant constant force/torque mechanisms](https://www.sciencedirect.com/science/article/abs/pii/S0094114X22002257). 2022, 176: 104970. **_Mechanism and Machine Theory_**. 
 
