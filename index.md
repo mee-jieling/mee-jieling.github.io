@@ -84,7 +84,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Journal Papers _(Co-author)_
 
-[19] Zhao Feng, Wenyu Liang, **Jie Ling**, Xiaohui Xiao, Kok Kiong Tan, and Tong Heng Lee. Precision force tracking control of a surgical device interacting with a deformable object. **_IEEE/ASME Transactions on Mechatronics_**. (Early Access)
+[19] Zhao Feng, Wenyu Liang, **Jie Ling**, Xiaohui Xiao, Kok Kiong Tan, and Tong Heng Lee. [Precision force tracking control of a surgical device interacting with a deformable object](https://ieeexplore.ieee.org/abstract/document/9794483). **_IEEE/ASME Transactions on Mechatronics_**. (Early Access)
 
 [18] Lingkang Meng, Yuchuan Zhu, **Jie Ling**, Jianjun Ding, Zhichuang Chen, and Xiaoming Chen. Research on mathematical modeling of the servo valve torque motor considering the variation of working air-gaps leakage flux. **_Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science_**, 2022. 
 
