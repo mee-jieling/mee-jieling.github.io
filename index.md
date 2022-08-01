@@ -103,7 +103,7 @@ To be continued...
 
 [14] Zhao Feng, Wenyu Liang*, **Jie Ling**, Xiaohui Xiao*, Kok Kiong Tan, and Tong Heng Lee. [Adaptive robust impedance control for an ear surgical device with soft interaction](https://ieeexplore.ieee.org/abstract/document/9447937/). **_IEEE/ASME Transactions on Mechatronic_s**. 2022, **27**(3): 1784-1795. 
 
-[13] Min Ming, Wenyu Liang, Zhao Feng, **_Jie Ling_**, Abdullah Al Mamun, and Xiaohui Xiao*. [PID-type sliding mode-based adaptive motion control of a 2-dof piezoelectric ultrasonic motor driven stage](https://www.sciencedirect.com/science/article/abs/pii/S0957415821000428). **_Mechatronic_s**. 2021. **76**:102543. 
+[13] Min Ming, Wenyu Liang, Zhao Feng, **Jie Ling**, Abdullah Al Mamun, and Xiaohui Xiao*. [PID-type sliding mode-based adaptive motion control of a 2-dof piezoelectric ultrasonic motor driven stage](https://www.sciencedirect.com/science/article/abs/pii/S0957415821000428). **_Mechatronic_s**. 2021. **76**:102543. 
 
 [12] Like Cao, **Jie Ling**, Xiaohui Xiao. [Study on the influence of image noise on monocular feature-based visual SLAM based on FFDNet](https://www.mdpi.com/1424-8220/20/17/4922). **_Sensors**. 2020. **20**: 4922. 
 
