@@ -1,22 +1,5 @@
 ## Welcome to Jie LING's Home Page
 
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>Jie LING</h1>
-      <p><b>Associate Professor</p></b>
-      <p><b>Nanjing University of Aeronautics and Astronautics</p></b>
-      <p><b>Email: meejling@nuaa.edu.cn</p></b>
-      <p><b>Address: No.29, Yudao Street, Qinhuai District, Nanjing, China </p></b>
-    </td>
-     <td width="25%">
-      <img src="/lingjie.jpg" width="100%">  
-     </td>
-    </tr>
-  
-</table>
-
-
 ### BIO
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
