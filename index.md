@@ -1,4 +1,4 @@
-## Welcome to Jie LING's Home Page
+# Welcome to Jie LING's Home Page
 
 <table border="0">
   <tr>
@@ -15,21 +15,21 @@
     </tr>  
 </table>
 
-## BIO
+# BIO
 
 <b>Jie Ling</b> received his B.S. and Ph.D. degrees in Mechanical Engineering from School of Power and Mechanical Engineering, Wuhan University, China, in 2012 and 2018, respectively. From Aug. 2017 to Nov. 2017, he was a visiting Ph.D. student with Department of Automatic Control and Micro-Mechatronic Systems, FEMTO-st Institute, France. From Jan. 2019 to Jan. 2020, he was a Postdoctoral Research Fellow with Department of Biomedical Engineering, National University of Singapore, Singapore. Since Aug. 2020, he has been an Associate Professor with College of Mechanical and Electrical Engineering, Nanjing University of Aeronautics and Astronautics, Nanjing, China. Dr. Ling’s research interests include mechanical design and precision motion control of piezoelectric nanopositioning systems and micromanipulation robots.
 
-## Research
+# Research
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mee-jieling/mee-jieling.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-## Teaching
-#### Undergraduate Courses
+# Teaching
+### Undergraduate Courses
 
-#### Master's and Doctoral Courses
+### Master's and Doctoral Courses
 
-## Publications
-#### Papers under Revision to Resubmit
+# Publications
+### Papers under Revision to Resubmit
 [6] Yuzhou Duan, **Jie Ling**, Yuchuan Zhu. Development of a base-actuated three-rhombus configured remote center of motion mechanism for lumbar puncture. _**Mechanism and Machine Theory**_.
 
 [5] **Jie Ling**, Long Chen, Mingming Zhang, and Yuchuan Zhu. Development and modelling of a dual pumps configured electro-hydrostatic actuator using axial dual-mounted piezoelectric stacks.
@@ -42,7 +42,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 [1] Xiaoming Chen, Yuchuan Zhu, **Jie Ling**, Shufeng Zheng, Douglas Bitner. Characteristic investigation of digital electro-hydrostatic actuator with four quadrant modes. 
 
-#### Journal Papers _(First / Corresponding Author)_
+### Journal Papers _(First / Corresponding Author)_
 
 [19] **Jie Ling**, Long Chen, Zhao Feng, and Yuchuan Zhu. Development and test of a high speed pusher-type inchworm piezoelectric actuator with asymmetric driving and clamping configuration. **_Mechanism and Machine Theory_**. 2022, 176: 104997. 
 
@@ -82,7 +82,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 [1] **凌杰**, 明敏, 冯朝, 肖晓晖. 多轴运动系统非线性轮廓重复跟踪的主从交叉耦合迭代学习控制. **_自动化学报_**. 2017, **43**(12): 2127-2140.
 
-#### Journal Papers _(Co-author)_
+### Journal Papers _(Co-author)_
 
 [19] Zhao Feng, Wenyu Liang, **Jie Ling**, Xiaohui Xiao, Kok Kiong Tan, and Tong Heng Lee. Precision force tracking control of a surgical device interacting with a deformable object. **_IEEE/ASME Transactions on Mechatronics_**. (Early Access)
 
@@ -123,14 +123,14 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 [1] Zhao Feng, **Jie Ling**, Min Ming, and Xiaohui Xiao*. Data-based double-feedforward controller design for a coupled parallel piezo nanopositioning stage. **_Proceedings of the Institution of Mechanical Engineers, Part I - Journal of Systems and Control Engineering_**. 2017, **231**(10): 881-892.
 
 
-#### Conference Papers
+### Conference Papers
 
-#### Books and Chapters
+### Books and Chapters
 
-## Associates
+# Associates
 
-#### PhD Students
+### PhD Students
 
-#### Master Students
+### Master Students
 
-#### Undergraduate Students
+### Undergraduate Students
