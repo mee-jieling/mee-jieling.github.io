@@ -31,10 +31,15 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Publications
 #### Papers under Revision to Resubmit
 [6] Yuzhou Duan, **Jie Ling**, Yuchuan Zhu. Development of a base-actuated three-rhombus configured remote center of motion mechanism for lumbar puncture. _Mechanism and Machine Theory_.
+
 [5] **Jie Ling**, Long Chen, Mingming Zhang, and Yuchuan Zhu. Development and modelling of a dual pumps configured electro-hydrostatic actuator using axial dual-mounted piezoelectric stacks.
+
 [4] **Jie Ling**, Zhao Feng, Long Chen, Yuchuan Zhu, Yongping Pan. Neural network-based iterative learning control of a piezo-driven nanopositioning stage. _Precision Engineering_.
+
 [3] Zhao Feng, **Jie Ling**, Xiaohui Xiao, Feng Wan, Zhixin Yang. Adaptive neural network based finite-time command filtered backstepping control for robotic manipulators. 
+
 [2] Zhao Feng, **Jie Ling**, and Daojin Yao. Gaussian process based non-singular terminal sliding mode control for robotic manipulators.
+
 [1] Xiaoming Chen, Yuchuan Zhu, **Jie Ling**, Shufeng Zheng, Douglas Bitner. Characteristic investigation of digital electro-hydrostatic actuator with four quadrant modes. 
 
 #### Journal Papers
