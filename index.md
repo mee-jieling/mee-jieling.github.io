@@ -146,7 +146,7 @@ To be continued...
 
 [8] Zhao Feng, **Jie Ling**, Min Ming, and Xiaohui Xiao*. Model-assisted extended state observer based repetitive control for high precision tracking of piezoelectric nanopositioning stages. _38th Chinese Control Conference (CCC 2019)_, Jul. 27-30, Guangzhou, China, 2019. 
 
-[7] **Jie Ling**, Zhao Feng, Zhao Guo, and Xiaohui Xiao*. Integrating damping control with iterative learning control for fast and precise scanning of nanopositioners: a TITO design. _IEEE International Conference on Advanced Robotics and Mechatronics (ICARM 2018)_, Jul. 18-20, Singapore, 2018. **(Best Student Paper Finalist) **
+[7] **Jie Ling**, Zhao Feng, Zhao Guo, and Xiaohui Xiao*. Integrating damping control with iterative learning control for fast and precise scanning of nanopositioners: a TITO design. _IEEE International Conference on Advanced Robotics and Mechatronics (ICARM 2018)_, Jul. 18-20, Singapore, 2018. **(Best Student Paper Finalist)**
 
 [6] Zhao Guo, Jiantao Sun, **Jie Ling**, Tairen Sun, Yongping Pan and Xiaohui Xiao*. Robust control of a serial variable stiffness actuator based on nonlinear disturbance observer (NDOB). _IEEE International Conference on Advanced Robotics and Mechatronics (ICARM 2018)_, Jul. 18-20, Singapore, 2018.
 
