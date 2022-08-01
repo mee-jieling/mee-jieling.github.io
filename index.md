@@ -3,11 +3,11 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Jie LING</h1>
-      <p><b>Associate Professor</p></b>
-      <p><b>Nanjing University of Aeronautics and Astronautics</p></b>
-      <p><b>Email: meejling@nuaa.edu.cn</p></b>
-      <p><b>Address: No.29, Yudao Street, Qinhuai District, Nanjing, China </p></b>
+      <h1>Jie LING </h1>
+      <p><b>Associate Professor </b></p>
+      <p><b>Nanjing University of Aeronautics and Astronautics </b></p>
+      <p><b>Email: meejling@nuaa.edu.cn</b></p>
+      <p><b>Address: No.29, Yudao Street, Qinhuai District, Nanjing, China </b></p>
     </td>
      <td width="25%">
       <img src="/lingjie.jpg" width="100%">  
