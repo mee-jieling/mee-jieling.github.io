@@ -30,11 +30,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ## Publications
 #### Papers under Revision to Resubmit
-[6] Yuzhou Duan, **Jie Ling**, Yuchuan Zhu. Development of a base-actuated three-rhombus configured remote center of motion mechanism for lumbar puncture. _Mechanism and Machine Theory_.
+[6] Yuzhou Duan, **Jie Ling**, Yuchuan Zhu. Development of a base-actuated three-rhombus configured remote center of motion mechanism for lumbar puncture. _**Mechanism and Machine Theory**_.
 
 [5] **Jie Ling**, Long Chen, Mingming Zhang, and Yuchuan Zhu. Development and modelling of a dual pumps configured electro-hydrostatic actuator using axial dual-mounted piezoelectric stacks.
 
-[4] **Jie Ling**, Zhao Feng, Long Chen, Yuchuan Zhu, Yongping Pan. Neural network-based iterative learning control of a piezo-driven nanopositioning stage. _Precision Engineering_.
+[4] **Jie Ling**, Zhao Feng, Long Chen, Yuchuan Zhu, Yongping Pan. Neural network-based iterative learning control of a piezo-driven nanopositioning stage. _**Precision Engineering**_.
 
 [3] Zhao Feng, **Jie Ling**, Xiaohui Xiao, Feng Wan, Zhixin Yang. Adaptive neural network based finite-time command filtered backstepping control for robotic manipulators. 
 
@@ -44,7 +44,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 #### Journal Papers _(First / Corresponding Author)_
 
-[19] **Jie Ling**, Long Chen, Zhao Feng, and Yuchuan Zhu. Development and test of a high speed pusher-type inchworm piezoelectric actuator with asymmetric driving and clamping configuration. Mechanism and Machine Theory. 2022, 176: 104997. 
+[19] **Jie Ling**, Long Chen, Zhao Feng, and Yuchuan Zhu. Development and test of a high speed pusher-type inchworm piezoelectric actuator with asymmetric driving and clamping configuration. **_Mechanism and Machine Theory_**. 2022, 176: 104997. 
 
 [18] **Jie Ling**, Tingting Ye, Zhao Feng, Yuchuan Zhu, Yangmin Li, Xiaohui Xiao. A survey on synthesis of compliant constant force/torque mechanisms. 2022, 176: 104970. Mechanism and Machine Theory. 
 
