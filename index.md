@@ -1,4 +1,4 @@
-# Welcome to Jie LING's Home Page
+## Welcome to Jie LING's Home Page
 
 <table border="0">
   <tr>
@@ -15,20 +15,20 @@
     </tr>  
 </table>
 
-# BIO
+## BIO
 
 <b>Jie Ling</b> received his B.S. and Ph.D. degrees in Mechanical Engineering from School of Power and Mechanical Engineering, Wuhan University, China, in 2012 and 2018, respectively. From Aug. 2017 to Nov. 2017, he was a visiting Ph.D. student with Department of Automatic Control and Micro-Mechatronic Systems, FEMTO-st Institute, France. From Jan. 2019 to Jan. 2020, he was a Postdoctoral Research Fellow with Department of Biomedical Engineering, National University of Singapore, Singapore. Since Aug. 2020, he has been an Associate Professor with College of Mechanical and Electrical Engineering, Nanjing University of Aeronautics and Astronautics, Nanjing, China. Dr. Ling’s research interests include mechanical design and precision motion control of piezoelectric nanopositioning systems and micromanipulation robots.
 
-# Research
+## Research
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mee-jieling/mee-jieling.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-# Teaching
+## Teaching
 ### Undergraduate Courses
 
 ### Master's and Doctoral Courses
 
-# Publications
+## Publications
 ### Papers under Revision to Resubmit
 [6] Yuzhou Duan, **Jie Ling**, Yuchuan Zhu. Development of a base-actuated three-rhombus configured remote center of motion mechanism for lumbar puncture. _**Mechanism and Machine Theory**_.
 
@@ -127,7 +127,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Books and Chapters
 
-# Associates
+## Associates
 
 ### PhD Students
 
