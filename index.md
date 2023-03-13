@@ -36,20 +36,12 @@ To be continued...
 To be continued...
 
 ## Publications
-### Papers under Revision to Resubmit
-[6] Yuzhou Duan, **Jie Ling**, Yuchuan Zhu. Development of a base-actuated three-rhombus configured remote center of motion mechanism for lumbar puncture. _**Mechanism and Machine Theory**_.
-
-[5] **Jie Ling**, Long Chen, Mingming Zhang, and Yuchuan Zhu. Development and modelling of a dual pumps configured electro-hydrostatic actuator using axial dual-mounted piezoelectric stacks.
-
-[4] **Jie Ling**, Zhao Feng, Long Chen, Yuchuan Zhu, Yongping Pan. Neural network-based iterative learning control of a piezo-driven nanopositioning stage. _**Precision Engineering**_.
-
-[3] Zhao Feng, **Jie Ling**, Xiaohui Xiao, Feng Wan, Zhixin Yang. Adaptive neural network based finite-time command filtered backstepping control for robotic manipulators. 
-
-[2] Zhao Feng, **Jie Ling**, and Daojin Yao. Gaussian process based non-singular terminal sliding mode control for robotic manipulators.
-
-[1] Xiaoming Chen, Yuchuan Zhu, **Jie Ling**, Shufeng Zheng, Douglas Bitner. Characteristic investigation of digital electro-hydrostatic actuator with four quadrant modes. 
 
 ### Journal Papers _(First / Corresponding Author)_
+
+[21] **Jie Ling**, Zhao Feng, Long Chen, Yuchuan Zhu, Yongping Pan. [Neural network-based iterative learning control of a piezo-driven nanopositioning stage](https://www.sciencedirect.com/science/article/abs/pii/S0141635923000338). **_Precision Engineering_**. 2023, 81:112-123. 
+
+[20] **Jie Ling**, Long Chen, Mingming Zhang, and Yuchuan Zhu. [Development of a dual-mode electro-hydrostatic actuator with serial-parallel hybrid configured piezoelectric pumps](https://iopscience.iop.org/article/10.1088/1361-665X/acafb5/meta). **_Smart Materials and Structures_**. 2023, 32(2): 025011.
 
 [19] **Jie Ling**, Long Chen, Zhao Feng, and Yuchuan Zhu. [Development and test of a high speed pusher-type inchworm piezoelectric actuator with asymmetric driving and clamping configuration](https://www.sciencedirect.com/science/article/abs/pii/S0094114X22002488). **_Mechanism and Machine Theory_**. 2022, 176: 104997. 
 
