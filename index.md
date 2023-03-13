@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Jie LING </h1>
+      <h1>凌杰 | Jie LING </h1>
       <p><b>Associate Professor </b></p>
       <p><b>Nanjing University of Aeronautics and Astronautics </b></p>
       <p><b>Email: meejling@nuaa.edu.cn</b></p>
@@ -34,9 +34,9 @@ Precision motion control; Piezoelectric actuator; Compliant mechanisms.
 ## Teaching
 ### Undergraduate Courses
 
-气压与液压传动 (Hydraulic and Pneumatic Transmission)
+气压与液压传动 | Hydraulic and Pneumatic Transmission
 
-可编程控制器 (Programmable Logic Controller)
+可编程控制器 | Programmable Logic Controller
 
 ### Master's and Doctoral Courses
 To be continued...
@@ -45,17 +45,17 @@ To be continued...
 
 ### Journal Papers _(First / Corresponding Author)_
 
-[21] **Jie Ling**, Zhao Feng, Long Chen, Yuchuan Zhu, Yongping Pan. [Neural network-based iterative learning control of a piezo-driven nanopositioning stage](https://www.sciencedirect.com/science/article/abs/pii/S0141635923000338). **_Precision Engineering_**. 2023, 81:112-123. 
+[21] **Jie Ling**, Zhao Feng, Long Chen, Yuchuan Zhu, Yongping Pan. [Neural network-based iterative learning control of a piezo-driven nanopositioning stage](https://www.sciencedirect.com/science/article/abs/pii/S0141635923000338). **_Precision Engineering_**. 2023, **81**:112-123. 
 
-[20] **Jie Ling**, Long Chen, Mingming Zhang, and Yuchuan Zhu. [Development of a dual-mode electro-hydrostatic actuator with serial-parallel hybrid configured piezoelectric pumps](https://iopscience.iop.org/article/10.1088/1361-665X/acafb5/meta). **_Smart Materials and Structures_**. 2023, 32(2): 025011.
+[20] **Jie Ling**, Long Chen, Mingming Zhang, and Yuchuan Zhu. [Development of a dual-mode electro-hydrostatic actuator with serial-parallel hybrid configured piezoelectric pumps](https://iopscience.iop.org/article/10.1088/1361-665X/acafb5/meta). **_Smart Materials and Structures_**. 2023, **32**(2): 025011.
 
-[19] **Jie Ling**, Long Chen, Zhao Feng, and Yuchuan Zhu. [Development and test of a high speed pusher-type inchworm piezoelectric actuator with asymmetric driving and clamping configuration](https://www.sciencedirect.com/science/article/abs/pii/S0094114X22002488). **_Mechanism and Machine Theory_**. 2022, 176: 104997. 
+[19] **Jie Ling**, Long Chen, Zhao Feng, and Yuchuan Zhu. [Development and test of a high speed pusher-type inchworm piezoelectric actuator with asymmetric driving and clamping configuration](https://www.sciencedirect.com/science/article/abs/pii/S0094114X22002488). **_Mechanism and Machine Theory_**. 2022, **176**: 104997. 
 
-[18] **Jie Ling**, Tingting Ye, Zhao Feng, Yuchuan Zhu, Yangmin Li, Xiaohui Xiao. [A survey on synthesis of compliant constant force/torque mechanisms](https://www.sciencedirect.com/science/article/abs/pii/S0094114X22002257). 2022, 176: 104970. **_Mechanism and Machine Theory_**. 
+[18] **Jie Ling**, Tingting Ye, Zhao Feng, Yuchuan Zhu, Yangmin Li, Xiaohui Xiao. [A survey on synthesis of compliant constant force/torque mechanisms](https://www.sciencedirect.com/science/article/abs/pii/S0094114X22002257). 2022, **176**: 104970. **_Mechanism and Machine Theory_**. 
 
-[17] Long Chen, Yuchuan Zhu*, **Jie Ling***, Mingming Zhang. [Development and characteristic investigation of a multi-dimensional discrete magnetostrictive actuator](https://ieeexplore.ieee.org/abstract/document/9778278). **_IEEE/ASME Transactions on Mechatronics_**. 2022, 27(4): 2071-2079.
+[17] Long Chen, Yuchuan Zhu*, **Jie Ling***, Mingming Zhang. [Development and characteristic investigation of a multi-dimensional discrete magnetostrictive actuator](https://ieeexplore.ieee.org/abstract/document/9778278). **_IEEE/ASME Transactions on Mechatronics_**. 2022, **27**(4): 2071-2079.
 
-[16] Long Chen, Yuchuan Zhu*, **Jie Ling*** and Zhao Feng. [Theoretical modeling and experimental evaluation of amagnetostrictive actuator with radial-nested stacked configuration](https://link.springer.com/article/10.1007/s11071-022-07494-4). **_Nonlinear Dynamics_**. 2022, 109: 1277-1293. 
+[16] Long Chen, Yuchuan Zhu*, **Jie Ling*** and Zhao Feng. [Theoretical modeling and experimental evaluation of amagnetostrictive actuator with radial-nested stacked configuration](https://link.springer.com/article/10.1007/s11071-022-07494-4). **_Nonlinear Dynamics_**. 2022, **109**: 1277-1293. 
 
 [15] Zhao Feng, Min Ming, **Jie Ling***, Xiaohui Xiao, Zhixin Yang, and Feng Wan*. [Fractional delay filter based repetitive control for precision tracking: design and application to a piezoelectric nanopositioning stage](https://www.sciencedirect.com/science/article/abs/pii/S088832702100618X). **_Mechanical Systems and Signal Processing_**. 2022. **164**: 108249. 
 
@@ -172,11 +172,11 @@ Xiaohui Xiao, **Jie Ling**, Zhao Feng. High-speed Scanning Motion Control of Pie
 ## Associates
 
 ### PhD Students
-段榆洲 Yuzhou Duan, Spet-2022, co-supervised with Prof. Yuchuan Zhu
+段榆洲 | Yuzhou Duan, Spet-2022, co-supervised with Prof. Yuchuan Zhu
 
 ### Master Students
-张国栋 Guodong Zhang, Spet-2023
+张国栋 | Guodong Zhang, Spet-2023
 
-彭洪涛 Hongtao Peng, Spet-2022
+彭洪涛 | Hongtao Peng, Spet-2022
 
-张允执 Yunzhi Zhang, Spet-2022
+张允执 | Yunzhi Zhang, Spet-2022
