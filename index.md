@@ -25,6 +25,8 @@
 
 [ORCID](https://orcid.org/0000-0002-6786-0422)
 
+[Precision and Motion Control Group at NUAA](https://nuaapac.github.io/)
+
 ## Research
 
 Precision motion control; Piezoelectric actuator; Compliant mechanisms.
@@ -162,12 +164,15 @@ To be continued...
 
 
 ### Books and Chapters
-To be continued...
+Xiaohui Xiao, **Jie Ling**, Zhao Feng. High-speed Scanning Motion Control of Piezoelectric Nanopositioning Systems. Monography in preparation. 
+
 
 ## Associates
 
 ### PhD Students
-To be continued...
-### Master Students
+段榆洲 Yuzhou Duan, Spet-2022, co-supervised with Prof. Yuchuan Zhu
 
-### Undergraduate Students
+### Master Students
+张国栋 Guodong Zhang, Spet-2023
+彭洪涛 Hongtao Peng, Spet-2022
+张允执 Yunzhi Zhang, Spet-2022
