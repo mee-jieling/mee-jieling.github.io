@@ -47,9 +47,9 @@ To be continued...
 
 [18] **Jie Ling**, Tingting Ye, Zhao Feng, Yuchuan Zhu, Yangmin Li, Xiaohui Xiao. [A survey on synthesis of compliant constant force/torque mechanisms](https://www.sciencedirect.com/science/article/abs/pii/S0094114X22002257). 2022, 176: 104970. **_Mechanism and Machine Theory_**. 
 
-[17] Long Chen, Yuchuan Zhu*, **Jie Ling***, Mingming Zhang. [Development and characteristic investigation of a multi-dimensional discrete magnetostrictive actuator](https://ieeexplore.ieee.org/abstract/document/9778278). **_IEEE/ASME Transactions on Mechatronics_**.(Early Access)
+[17] Long Chen, Yuchuan Zhu*, **Jie Ling***, Mingming Zhang. [Development and characteristic investigation of a multi-dimensional discrete magnetostrictive actuator](https://ieeexplore.ieee.org/abstract/document/9778278). **_IEEE/ASME Transactions on Mechatronics_**. 2022, 27(4): 2071-2079.
 
-[16] Long Chen, Yuchuan Zhu*, **Jie Ling*** and Zhao Feng. [Theoretical modeling and experimental evaluation of amagnetostrictive actuator with radial-nested stacked configuration](https://link.springer.com/article/10.1007/s11071-022-07494-4). **_Nonlinear Dynamics_**. 
+[16] Long Chen, Yuchuan Zhu*, **Jie Ling*** and Zhao Feng. [Theoretical modeling and experimental evaluation of amagnetostrictive actuator with radial-nested stacked configuration](https://link.springer.com/article/10.1007/s11071-022-07494-4). **_Nonlinear Dynamics_**. 2022, 109: 1277-1293. 
 
 [15] Zhao Feng, Min Ming, **Jie Ling***, Xiaohui Xiao, Zhixin Yang, and Feng Wan*. [Fractional delay filter based repetitive control for precision tracking: design and application to a piezoelectric nanopositioning stage](https://www.sciencedirect.com/science/article/abs/pii/S088832702100618X). **_Mechanical Systems and Signal Processing_**. 2022. **164**: 108249. 
 
