@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>凌杰 | Jie LING </h1>
+      <h1>凌 杰 | Jie LING </h1>
       <p><b>Associate Professor </b></p>
       <p><b>Nanjing University of Aeronautics and Astronautics </b></p>
       <p><b>Email: meejling@nuaa.edu.cn</b></p>
@@ -172,11 +172,11 @@ Xiaohui Xiao, **Jie Ling**, Zhao Feng. High-speed Scanning Motion Control of Pie
 ## Associates
 
 ### PhD Students
-段榆洲 | Yuzhou Duan, Spet-2022, co-supervised with Prof. Yuchuan Zhu
+**段榆洲** | Yuzhou Duan, Spet-2022, co-supervised with Prof. Yuchuan Zhu
 
 ### Master Students
-张国栋 | Guodong Zhang, Spet-2023
+**张国栋** | Guodong Zhang, Spet-2023
 
-彭洪涛 | Hongtao Peng, Spet-2022
+**彭洪涛** | Hongtao Peng, Spet-2022
 
-张允执 | Yunzhi Zhang, Spet-2022
+**张允执** | Yunzhi Zhang, Spet-2022
