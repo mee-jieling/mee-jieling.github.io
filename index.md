@@ -10,7 +10,7 @@
       <p><b>Address: No.29, Yudao Street, Qinhuai District, Nanjing, China </b></p>
     </td>
      <td width="25%">
-      <img src="/lingjie.jpg" width="100%">  
+      <img src="/lingjie.jpg" width="70%">  
      </td>
     </tr>  
 </table>
