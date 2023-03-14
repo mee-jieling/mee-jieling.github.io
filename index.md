@@ -53,29 +53,29 @@ To be continued...
 
 [18] **Jie Ling**, Tingting Ye, Zhao Feng, Yuchuan Zhu, Yangmin Li, Xiaohui Xiao. [A survey on synthesis of compliant constant force/torque mechanisms](https://www.sciencedirect.com/science/article/abs/pii/S0094114X22002257). 2022, **176**: 104970. **_Mechanism and Machine Theory_**. 
 
-[17] Long Chen, Yuchuan Zhu*, **Jie Ling***, Mingming Zhang. [Development and characteristic investigation of a multi-dimensional discrete magnetostrictive actuator](https://ieeexplore.ieee.org/abstract/document/9778278). **_IEEE/ASME Transactions on Mechatronics_**. 2022, **27**(4): 2071-2079.
+[17] Long Chen, Yuchuan Zhu*, **Jie Ling**, Mingming Zhang. [Development and characteristic investigation of a multi-dimensional discrete magnetostrictive actuator](https://ieeexplore.ieee.org/abstract/document/9778278). **_IEEE/ASME Transactions on Mechatronics_**. 2022, **27**(4): 2071-2079.
 
-[16] Long Chen, Yuchuan Zhu*, **Jie Ling*** and Zhao Feng. [Theoretical modeling and experimental evaluation of amagnetostrictive actuator with radial-nested stacked configuration](https://link.springer.com/article/10.1007/s11071-022-07494-4). **_Nonlinear Dynamics_**. 2022, **109**: 1277-1293. 
+[16] Long Chen, Yuchuan Zhu*, **Jie Ling** and Zhao Feng. [Theoretical modeling and experimental evaluation of amagnetostrictive actuator with radial-nested stacked configuration](https://link.springer.com/article/10.1007/s11071-022-07494-4). **_Nonlinear Dynamics_**. 2022, **109**: 1277-1293. 
 
 [15] Zhao Feng, Min Ming, **Jie Ling***, Xiaohui Xiao, Zhixin Yang, and Feng Wan*. [Fractional delay filter based repetitive control for precision tracking: design and application to a piezoelectric nanopositioning stage](https://www.sciencedirect.com/science/article/abs/pii/S088832702100618X). **_Mechanical Systems and Signal Processing_**. 2022. **164**: 108249. 
 
-[14] Long Chen, Yuchuan Zhu*, **Jie Ling*** and Zhao Feng. [Development and test of a two-dimensional stacked terfenol-d actuator with high bandwidth and large stroke](https://ieeexplore.ieee.org/abstract/document/9431718/). **_IEEE/ASME Transactions on Mechatronics_**. 2021. **26**(4), 1951-1959. 
+[14] Long Chen, Yuchuan Zhu*, **Jie Ling** and Zhao Feng. [Development and test of a two-dimensional stacked terfenol-d actuator with high bandwidth and large stroke](https://ieeexplore.ieee.org/abstract/document/9431718/). **_IEEE/ASME Transactions on Mechatronics_**. 2021. **26**(4), 1951-1959. 
 
-[13] Cancheng Qiu, **Jie Ling***, Yangkun Zhang, Min Ming, Zhao Feng and Xiaohui Xiao. [A novel cooperative compensation method to compensate for return stroke of stick-slip piezoelectric actuators](https://www.sciencedirect.com/science/article/abs/pii/S0094114X21000124). **_Mechanism and Machine Theory_**. 2021, **159**: 104254. 
+[13] Cancheng Qiu, **Jie Ling**, Yangkun Zhang, Min Ming, Zhao Feng and Xiaohui Xiao. [A novel cooperative compensation method to compensate for return stroke of stick-slip piezoelectric actuators](https://www.sciencedirect.com/science/article/abs/pii/S0094114X21000124). **_Mechanism and Machine Theory_**. 2021, **159**: 104254. 
 
-[12] **Jie Ling***, Zhao Feng, Dongdong Zheng, Jun Yang, Haoyong Yu*, and Xiaohui Xiao. [Robust adaptive motion tracking of piezoelectric actuated stages using online neural-network-based sliding mode control](https://www.sciencedirect.com/science/article/abs/pii/S088832702030621X). **_Mechanical Systems and Signal Processing_**. 2020. **150**: 107235. 
+[12] **Jie Ling**, Zhao Feng, Dongdong Zheng, Jun Yang, Haoyong Yu*, and Xiaohui Xiao. [Robust adaptive motion tracking of piezoelectric actuated stages using online neural-network-based sliding mode control](https://www.sciencedirect.com/science/article/abs/pii/S088832702030621X). **_Mechanical Systems and Signal Processing_**. 2020. **150**: 107235. 
 
-[11] Yingting Ye, **Jie Ling***, Xi Kang, Zhao Feng, and Xiaohui Xiao. [A novel two-stage constant force compliant microgripper](https://asmedigitalcollection.asme.org/mechanicaldesign/article-abstract/143/5/053302/1086524/A-Novel-Two-Stage-Constant-Force-Compliant). **_Journal of Mechanical Design_**. 2021. **143**(5), 053302. 
+[11] Yingting Ye, **Jie Ling**, Xi Kang, Zhao Feng, and Xiaohui Xiao. [A novel two-stage constant force compliant microgripper](https://asmedigitalcollection.asme.org/mechanicaldesign/article-abstract/143/5/053302/1086524/A-Novel-Two-Stage-Constant-Force-Compliant). **_Journal of Mechanical Design_**. 2021. **143**(5), 053302. 
 
 [10] **Jie Ling**, Zhao Feng, Xi Kang, and Xiaohui Xiao*. [Bandwidth enhancement in damping control for piezoelectric nanopositioning stages with load uncertainty: Design and implementation](https://journals.sagepub.com/doi/abs/10.1177/1077546320941705). **_Journal of Vibration and Control_**. 2021. **27**(11-12):1382-1394. 
 
-[9] Zhao Feng, **Jie Ling***, Min Ming, Wenyu Liang, Kok Kiong Tan and Xiaohui Xiao*. [Signal-transformation-based repetitive control of spiral trajectory for piezoelectric nanopositioning stages](https://ieeexplore.ieee.org/abstract/document/9042220). **_IEEE/ASME Transactions on Mechatronics_**. 2020. **25**(3): 1634-1645. 
+[9] Zhao Feng, **Jie Ling**, Min Ming, Wenyu Liang, Kok Kiong Tan and Xiaohui Xiao*. [Signal-transformation-based repetitive control of spiral trajectory for piezoelectric nanopositioning stages](https://ieeexplore.ieee.org/abstract/document/9042220). **_IEEE/ASME Transactions on Mechatronics_**. 2020. **25**(3): 1634-1645. 
 
 [8] **Jie Ling**, Zhao Feng, Min Ming, Zhao Guo, and Xiaohui Xiao*. [Signal transformed internal model control for non-raster scanning of piezo-actuated nanopositioning stages](https://link.springer.com/article/10.1007/s12555-019-0064-y). **_International Journal of Control, Automation and Systems_**. 2020. **18**(8): 1915–1925. 
 
 [7] **Jie Ling**, Micky Rakotondrabe, Zhao Feng, Min Ming and Xiaohui Xiao. [A robust resonant controller for high-speed scanning of nanopositioners: Design and implementation](https://ieeexplore.ieee.org/abstract/document/8658162/). **_IEEE Transactions on Control Systems Technology_**. 2020, **28**(3): 1116-1123.
 
-[6] Zhao Guo, Jiantao Sun, **Jie Ling***, Yongping Pan*, Tairen Sun, and Xiaohui Xiao, [Robust trajectory tracking control for variable stiffness actuators with model perturbations](https://www.frontiersin.org/articles/10.3389/fnbot.2019.00035/full). **_Frontiers in Neurorobotics_**. 2019. **13**: 35. doi: 10.3389/fnbot.2019.00035. 
+[6] Zhao Guo, Jiantao Sun, **Jie Ling**, Yongping Pan*, Tairen Sun, and Xiaohui Xiao, [Robust trajectory tracking control for variable stiffness actuators with model perturbations](https://www.frontiersin.org/articles/10.3389/fnbot.2019.00035/full). **_Frontiers in Neurorobotics_**. 2019. **13**: 35. doi: 10.3389/fnbot.2019.00035. 
 
 [5] **Jie Ling**, Zhao Feng, Min Ming, and Xiaohui Xiao*. [Model reference adaptive damping control for a nanopositioning stage with load uncertainties](https://aip.scitation.org/doi/abs/10.1063/1.5064722). **_Review of Scientific Instruments_**. 2019, **90**(4): 045101. 
 
