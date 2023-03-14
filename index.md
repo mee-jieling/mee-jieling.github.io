@@ -130,11 +130,11 @@ To be continued...
 
 ### Conference Papers
 
-[17] Yuzhou Duan, Yunzhi Zhang, Yayi Shen, **Jie Ling***, and Yuchuan Zhu. Design of a surgery robot with a three-rhombus configured remote center of motion. _37th Youth Academic Annual Conference of Chinese Association of Automation (YAC)_. May 27-29, Beijing, China, 2022.
+[17] Yuzhou Duan, Yunzhi Zhang, Yayi Shen, **Jie Ling**, and Yuchuan Zhu. Design of a surgery robot with a three-rhombus configured remote center of motion. _37th Youth Academic Annual Conference of Chinese Association of Automation (YAC)_. May 27-29, Beijing, China, 2022.
 
-[16] Yuzhou Duan, Yunzhi Zhang, **Jie Ling***, Zhao Feng, and Yuchuan Zhu. A hub-type compliant piezo drill for cell microinjection. _7th IEEE International Conference on Advanced Robotics and Mechatronics (ARM’22)_. July 9-11, Guilin, China, 2022. 
+[16] Yuzhou Duan, Yunzhi Zhang, **Jie Ling**, Zhao Feng, and Yuchuan Zhu. A hub-type compliant piezo drill for cell microinjection. _7th IEEE International Conference on Advanced Robotics and Mechatronics (ARM’22)_. July 9-11, Guilin, China, 2022. 
 
-[15] Zhao Feng, **Jie Ling***, Yayi Shen. Integral terminal sliding mode based repetitive control for periodic motion tracking. _IEEE 11th Data Driven Control and Learning Systems Conference (DDCLS’22)_. May 13-15, Emeishan, China, 2022. 
+[15] Zhao Feng, **Jie Ling**, Yayi Shen. Integral terminal sliding mode based repetitive control for periodic motion tracking. _IEEE 11th Data Driven Control and Learning Systems Conference (DDCLS’22)_. May 13-15, Emeishan, China, 2022. 
 
 [14] Dongdong Zheng, **Jie Ling**, Xuemei Ren*. Closed-loop distributed data-driven modeling and control for islanded microgrids. _The 33rd Chinese Control and Decision Conference (CCDC 2021)_. May 22-24, Kunming, China, 2021. (Poster)
 
@@ -142,7 +142,7 @@ To be continued...
 
 [12] Min Ming, Wenyu Liang, **Jie Ling**, Zhao Feng, Abdullah Al Mamun, and Xiaohui Xiao*. [Composite integral sliding mode control with neural network based friction compensation for a piezoelectric ultrasonic motor](https://ieeexplore.ieee.org/abstract/document/9255085). _The 46th Annual Conference of the IEEE Industrial Electronics Society (IECON 2020)_. Oct 18-21, Singapore, 2020. 
 
-[11] Yingting Ye, **Jie Ling***, Tianhang Yao, and Xiaohui Xiao. [Design of a 2-DOF Constant Force Compliant Microgripper for Optical Switch Assembly](https://ieeexplore.ieee.org/abstract/document/9255396/). _The 46th Annual Conference of the IEEE Industrial Electronics Society (IECON 2020)_. Oct 18-21, Singapore, 2020.
+[11] Yingting Ye, **Jie Ling**, Tianhang Yao, and Xiaohui Xiao. [Design of a 2-DOF Constant Force Compliant Microgripper for Optical Switch Assembly](https://ieeexplore.ieee.org/abstract/document/9255396/). _The 46th Annual Conference of the IEEE Industrial Electronics Society (IECON 2020)_. Oct 18-21, Singapore, 2020.
 
 [10] **Jie Ling**, Tingting Ye, Zhao Feng, Min Ming, and Xiaohui Xiao*. [Damping controller design for triangular scanning of a third-order nanopositioning stage](https://ieeexplore.ieee.org/abstract/document/8971563). _International Conference on Control, Automation and Systems (ICCAS 2019)_. Oct 15-18, ICC Jeju, Korea, 2019. 
 
