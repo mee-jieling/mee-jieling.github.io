@@ -85,7 +85,7 @@ To be continued...
 
 [2] **Jie Ling**, Zhao Feng, Daojin Yao, and Xiaohui Xiao. [Precision contour tracking using feedback-feedforward integrated control for a 2-DOF manipulation system](https://www.actapress.com/Abstract.aspx?paperId=45793). **_International Journal of Robotics & Automation_**. 2018, **33**(3):  276-283. 
 
-[1] **凌杰**, 明敏, 冯朝, 肖晓晖. [多轴运动系统非线性轮廓重复跟踪的主从交叉耦合迭代学习控制](http://www.aas.net.cn/fileZDHXB/journal/article/zdhxb/2017/12/PDF/zdhxb-43-12-2127.pdf). **_自动化学报_**. 2017, **43**(12): 2127-2140.
+[1] **凌杰**, 明敏, 冯朝, 肖晓晖. [多轴运动系统非线性轮廓重复跟踪的主从交叉耦合迭代学习控制](http://www.aas.net.cn/fileZDHXB/journal/article/zdhxb/2017/12/PDF/zdhxb-43-12-2127.pdf). **自动化学报**. 2017, **43**(12): 2127-2140.
 
 ### Journal Papers _(Co-author)_
 
@@ -93,9 +93,9 @@ To be continued...
 
 [18] Lingkang Meng, Yuchuan Zhu, **Jie Ling**, Jianjun Ding, Zhichuang Chen, and Xiaoming Chen. [Research on mathematical modeling of the servo valve torque motor considering the variation of working air-gaps leakage flux](https://journals.sagepub.com/doi/abs/10.1177/09544062211064971). **_Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science_**, 2022. **236**(11): 09544062211064971.
 
-[17] 陈晓明，朱玉川，**凌杰**，郑述峰，王玉文. 旋转惯性液压变换器的能效特性研究. **_北京航空航天大学学报_**.
+[17] 陈晓明，朱玉川，**凌杰**，郑述峰，王玉文. 旋转惯性液压变换器的能效特性研究. **北京航空航天大学学报**.
 
-[16] 郑述峰，朱玉川，**凌杰**，刘昶，林文. 轴向双压电叠堆执行器并联控制实验研究. **_北京航空航天大学学报_**. 
+[16] 郑述峰，朱玉川，**凌杰**，刘昶，林文. 轴向双压电叠堆执行器并联控制实验研究. **北京航空航天大学学报**. 
 
 [15] Xiaoming Chen, Yuchuan Zhu, Travis Wiens, Doug Bitner, **Jie Ling**. [Characteristic investigation of a flow-dependent inertia hydraulic converter driven by an equivalent fast switching valve](https://journals.sagepub.com/doi/abs/10.1177/09544062211038983). **_Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science_**, 2022. **236**(7): 3354-3374. 
 
@@ -117,7 +117,7 @@ To be continued...
 
 [6] Zhao Feng, **Jie Ling**, Min Ming, and Xiaohui Xiao*. [A model-data integrated iterative learning controller for flexible tracking with application to a piezo nanopositioner](https://journals.sagepub.com/doi/abs/10.1177/0142331217719958). **_Transactions of the Institute of Measurement and Control_**. 2018, **40**(10):3201-3210. 
 
-[5] 冯朝,**凌杰**,明敏,肖晓晖*. [融合迭代学习与干扰观测器的压电微动平台精密运动控制](http://www.cqvip.com/qk/90986x/20186/74818282504849564854484855.html). **_机器人_**. 2018, **40**(6): 825-834. 
+[5] 冯朝,**凌杰**,明敏,肖晓晖*. [融合迭代学习与干扰观测器的压电微动平台精密运动控制](http://www.cqvip.com/qk/90986x/20186/74818282504849564854484855.html). **机器人**. 2018, **40**(6): 825-834. 
 
 [4] Min Ming, Zhao Feng, **Jie Ling**, and Xiaohui Xiao*. [Hysteresis modeling and feedforward compensation of piezoelectric nanopositioning stage with a modified Bouc-Wen model](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/mnl.2017.0793). **_Micro & Nano Letters_**. 2018, **13**(8): 1170-1174. 
 
