@@ -89,15 +89,15 @@ To be continued...
 
 ### Journal Papers _(Co-author)_
 
-[19] Zhao Feng, Wenyu Liang, **Jie Ling**, Xiaohui Xiao, Kok Kiong Tan, and Tong Heng Lee. [Precision force tracking control of a surgical device interacting with a deformable object](https://ieeexplore.ieee.org/abstract/document/9794483). **_IEEE/ASME Transactions on Mechatronics_**. (Early Access)
+[19] Zhao Feng, Wenyu Liang, **Jie Ling**, Xiaohui Xiao, Kok Kiong Tan, and Tong Heng Lee. [Precision force tracking control of a surgical device interacting with a deformable object](https://ieeexplore.ieee.org/abstract/document/9794483). **_IEEE/ASME Transactions on Mechatronics_**. 2022. **27**(6): 5327-5338.
 
-[18] Lingkang Meng, Yuchuan Zhu, **Jie Ling**, Jianjun Ding, Zhichuang Chen, and Xiaoming Chen. [Research on mathematical modeling of the servo valve torque motor considering the variation of working air-gaps leakage flux](https://journals.sagepub.com/doi/abs/10.1177/09544062211064971). **_Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science_**, 2022. 
+[18] Lingkang Meng, Yuchuan Zhu, **Jie Ling**, Jianjun Ding, Zhichuang Chen, and Xiaoming Chen. [Research on mathematical modeling of the servo valve torque motor considering the variation of working air-gaps leakage flux](https://journals.sagepub.com/doi/abs/10.1177/09544062211064971). **_Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science_**, 2022. **236**(11): 09544062211064971.
 
 [17] 陈晓明，朱玉川，**凌杰**，郑述峰，王玉文. 旋转惯性液压变换器的能效特性研究. **_北京航空航天大学学报_**.
 
 [16] 郑述峰，朱玉川，**凌杰**，刘昶，林文. 轴向双压电叠堆执行器并联控制实验研究. **_北京航空航天大学学报_**. 
 
-[15] Xiaoming Chen, Yuchuan Zhu, Travis Wiens, Doug Bitner, **Jie Ling**. [Characteristic investigation of a flow-dependent inertia hydraulic converter driven by an equivalent fast switching valve](https://journals.sagepub.com/doi/abs/10.1177/09544062211038983). **_Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science_**, 2022.
+[15] Xiaoming Chen, Yuchuan Zhu, Travis Wiens, Doug Bitner, **Jie Ling**. [Characteristic investigation of a flow-dependent inertia hydraulic converter driven by an equivalent fast switching valve](https://journals.sagepub.com/doi/abs/10.1177/09544062211038983). **_Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science_**, 2022. **236**(7): 3354-3374. 
 
 [14] Zhao Feng, Wenyu Liang*, **Jie Ling**, Xiaohui Xiao*, Kok Kiong Tan, and Tong Heng Lee. [Adaptive robust impedance control for an ear surgical device with soft interaction](https://ieeexplore.ieee.org/abstract/document/9447937/). **_IEEE/ASME Transactions on Mechatronics_**. 2022, **27**(3): 1784-1795. 
 
