@@ -34,9 +34,9 @@ Precision motion control; Piezoelectric actuator; Compliant mechanisms.
 ## Teaching
 ### Undergraduate Courses
 
-**气压与液压传动** | Hydraulic and Pneumatic Transmission
+**气压与液压传动** / Hydraulic and Pneumatic Transmission
 
-**可编程控制器** | Programmable Logic Controller
+**可编程控制器** / Programmable Logic Controller
 
 ### Master's and Doctoral Courses
 To be continued...
@@ -172,13 +172,13 @@ Xiaohui Xiao, **Jie Ling**, Zhao Feng. High-speed Scanning Motion Control of Pie
 ## Associates
 
 ### PhD Students
-**段榆洲** | Yuzhou Duan, Spet-2022, co-supervised with Prof. Yuchuan Zhu
+**段榆洲** / Yuzhou Duan, Spet-2022, co-supervised with Prof. Yuchuan Zhu
 
 ### Master Students
-**张国栋** | Guodong Zhang, Spet-2023
+**张国栋** / Guodong Zhang, Spet-2023
 
 
-**彭洪涛** | Hongtao Peng, Spet-2022
+**彭洪涛** / Hongtao Peng, Spet-2022
 
 
-**张允执** | Yunzhi Zhang, Spet-2022
+**张允执** / Yunzhi Zhang, Spet-2022
