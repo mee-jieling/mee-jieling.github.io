@@ -99,13 +99,13 @@ To be continued...
 
 [15] Xiaoming Chen, Yuchuan Zhu, Travis Wiens, Doug Bitner, **Jie Ling**. [Characteristic investigation of a flow-dependent inertia hydraulic converter driven by an equivalent fast switching valve](https://journals.sagepub.com/doi/abs/10.1177/09544062211038983). **_Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science_**, 2022. **236**(7): 3354-3374. 
 
-[14] Zhao Feng, Wenyu Liang*, **Jie Ling**, Xiaohui Xiao*, Kok Kiong Tan, and Tong Heng Lee. [Adaptive robust impedance control for an ear surgical device with soft interaction](https://ieeexplore.ieee.org/abstract/document/9447937/). **_IEEE/ASME Transactions on Mechatronics_**. 2022, **27**(3): 1784-1795. 
+[14] Zhao Feng, Wenyu Liang, **Jie Ling**, Xiaohui Xiao*, Kok Kiong Tan, and Tong Heng Lee. [Adaptive robust impedance control for an ear surgical device with soft interaction](https://ieeexplore.ieee.org/abstract/document/9447937/). **_IEEE/ASME Transactions on Mechatronics_**. 2022, **27**(3): 1784-1795. 
 
 [13] Min Ming, Wenyu Liang, Zhao Feng, **Jie Ling**, Abdullah Al Mamun, and Xiaohui Xiao*. [PID-type sliding mode-based adaptive motion control of a 2-dof piezoelectric ultrasonic motor driven stage](https://www.sciencedirect.com/science/article/abs/pii/S0957415821000428). **_Mechatronics_**. 2021. **76**:102543. 
 
 [12] Like Cao, **Jie Ling**, Xiaohui Xiao. [Study on the influence of image noise on monocular feature-based visual SLAM based on FFDNet](https://www.mdpi.com/1424-8220/20/17/4922). **_Sensors_**. 2020. **20**: 4922. 
 
-[11] Zhao Feng, Wenyu Liang*, **Jie Ling**, Xiaohui Xiao*, Kok Kiong Tan, and Tong Heng Lee. [Integral terminal sliding-mode-based adaptive integral backstepping control for precision motion of a piezoelectric ultrasonic motor](https://www.sciencedirect.com/science/article/abs/pii/S0888327020302429), **_Mechanical Systems and Signal Processing_**. 2020. **144**: 106856. 
+[11] Zhao Feng, Wenyu Liang, **Jie Ling**, Xiaohui Xiao*, Kok Kiong Tan, and Tong Heng Lee. [Integral terminal sliding-mode-based adaptive integral backstepping control for precision motion of a piezoelectric ultrasonic motor](https://www.sciencedirect.com/science/article/abs/pii/S0888327020302429), **_Mechanical Systems and Signal Processing_**. 2020. **144**: 106856. 
 
 [10] Like Cao, **Jie Ling**, and Xiaohui Xiao*. [The WHU rolling shutter visual-inertial dataset](https://ieeexplore.ieee.org/abstract/document/9027901). **_IEEE Access_**. 2020. **8**(1): 50771-50779. 
 
