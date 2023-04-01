@@ -34,7 +34,7 @@ Precision motion control; Piezoelectric actuator; Compliant mechanisms.
 ## Teaching
 ### Undergraduate Courses
 
-**气压与液压传动** / Hydraulic and Pneumatic Transmission
+**液压与气压传动** / Hydraulic and Pneumatic Transmission
 
 **可编程控制器** / Programmable Logic Controller
 
