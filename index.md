@@ -17,7 +17,7 @@
 
 ## BIO
 
-<b>Jie Ling</b> received his B.S. and Ph.D. degrees in Mechanical Engineering from School of Power and Mechanical Engineering, Wuhan University, China, in 2012 and 2018, respectively. From Aug. 2017 to Nov. 2017, he was a visiting Ph.D. student with Department of Automatic Control and Micro-Mechatronic Systems, FEMTO-st Institute, France. From Jan. 2019 to Jan. 2020, he was a Postdoctoral Research Fellow with Department of Biomedical Engineering, National University of Singapore, Singapore. Since Aug. 2020, he has been an Associate Professor with College of Mechanical and Electrical Engineering, Nanjing University of Aeronautics and Astronautics, Nanjing, China. Dr. Ling’s research interests include mechanical design and precision motion control of piezoelectric nanopositioning systems and micromanipulation robots.
+I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power and Mechanical Engineering, Wuhan University, China, in 2012 and 2018, respectively. In 2017, I was a visiting Ph.D. student at the Department of Automatic Control and Micro-Mechatronic Systems, FEMTO-ST Institute, France. From 2019 to 2020, I served as a Postdoctoral Research Fellow at the Department of Biomedical Engineering, National University of Singapore. Since August 2020, I have been an Associate Professor at the College of Mechanical and Electrical Engineering, Nanjing University of Aeronautics and Astronautics, China. My research interests include the mechanical design and precision motion control of piezoelectric nanopositioning systems and medical robots.
 
 [ResearchGate](https://www.researchgate.net/profile/Jie-Ling-5)
 
@@ -29,7 +29,7 @@
 
 ## Research
 
-Precision motion control; Piezoelectric actuator; Compliant mechanisms.
+Smart material-based actuators, Precision motion control; Medical robots.
 
 ## Teaching
 ### Undergraduate Courses
