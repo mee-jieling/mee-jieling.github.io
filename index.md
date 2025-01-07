@@ -1,4 +1,4 @@
-## Welcome to Jie LING's Home Page
+## Jie LING's Home Page
 
 <table border="0">
   <tr>
