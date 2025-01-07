@@ -226,17 +226,16 @@ Xiaohui Xiao, **Jie Ling**, Zhao Feng. High-speed Scanning Motion Control of Pie
 **段榆洲** / Yuzhou Duan, Spet-2022, co-supervised with Prof. Yuchuan Zhu / [ResearchGate](https://www.researchgate.net/profile/Yuzhou-Duan)
 
 ### Master Students
-**玉作庆** / Zuoqing Yu, Spet-2024 ||
-**谢从安** / Congan Xie, Spet-2024 ||
-**周鹏飞** / Pengfei Zhou, Spet-2024 ||
-**简  洁** / Mandakini, Spet-2024 ||
-**李  钊** / Zhao Li, Spet-2024 ||
+**玉作庆** / Zuoqing Yu, Spet-2024 |
+**谢从安** / Congan Xie, Spet-2024 |
+**周鹏飞** / Pengfei Zhou, Spet-2024 |
+**简  洁** / Mandakini, Spet-2024 |
+**李  钊** / Zhao Li, Spet-2024 |
 
+**杨琦哲** / Qizhe Yang, Spet-2023 |
+**赵瑞峰** / Ruifeng Zhao, Spet-2023 |
+**张国栋** / Guodong Zhang, Spet-2023 |
+**李  钊** / Zhao Li, Spet-2024 |
 
-**杨琦哲** / Qizhe Yang, Spet-2023 ||
-**赵瑞峰** / Ruifeng Zhao, Spet-2023 ||
-**张国栋** / Guodong Zhang, Spet-2023 ||
-
-
-**彭洪涛** / Hongtao Peng, Spet-2022 ||
+**彭洪涛** / Hongtao Peng, Spet-2022 |
 **张允执** / Yunzhi Zhang, Spet-2022 / [ResearchGate](https://www.researchgate.net/profile/Yunzhi-Zhang-12)
