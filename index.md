@@ -46,29 +46,39 @@ Precision motion control; Piezoelectric actuator; Compliant mechanisms.
 
 ### Journal Papers
 
-彭洪涛，**凌杰***，朱玉川，李成刚. 基于J-A模型的压电双晶片执行器非线性建模及验证. **压电与声光**. 2024.
+[57] 彭洪涛，**凌杰***，朱玉川，李成刚. 基于J-A模型的压电双晶片执行器非线性建模及验证. **压电与声光**. 2024.
 
-Yunzhi Zhang, **Jie Ling***, and Yuchuan Zhu. [Development and fault-tolerant control of a distributed piezoelectric stack actuator](https://iopscience.iop.org/article/10.1088/1361-665X/ad669e/meta). **_Smart Materials and Structures_**. 2024, **33**(9): 095003.
+[56] Yunzhi Zhang, **Jie Ling***, and Yuchuan Zhu. [Development and fault-tolerant control of a distributed piezoelectric stack actuator](https://iopscience.iop.org/article/10.1088/1361-665X/ad669e/meta). **_Smart Materials and Structures_**. 2024, **33**(9): 095003.
 
-Yuzhou Duan, **Jie Ling***, and Yuchuan Zhu*. [Modeling and admittance control of a piezoactuated needle insertion device for safe puncture of spinal membranes](https://asmedigitalcollection.asme.org/medicaldevices/article/18/3/034501/1201723). **_Journal of Medical Devices_**. 2024, **18**(3): 034501. 
+[55] Yuzhou Duan, **Jie Ling***, and Yuchuan Zhu*. [Modeling and admittance control of a piezoactuated needle insertion device for safe puncture of spinal membranes](https://asmedigitalcollection.asme.org/medicaldevices/article/18/3/034501/1201723). **_Journal of Medical Devices_**. 2024, **18**(3): 034501. 
 
-Yuzhou Duan, **Jie Ling***, Zhao Feng, Tingting Ye, Tairen Sun, and Yuchuan Zhu. [A survey of needle steering approaches in minimally invasive surgery](https://link.springer.com/article/10.1007/s10439-024-03494-0). **_Annals of Biomedical Engineering_**. 2024, **52**: 1492–1517.
+[54] Yuzhou Duan, **Jie Ling***, Zhao Feng, Tingting Ye, Tairen Sun, and Yuchuan Zhu. [A survey of needle steering approaches in minimally invasive surgery](https://link.springer.com/article/10.1007/s10439-024-03494-0). **_Annals of Biomedical Engineering_**. 2024, **52**: 1492–1517.
 
-Yuzhou Duan, **Jie Ling***, Zhao Feng, Daojin Yao, Yuchuan Zhu. [Development of a base-actuated three-rhombus configured remote center of motion mechanism for lumbar puncture](https://asmedigitalcollection.asme.org/mechanismsrobotics/article/16/5/054503/1164054). **_Journal of Mechanisms and Robotics_**. 2024. **16**(5): 054503.
+[53] Yuzhou Duan, **Jie Ling***, Zhao Feng, Daojin Yao, Yuchuan Zhu. [Development of a base-actuated three-rhombus configured remote center of motion mechanism for lumbar puncture](https://asmedigitalcollection.asme.org/mechanismsrobotics/article/16/5/054503/1164054). **_Journal of Mechanisms and Robotics_**. 2024. **16**(5): 054503.
 
-[42]  **Jie Ling***, Hongtao Peng, Yuzhou Duan, and Micky Rakotondrabe. [Reducing backward motion of stick-slip piezoelectric actuators using dual driving feet designed by asymmetric stiffness principle](https://www.sciencedirect.com/science/article/pii/S0094114X24002374). **_Mechanism and Machine Theory_**. 2024, **203**:105810.
+[52]  **Jie Ling***, Hongtao Peng, Yuzhou Duan, and Micky Rakotondrabe. [Reducing backward motion of stick-slip piezoelectric actuators using dual driving feet designed by asymmetric stiffness principle](https://www.sciencedirect.com/science/article/pii/S0094114X24002374). **_Mechanism and Machine Theory_**. 2024, **203**:105810.
 
-[41] **凌杰***，张允执，陈龙，朱玉川．数字压电叠堆执行器：原理、建模与控制．**中国机械工程**. https://link.cnki.net/urlid/42.1294.TH.20240531.1807.002.
+[51] **凌杰***，张允执，陈龙，朱玉川．数字压电叠堆执行器：原理、建模与控制．**中国机械工程**. https://link.cnki.net/urlid/42.1294.TH.20240531.1807.002.
 
-王玉文，朱玉川，**凌杰**，陈晓明，张洺铭. 滑阀式压电高速开关阀特性研究. 航空动力学报. 2024. 39 (11): 20220426.
+[50] Tingting Ye, Zhao Feng, **Jie Ling**, Yangmin Li. [A novel W-shaped flexure-guided mechanism for high-frequency piezo-actuated micromanipulations](https://ieeexplore.ieee.org/abstract/document/10734177). **_IEEE/ASME Transactions on Mechatronics_**. 2024.
 
-Yitong Li, Tingting Ye, **Jie Ling**, Xiaohui Xiao, and Zhao Feng*. [A novel F-shaped linear guiding mechanism based compliant positioning stage with restricted parasitic motion](). **_Precision Engineering_**. 2024. **88**:674-685.
+[49] Dongdong Zheng, Yangkun Zhang, **Jie Ling**, Haoyong Yu, and Xuemei Ren. Composite learning based adaptive terminal sliding mode control for nonlinear systems with experimental validation. **_IEEE Transactions on Industrial Electronics_**. 2024.
 
-Mingming Zhang, Yuchuan Zhu, Shenghong Ge, and **Jie Ling**. [Development of a large flow electro-hydrostatic actuator equipped with four magnetostrictive-actuated pumps](). **_Review of Scientific Instruments_**. 2024. **95**(1): 95, 015005.
+[48] Xiaoming Chen, Yuchuan Zhu, **Jie Ling**, and Mingming Zhang. [Characteristic investigation of digital control four quadrant electro-hydrostatic actuator with separated hydraulic motor](https://pubs.aip.org/aip/rsi/article-abstract/95/9/095002/3311771/Characteristic-investigation-of-digital-control?redirectedFrom=fulltext). **_Review of Scientific Instruments_**. 2024.**95**:095002.
 
-Zhicheng Song, Linkang Wang, **Jie Ling**, Lingyu Wang, Jinjun Duan, Yaoyao Wang, and Bai Chen. [Time-delay control scheme with adaptive fixed-time convergent super-twisting fractional-order nonsingular terminal sliding mode for piezoelectric displacement amplifier](). **_ISA Transactions_**. 2024. **146**:99-113.
+[47] Mingming Zhang, Yuchuan Zhu, Linfei Li, and **Jie Ling**. [Dynamic modeling of a cantilever reed valve considering squeeze flow with experimental validation](https://pubs.aip.org/aip/pof/article-abstract/36/6/067131/3299243/Dynamic-modeling-of-a-cantilever-reed-valve?redirectedFrom=fulltext). **_Physics of Fluids_**. 2024. **36**(6): 067131.
 
-Long Chen, Yuchuan Zhu, **Jie Ling**, and Mingming Zhang. [Temperature dependence modeling and experimental evaluation of a multidimensional discrete magnetostrictive actuator](). **_Applied Thermal Engineering_**. 2023. **230**(Part B): 120736. 
+[46] Yanwen Wang, Yuchuan Zhu, Long Chen, **Jie Ling**, and Mingming Zhang. [Development and testing of a discrete coil magnetostrictive actuator](https://iopscience.iop.org/article/10.1088/1361-665X/ad6382/meta). **_Smart Materials and Structures_**. 2024, **33**(9): 095001.
+
+[45] 王玉文，朱玉川，**凌杰**，陈晓明，张洺铭. [滑阀式压电高速开关阀特性研究](http://www.jasp.com.cn/hkdlxb/article/doi/10.13224/j.cnki.jasp.20220426). **航空动力学报**. 2024. **39**(11): 20220426.
+
+[44] Yitong Li, Tingting Ye, **Jie Ling**, Xiaohui Xiao, and Zhao Feng*. [A novel F-shaped linear guiding mechanism based compliant positioning stage with restricted parasitic motion](https://www.sciencedirect.com/science/article/pii/S0141635924000783). **_Precision Engineering_**. 2024. **88**:674-685.
+
+[43] Mingming Zhang, Yuchuan Zhu, Shenghong Ge, and **Jie Ling**. [Development of a large flow electro-hydrostatic actuator equipped with four magnetostrictive-actuated pumps](https://pubs.aip.org/aip/rsi/article-abstract/95/1/015005/3104345/Development-of-a-large-flow-electro-hydrostatic?redirectedFrom=fulltext). **_Review of Scientific Instruments_**. 2024. **95**(1): 95, 015005.
+
+[42] Zhicheng Song, Linkang Wang, **Jie Ling**, Lingyu Wang, Jinjun Duan, Yaoyao Wang, and Bai Chen. [Time-delay control scheme with adaptive fixed-time convergent super-twisting fractional-order nonsingular terminal sliding mode for piezoelectric displacement amplifier](https://www.sciencedirect.com/science/article/pii/S0019057823005645). **_ISA Transactions_**. 2024. **146**:99-113.
+
+[41] Long Chen, Yuchuan Zhu, **Jie Ling**, and Mingming Zhang. [Temperature dependence modeling and experimental evaluation of a multidimensional discrete magnetostrictive actuator](https://www.sciencedirect.com/science/article/pii/S1359431123007652). **_Applied Thermal Engineering_**. 2023. **230**(Part B): 120736. 
 
 [40] **Jie Ling**, Zhao Feng, Long Chen, Yuchuan Zhu, Yongping Pan. [Neural network-based iterative learning control of a piezo-driven nanopositioning stage](https://www.sciencedirect.com/science/article/abs/pii/S0141635923000338). **_Precision Engineering_**. 2023, **81**:112-123. 
 
