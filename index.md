@@ -163,11 +163,29 @@ Precision motion control; Piezoelectric actuator; Compliant mechanisms.
 
 ### Conference Papers
 
-[17] Yuzhou Duan, Yunzhi Zhang, Yayi Shen, **Jie Ling**, and Yuchuan Zhu. Design of a surgery robot with a three-rhombus configured remote center of motion. _37th Youth Academic Annual Conference of Chinese Association of Automation (YAC)_. May 27-29, Beijing, China, 2022.
+[26] Zuoqing Yu, Yuzhou Duan, Lei Zhang, and **Jie Ling***. A patient-mounted spherical scissor-like remote center of motion mechanism for robotic-assisted lumbar puncture. _17th International Conference on Intelligent Robotics and Applications (ICIRA 2024)_. 31st Jul.~ 2nd Aug, Xi’an, China, 2024.
+ 
+[25] Yunzhi Zhang, Micky Rakotondrabe, Zhao Feng, Yuchuan Zhu, and **Jie Ling***. [Position servo control strategy for a hydraulic valve-controlled cylinder with a digital piezo-actuator.](https://ieeexplore.ieee.org/abstract/document/10644875) _The American Control Conference (ACC 2024)_. July 8-12, Toronto, Canada. 2024.
 
-[16] Yuzhou Duan, Yunzhi Zhang, **Jie Ling**, Zhao Feng, and Yuchuan Zhu. A hub-type compliant piezo drill for cell microinjection. _7th IEEE International Conference on Advanced Robotics and Mechatronics (ARM’22)_. July 9-11, Guilin, China, 2022. 
+[24] Wenbo Jia, Zijia Zhao, Wenzhuo Huang, Yangyang Li, **Jie Ling**, Bai Chen, Yayi Shen*. [Snake-inspired swarm robot design for distributed underwater search and rescue.](https://ieeexplore.ieee.org/abstract/document/10354836) _The 2023 IEEE International Conference on Robotics and Biomimetics (IEEE ROBIO 2023)_. Dec. 4-9, Samui, Thailand. 2023.
 
-[15] Zhao Feng, **Jie Ling**, Yayi Shen. Integral terminal sliding mode based repetitive control for periodic motion tracking. _IEEE 11th Data Driven Control and Learning Systems Conference (DDCLS’22)_. May 13-15, Emeishan, China, 2022. 
+[23] Yuzhou Duan, Hongtao Peng, Yuchuan Zhu, Yayi Shen, **Jie Ling***. [Inertial piezoelectric actuation of a needle insertion device for minimally invasive surgery.](https://ieeexplore.ieee.org/abstract/document/10354709) _The 2023 IEEE International Conference on Robotics and Biomimetics (IEEE ROBIO 2023)_. Dec. 4-9, Samui, Thailand. 2023. **(Best Conference Paper Finalist)**
+
+[22] Long Chen, Yuchuan Zhu, **Jie Ling**. [Development and characteristic analysis of a double spool nested fuel valve.](https://ieeexplore.ieee.org/abstract/document/10565525) _The 9th International Conference on Fluid Power and Mechatronics_. Aug. 18-21, Lanzhou, China. 2023.
+
+[21] Mingming Zhang, Yuchuan Zhu, **Jie Ling**, and Xin Jiang. [Position servo control for dual piezoelectric pumps-based electro-hydrostatic actuator with active rectification valve.](https://ieeexplore.ieee.org/abstract/document/10565509) _The 9th International Conference on Fluid Power and Mechatronics_. Aug. 18-21, Lanzhou, China. 2023. (Best Paper, First Prize)
+
+[20] Yitong Li, Tingting Ye, **Jie Ling**, Xiaohui Xiao, Zhao Feng. [Design, optimization and analysis of a novel compliant guiding mechanism for piezo-driven vibration microinjection.](https://ieeexplore.ieee.org/abstract/document/10218809) _2023 IEEE International Conference on Advanced Robotics and Mechatronics (ICARM 2023)_. Jul. 8-10, Sanya, China, 2023. **(Best Student Paper Finalist)**
+
+[19] Zhicheng Song, Ziyu Liao, Linkang Wang, Hongtao Wu, **Jie Ling**. [A novel fractional-order adaptive gain fixed-time convergent super-twisting-algorithm.](https://ieeexplore.ieee.org/abstract/document/10218839) _2023 IEEE International Conference on Advanced Robotics and Mechatronics (ICARM 2023)_. Jul. 8-10, Sanya, China, 2023.
+
+[18] Yunzhi Zhang, **Jie Ling**, Zhao Feng, Yuchuan Zhu. [A Comparison of Hysteresis Models with the Hammerstein Structure for Piezoelectric Actuators.](https://ieeexplore.ieee.org/abstract/document/10218900) _2023 IEEE International Conference on Advanced Robotics and Mechatronics (ICARM 2023)_. Jul. 8-10, Sanya, China, 2023. 
+
+[17] Yuzhou Duan, Yunzhi Zhang, Yayi Shen, **Jie Ling**, and Yuchuan Zhu. [A three-rhombus configured remote center of motion mechanism for robot-assisted surgery.](https://ieeexplore.ieee.org/abstract/document/10023817) _37th Youth Academic Annual Conference of Chinese Association of Automation (YAC)_. May 27-29, Beijing, China, 2022.
+
+[16] Yuzhou Duan, Yunzhi Zhang, **Jie Ling**, Zhao Feng, and Yuchuan Zhu. [A hub-type compliant piezo drill for cell microinjection.](https://ieeexplore.ieee.org/abstract/document/9959356) _7th IEEE International Conference on Advanced Robotics and Mechatronics (ARM’22)_. July 9-11, Guilin, China, 2022. 
+
+[15] Zhao Feng, **Jie Ling**, Yayi Shen. [Discrete-time integral terminal sliding mode based repetitive control for periodic motion tracking.](https://ieeexplore.ieee.org/abstract/document/9858381) _IEEE 11th Data Driven Control and Learning Systems Conference (DDCLS’22)_. May 13-15, Emeishan, China, 2022. 
 
 [14] Dongdong Zheng, **Jie Ling**, Xuemei Ren*. Closed-loop distributed data-driven modeling and control for islanded microgrids. _The 33rd Chinese Control and Decision Conference (CCDC 2021)_. May 22-24, Kunming, China, 2021. (Poster)
 
@@ -208,10 +226,15 @@ Xiaohui Xiao, **Jie Ling**, Zhao Feng. High-speed Scanning Motion Control of Pie
 **段榆洲** / Yuzhou Duan, Spet-2022, co-supervised with Prof. Yuchuan Zhu / [ResearchGate](https://www.researchgate.net/profile/Yuzhou-Duan)
 
 ### Master Students
+**玉作庆** / Zuoqing Yu, Spet-2024
+**谢从安** / Congan Xie, Spet-2024
+**周鹏飞** / Pengfei Zhou, Spet-2024
+**简  洁** / Mandakini, Spet-2024
+**李  钊** / Zhao Li, Spet-2024
+
+**杨琦哲** / Qizhe Yang, Spet-2023
+**赵瑞峰** / Ruifeng Zhao, Spet-2023
 **张国栋** / Guodong Zhang, Spet-2023
 
-
 **彭洪涛** / Hongtao Peng, Spet-2022 
-
-
 **张允执** / Yunzhi Zhang, Spet-2022 / [ResearchGate](https://www.researchgate.net/profile/Yunzhi-Zhang-12)
