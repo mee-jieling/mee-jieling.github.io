@@ -46,17 +46,41 @@ Precision motion control; Piezoelectric actuator; Compliant mechanisms.
 
 ### Journal Papers
 
+彭洪涛，**凌杰***，朱玉川，李成刚. 基于J-A模型的压电双晶片执行器非线性建模及验证. **压电与声光**. 2024.
+
+Yunzhi Zhang, **Jie Ling***, and Yuchuan Zhu. [Development and fault-tolerant control of a distributed piezoelectric stack actuator](https://iopscience.iop.org/article/10.1088/1361-665X/ad669e/meta). **_Smart Materials and Structures_**. 2024, **33**(9): 095003.
+
+Yuzhou Duan, **Jie Ling***, and Yuchuan Zhu*. [Modeling and admittance control of a piezoactuated needle insertion device for safe puncture of spinal membranes](https://asmedigitalcollection.asme.org/medicaldevices/article/18/3/034501/1201723). **_Journal of Medical Devices_**. 2024, **18**(3): 034501. 
+
+Yuzhou Duan, **Jie Ling***, Zhao Feng, Tingting Ye, Tairen Sun, and Yuchuan Zhu. [A survey of needle steering approaches in minimally invasive surgery](https://link.springer.com/article/10.1007/s10439-024-03494-0). **_Annals of Biomedical Engineering_**. 2024, **52**: 1492–1517.
+
+Yuzhou Duan, **Jie Ling***, Zhao Feng, Daojin Yao, Yuchuan Zhu. [Development of a base-actuated three-rhombus configured remote center of motion mechanism for lumbar puncture](https://asmedigitalcollection.asme.org/mechanismsrobotics/article/16/5/054503/1164054). **_Journal of Mechanisms and Robotics_**. 2024. **16**(5): 054503.
+
+[42]  **Jie Ling***, Hongtao Peng, Yuzhou Duan, and Micky Rakotondrabe. [Reducing backward motion of stick-slip piezoelectric actuators using dual driving feet designed by asymmetric stiffness principle](https://www.sciencedirect.com/science/article/pii/S0094114X24002374). **_Mechanism and Machine Theory_**. 2024, **203**:105810.
+
+[41] **凌杰***，张允执，陈龙，朱玉川．数字压电叠堆执行器：原理、建模与控制．**中国机械工程**. https://link.cnki.net/urlid/42.1294.TH.20240531.1807.002.
+
+王玉文，朱玉川，**凌杰**，陈晓明，张洺铭. 滑阀式压电高速开关阀特性研究. 航空动力学报. 2024. 39 (11): 20220426.
+
+Yitong Li, Tingting Ye, **Jie Ling**, Xiaohui Xiao, and Zhao Feng*. [A novel F-shaped linear guiding mechanism based compliant positioning stage with restricted parasitic motion](). **_Precision Engineering_**. 2024. **88**:674-685.
+
+Mingming Zhang, Yuchuan Zhu, Shenghong Ge, and **Jie Ling**. [Development of a large flow electro-hydrostatic actuator equipped with four magnetostrictive-actuated pumps](). **_Review of Scientific Instruments_**. 2024. **95**(1): 95, 015005.
+
+Zhicheng Song, Linkang Wang, **Jie Ling**, Lingyu Wang, Jinjun Duan, Yaoyao Wang, and Bai Chen. [Time-delay control scheme with adaptive fixed-time convergent super-twisting fractional-order nonsingular terminal sliding mode for piezoelectric displacement amplifier](). **_ISA Transactions_**. 2024. **146**:99-113.
+
+Long Chen, Yuchuan Zhu, **Jie Ling**, and Mingming Zhang. [Temperature dependence modeling and experimental evaluation of a multidimensional discrete magnetostrictive actuator](). **_Applied Thermal Engineering_**. 2023. **230**(Part B): 120736. 
+
 [40] **Jie Ling**, Zhao Feng, Long Chen, Yuchuan Zhu, Yongping Pan. [Neural network-based iterative learning control of a piezo-driven nanopositioning stage](https://www.sciencedirect.com/science/article/abs/pii/S0141635923000338). **_Precision Engineering_**. 2023, **81**:112-123. 
 
 [39] **Jie Ling**, Long Chen, Mingming Zhang, and Yuchuan Zhu. [Development of a dual-mode electro-hydrostatic actuator with serial-parallel hybrid configured piezoelectric pumps](https://iopscience.iop.org/article/10.1088/1361-665X/acafb5/meta). **_Smart Materials and Structures_**. 2023, **32**(2): 025011.
 
-[38] Zhao Feng, Wenyu Liang, **Jie Ling**, Xiaohui Xiao, Kok Kiong Tan, and Tong Heng Lee. [Precision force tracking control of a surgical device interacting with a deformable object](https://ieeexplore.ieee.org/abstract/document/9794483). **_IEEE/ASME Transactions on Mechatronics_**. 2022. **27**(6): 5327-5338.
+[38] 陈晓明，朱玉川*，**凌杰**，郑述峰，王玉文. [旋转惯性液压变换器的能效特性研究](https://bhxb.buaa.edu.cn/bhzk/cn/article/doi/10.13700/j.bh.1001-5965.2021.0570). **北京航空航天大学学报**. 2023,49(08):1982-1990.
 
-[37] Lingkang Meng, Yuchuan Zhu, **Jie Ling**, Jianjun Ding, Zhichuang Chen, and Xiaoming Chen. [Research on mathematical modeling of the servo valve torque motor considering the variation of working air-gaps leakage flux](https://journals.sagepub.com/doi/abs/10.1177/09544062211064971). **_Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science_**, 2022. **236**(11): 09544062211064971.
+[37] 郑述峰，朱玉川*，**凌杰**，刘昶，林文. [轴向双压电叠堆执行器并联控制实验研究](https://bhxb.buaa.edu.cn/bhzk/cn/article/doi/10.13700/j.bh.1001-5965.2021.0432). **北京航空航天大学学报**. 2023,49(06):1460-1470. 
 
-[36] 陈晓明，朱玉川，**凌杰**，郑述峰，王玉文. 旋转惯性液压变换器的能效特性研究. **北京航空航天大学学报**.
+[36] Zhao Feng, Wenyu Liang, **Jie Ling**, Xiaohui Xiao, Kok Kiong Tan, and Tong Heng Lee. [Precision force tracking control of a surgical device interacting with a deformable object](https://ieeexplore.ieee.org/abstract/document/9794483). **_IEEE/ASME Transactions on Mechatronics_**. 2022. **27**(6): 5327-5338.
 
-[35] 郑述峰，朱玉川，**凌杰**，刘昶，林文. 轴向双压电叠堆执行器并联控制实验研究. **北京航空航天大学学报**. 
+[35] Lingkang Meng, Yuchuan Zhu, **Jie Ling**, Jianjun Ding, Zhichuang Chen, and Xiaoming Chen. [Research on mathematical modeling of the servo valve torque motor considering the variation of working air-gaps leakage flux](https://journals.sagepub.com/doi/abs/10.1177/09544062211064971). **_Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science_**, 2022. **236**(11): 09544062211064971.
 
 [34] Xiaoming Chen, Yuchuan Zhu, Travis Wiens, Doug Bitner, **Jie Ling**. [Characteristic investigation of a flow-dependent inertia hydraulic converter driven by an equivalent fast switching valve](https://journals.sagepub.com/doi/abs/10.1177/09544062211038983). **_Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science_**, 2022. **236**(7): 3354-3374. 
 
