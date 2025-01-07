@@ -1,4 +1,4 @@
-## Jie LING's Home Page
+## Welcome to Jie LING's Home Page
 
 <table border="0">
   <tr>
@@ -10,7 +10,7 @@
       <p><b>Address: No.29, Yudao Street, Qinhuai District, Nanjing, China </b></p>
     </td>
      <td width="25%">
-      <img src="/lingjie.jpg" width="65%">  
+      <img src="/lingjie.jpg" width="80%">  
      </td>
     </tr>  
 </table>
