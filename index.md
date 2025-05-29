@@ -254,6 +254,6 @@ Xiaohui Xiao, **Jie Ling**, Zhao Feng. High-speed Scanning Motion Control of Pie
 
 
 ### Alumni
-**彭洪涛** / Hongtao Peng, Spet-2022 to March-2025 / Current Position: Phd Student in Zhejiang Univ. | 
+**彭洪涛** / Hongtao Peng, Spet-2022 to March-2025 / Current Position: Phd Student in Zhejiang Univ. 
 
 **张允执** / Yunzhi Zhang, Spet-2022 to March-2025 / [ResearchGate](https://www.researchgate.net/profile/Yunzhi-Zhang-12) / Current Position: Phd Student in Fudan Univ.
