@@ -19,6 +19,8 @@
 
 I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power and Mechanical Engineering, Wuhan University, China, in 2012 and 2018, respectively. In 2017, I was a visiting Ph.D. student at the Department of Automatic Control and Micro-Mechatronic Systems, FEMTO-ST Institute, France. From 2019 to 2020, I served as a Postdoctoral Research Fellow at the Department of Biomedical Engineering, National University of Singapore. Since August 2020, I have been an Associate Professor at the College of Mechanical and Electrical Engineering, Nanjing University of Aeronautics and Astronautics, China. My research interests include the mechanical design and precision motion control of piezoelectric nanopositioning systems and medical robots.
 
+凌杰，副教授，硕士研究生导师，于2012年和2018年获得武汉大学机械电子工程工学学士和工学博士学位，2017年法国FEMTO-ST研究所访问博士生，2019年新加坡国立大学先进机器人中心博士后，2020年入职南京航空航空大学机电学院，2025年法国图卢兹大学联盟公派访问学者，入选江苏省“双创博士”、南京航空航天大学“长空学者”。主要从事医疗手术机器人、精密驱动与智能控制技术研究，主持装备预研、江苏省重点研发计划课题、江苏省基金、航空科学基金、中国博士后基金等国家/省部级项目，以第一/通讯作者在IEEE/ASME TMECH、IEEE TCST、MSSP、MMT等机械电子领域国际权威期刊发表SCI论文30余篇，以第一发明人授权发明专利5项，获IEEE ICARM、IEEE FPM、IEEE ROBIO等多个学术会议论文奖。担任国际自动控制联合会（IFAC）机械电子分委会委员，SCI期刊Mechatronics客座编辑，国际学术会议IEEE ICARM 2023、ICIRA 2024、IFAC Mechatronics 2025等Associate Editor，IEEE会员、中国机械工程学会高级会员、中国生物医学工程学会会员，IEEE/ASME TMECH、IEEE TCST、IEEE TIE、自动化学报等多个国内外学术期刊审稿人。
+
 [ResearchGate](https://www.researchgate.net/profile/Jie-Ling-5)
 
 [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=HcqsRR4AAAAJ)
@@ -46,7 +48,15 @@ Smart material-based actuators, Precision motion control; Medical robots.
 
 ### Journal Papers
 
-[57] 彭洪涛，**凌杰***，朱玉川，李成刚. 基于J-A模型的压电双晶片执行器非线性建模及验证. **压电与声光**. 2024.
+[61] 彭洪涛，张允执，**凌杰**，张文星，康佳豪，朱玉川. 油液环境下的压电双晶片执行器数学建模与试验分析. **航空科学与技术**. 2025. *(Accepted)*
+
+[60] 彭洪涛，张允执，**凌杰**，张文星，康佳豪，朱玉川. 油液环境下的电液伺服阀用压电双晶片执行器复合阻尼控制. **航空动力学报**. 2025. *(Accepted)*
+
+[59] Yunzhi Zhang, **Jie Ling**, Micky Rakotondrabe, Yuchuan Zhu, and Dan Wang. Modeling and feedforward control of hysteresis in piezoelectric actuators considering its rotation and expansion. **_Mechatronics_**. 2025. *(Accepted)*
+
+[58] Yuzhou Duan, **Jie Ling**, Micky Rakotondrabe, and Yuchuan Zhu*. [Achieving high-speed smooth motion for stick-slip piezoelectric motors with impact-enhanced driving mode](https://iopscience.iop.org/article/10.1088/1361-665X/adcd34/meta). **_Smart Materials and Structures_**. 2025. **34**(4): 045022
+
+[57] 彭洪涛，**凌杰***，朱玉川，李成刚. 基于J-A模型的压电双晶片执行器非线性建模及验证. **压电与声光**. 2025, **47**(1): 142-147. 
 
 [56] Yunzhi Zhang, **Jie Ling***, and Yuchuan Zhu. [Development and fault-tolerant control of a distributed piezoelectric stack actuator](https://iopscience.iop.org/article/10.1088/1361-665X/ad669e/meta). **_Smart Materials and Structures_**. 2024, **33**(9): 095003.
 
@@ -226,6 +236,10 @@ Xiaohui Xiao, **Jie Ling**, Zhao Feng. High-speed Scanning Motion Control of Pie
 **段榆洲** / Yuzhou Duan, Spet-2022, co-supervised with Prof. Yuchuan Zhu / [ResearchGate](https://www.researchgate.net/profile/Yuzhou-Duan)
 
 ### Master Students
+**康绍帅** / Shaoshuai Kang, Spet-2025 |
+**巩鹏飞** / Pengfei Gong, Spet-2025 |
+**李龙宇** / Longyu Li, Spet-2025 |
+
 **玉作庆** / Zuoqing Yu, Spet-2024 |
 **谢从安** / Congan Xie, Spet-2024 |
 **周鹏飞** / Pengfei Zhou, Spet-2024 |
@@ -236,5 +250,6 @@ Xiaohui Xiao, **Jie Ling**, Zhao Feng. High-speed Scanning Motion Control of Pie
 **赵瑞峰** / Ruifeng Zhao, Spet-2023 | 
 **张国栋** / Guodong Zhang, Spet-2023 
 
-**彭洪涛** / Hongtao Peng, Spet-2022 |
-**张允执** / Yunzhi Zhang, Spet-2022 / [ResearchGate](https://www.researchgate.net/profile/Yunzhi-Zhang-12)
+### Alumni
+**彭洪涛** / Hongtao Peng, Spet-2022 to March-2025 / Current Position: Phd Student in Zhejiang Univ. | 
+**张允执** / Yunzhi Zhang, Spet-2022 to March-2025 / [ResearchGate](https://www.researchgate.net/profile/Yunzhi-Zhang-12) / Current Position: Phd Student in Fudan Univ.
