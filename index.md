@@ -238,14 +238,14 @@ Xiaohui Xiao, **Jie Ling**, Zhao Feng. High-speed Scanning Motion Control of Pie
 ### Master Students
 **康绍帅** / Shaoshuai Kang, Spet-2025 |
 **巩鹏飞** / Pengfei Gong, Spet-2025 |
-**李龙宇** / Longyu Li, Spet-2025 |
+**李龙宇** / Longyu Li, Spet-2025
 
 
 **玉作庆** / Zuoqing Yu, Spet-2024 |
 **谢从安** / Congan Xie, Spet-2024 |
 **周鹏飞** / Pengfei Zhou, Spet-2024 |
 **简  洁** / Mandakini, Spet-2024 |
-**李  钊** / Zhao Li, Spet-2024 |
+**李  钊** / Zhao Li, Spet-2024
 
 
 **杨琦哲** / Qizhe Yang, Spet-2023 |
