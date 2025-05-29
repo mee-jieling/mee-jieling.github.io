@@ -31,7 +31,7 @@ I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power 
 
 ## Research
 
-Smart material-based actuators, Precision motion control; Medical robots.
+Medical robots; Smart material-based actuators; Precision motion control.
 
 ## Teaching
 ### Undergraduate Courses
@@ -173,7 +173,7 @@ Smart material-based actuators, Precision motion control; Medical robots.
 
 ### Conference Papers
 
-[26] Zuoqing Yu, Yuzhou Duan, Lei Zhang, and **Jie Ling***. A patient-mounted spherical scissor-like remote center of motion mechanism for robotic-assisted lumbar puncture. _17th International Conference on Intelligent Robotics and Applications (ICIRA 2024)_. 31st Jul.~ 2nd Aug, Xi’an, China, 2024.
+[26] Zuoqing Yu, Yuzhou Duan, Lei Zhang, and **Jie Ling***. [A patient-mounted spherical scissor-like remote center of motion mechanism for robotic-assisted lumbar puncture](https://link.springer.com/chapter/10.1007/978-981-96-0777-8_9). _17th International Conference on Intelligent Robotics and Applications (ICIRA 2024)_. 31st Jul.~ 2nd Aug, Xi’an, China, 2024.
  
 [25] Yunzhi Zhang, Micky Rakotondrabe, Zhao Feng, Yuchuan Zhu, and **Jie Ling***. [Position servo control strategy for a hydraulic valve-controlled cylinder with a digital piezo-actuator.](https://ieeexplore.ieee.org/abstract/document/10644875) _The American Control Conference (ACC 2024)_. July 8-12, Toronto, Canada. 2024.
 
@@ -252,4 +252,5 @@ Xiaohui Xiao, **Jie Ling**, Zhao Feng. High-speed Scanning Motion Control of Pie
 
 ### Alumni
 **彭洪涛** / Hongtao Peng, Spet-2022 to March-2025 / Current Position: Phd Student in Zhejiang Univ. | 
+
 **张允执** / Yunzhi Zhang, Spet-2022 to March-2025 / [ResearchGate](https://www.researchgate.net/profile/Yunzhi-Zhang-12) / Current Position: Phd Student in Fudan Univ.
