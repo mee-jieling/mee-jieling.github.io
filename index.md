@@ -68,7 +68,7 @@ Medical robots; Smart material-based actuators; Precision motion control.
 
 [52]  **Jie Ling***, Hongtao Peng, Yuzhou Duan, and Micky Rakotondrabe. [Reducing backward motion of stick-slip piezoelectric actuators using dual driving feet designed by asymmetric stiffness principle](https://www.sciencedirect.com/science/article/pii/S0094114X24002374). **_Mechanism and Machine Theory_**. 2024, **203**:105810.
 
-[51] **凌杰***，张允执，陈龙，朱玉川．数字压电叠堆执行器：原理、建模与控制．**中国机械工程**. https://link.cnki.net/urlid/42.1294.TH.20240531.1807.002.
+[51] **凌杰***，张允执，陈龙，朱玉川．[数字压电叠堆执行器：原理、建模与控制](https://link.cnki.net/urlid/42.1294.TH.20240531.1807.002.)．**中国机械工程**. 2025, 36(2): 228-237.
 
 [50] Tingting Ye, Zhao Feng, **Jie Ling**, Yangmin Li. [A novel W-shaped flexure-guided mechanism for high-frequency piezo-actuated micromanipulations](https://ieeexplore.ieee.org/abstract/document/10734177). **_IEEE/ASME Transactions on Mechatronics_**. 2024.
 
@@ -233,7 +233,7 @@ Xiaohui Xiao, **Jie Ling**, Zhao Feng. High-speed Scanning Motion Control of Pie
 ## Associates
 
 ### PhD Students
-**段榆洲** / Yuzhou Duan, Spet-2022, co-supervised with Prof. Yuchuan Zhu / [ResearchGate](https://www.researchgate.net/profile/Yuzhou-Duan)
+**段榆洲** / [Yuzhou Duan](https://scholar.google.com.hk/citations?user=3r_wYSkAAAAJ&hl=zh-CN), Spet-2022, co-supervised with Prof. [Yuchuan Zhu](https://scholar.google.com.hk/citations?user=vROOt8oAAAAJ&hl=zh-CN)
 
 ### Master Students
 **康绍帅** / Shaoshuai Kang, Spet-2025 |
@@ -254,6 +254,6 @@ Xiaohui Xiao, **Jie Ling**, Zhao Feng. High-speed Scanning Motion Control of Pie
 
 
 ### Alumni
-**彭洪涛** / Hongtao Peng, Spet-2022 to March-2025 / Current Position: Phd Student in Zhejiang Univ. 
+**彭洪涛** / [Hongtao Peng](https://www.researchgate.net/profile/Hongtao-Peng-3), Spet-2022 to March-2025 / Current Position: Phd Student in Zhejiang Univ. 
 
-**张允执** / Yunzhi Zhang, Spet-2022 to March-2025 / [ResearchGate](https://www.researchgate.net/profile/Yunzhi-Zhang-12) / Current Position: Phd Student in Fudan Univ.
+**张允执** / [Yunzhi Zhang]((https://www.researchgate.net/profile/Yunzhi-Zhang-12)), Spet-2022 to March-2025 / Current Position: Phd Student in Fudan Univ.
