@@ -226,8 +226,19 @@ Medical robots; Smart material-based actuators; Precision motion control.
 [1] **Jie Ling**, and Xiaohui Xiao*. [Rapid and precise control of a micro-manipulation stage combining H∞ with ILC algorithm](http://www.i-asem.org/publication_conf/anbre13/M5C.3.RR608_1046F.pdf). _The 2013 World Congress on Advances in Nano, Biomechanics, Robotics, and Energy Research_, Aug. 25-28, Seoul, South Korea, 2013.
 
 
-### Books and Chapters
+### Books & Chapters
 Xiaohui Xiao, **Jie Ling**, Zhao Feng. High-speed Scanning Motion Control of Piezoelectric Nanopositioning Systems. Monography in preparation. 
+
+### Editors & Organizer
+[1] Session Chair: Zhao Feng, **Jie Ling**, Zhao Guo, Xiaohui Xiao. _Advanced actuation and intelligent control in medical robot. 17th International Conference on Intelligent Robotics and Applications (ICIRA 2024)_. 31st Jul.~ 2nd Aug, Xi’an, China, 2024.
+
+[2] Co-guest Editor: Special issue on Mechatronic Systems Symposium, _IFAC Mechatronics Journal_. 2025.
+
+[3] Associate Editor: Wolfgang Kemmetmüller (TU Wien, Vienna Austria), Micky Rakotondrabe (UTTOP, Tarbes France), Mohammad Al Janaideh (Univ of Guelph, Guelph Canada), Gerardo Colunga Flores, **Jie Ling** (NUAA, Nanjing China), and Sofiane Khadraoui (Univ of Sharjah, Sharjah UAE). _10th IFAC Symposium on Mechatronics Systems & 14th IFAC Symposium on Robotics_. 15th-18th July, Paris, France, 2025.
+
+[4] Workshops Organizer: Micky Rakotondrabe (UTTOP, Tarbes France), **Jie Ling** (NUAA, Nanjing China), Sofiane Khadraoui (Univ of Sharjah, Sharjah UAE), Mohammad Al Janaideh (Univ of Guelph, Guelph Canada), Gerardo Flores (Texas A&M, Laredo TX USA). Smart materials based mechatronic systems: design, modeling, control. _"10th IFAC Symposium on Mechatronic Systems" & "14th IFAC Symposium on Robotics_. 15th-18th July, Paris, France, 2025.
+
+[5] Session Organizer: Zhao Guo (WHU, Wuhan China), Zhao Feng (WHU, Wuhan China), Jian Zhou (WHU, Wuhan China), **Jie Ling** (NUAA, Nanjing China). Intelligent Sensing and control in medical robotics. _2025 IEEE International Conference on Cyborg and Bionic Systems (CBS 2025)_. October 17-19, Beijing, China, 2025.
 
 
 ## Associates
