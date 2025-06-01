@@ -44,7 +44,7 @@ Medical robots; Smart material-based actuators; Precision motion control.
 
 **基于智能材料的机电系统:建模与控制** / Modelling and Control of Smart Materials based Mechatronic Systems / NUAA International Course cooperated with Prof. Micky Rakotondrabe (UTTOP, Tarbes France)
 
-**学术读写说技巧** / Academic Reading, Writing and Presentation Skills / NUAA International Course cooperated with Prof. Micky Rakotondrabe (UTTOP, Tarbes France)
+**学术读写说技巧** / Academic Reading, Writing and Presentation Skills / NUAA International Course cooperated with Prof. [Micky Rakotondrabe](http://m.rakoton.net/) (UTTOP, Tarbes France)
 
 ## Publications
 
