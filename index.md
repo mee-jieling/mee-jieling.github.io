@@ -74,7 +74,7 @@ Medical robots; Smart material-based actuators; Precision motion control.
 
 [50] Tingting Ye, Zhao Feng, **Jie Ling**, Yangmin Li. [A novel W-shaped flexure-guided mechanism for high-frequency piezo-actuated micromanipulations](https://ieeexplore.ieee.org/abstract/document/10734177). **_IEEE/ASME Transactions on Mechatronics_**. 2024.
 
-[49] Dongdong Zheng, Yangkun Zhang, **Jie Ling**, Haoyong Yu, and Xuemei Ren. Composite learning based adaptive terminal sliding mode control for nonlinear systems with experimental validation. **_IEEE Transactions on Industrial Electronics_**. 2024.
+[49] Dongdong Zheng, Yangkun Zhang, **Jie Ling**, Haoyong Yu, and Xuemei Ren. [Composite learning based adaptive terminal sliding mode control for nonlinear systems with experimental validation](Composite learning based adaptive terminal sliding mode control for nonlinear systems with experimental validation). **_IEEE Transactions on Industrial Electronics_**. 2025.
 
 [48] Xiaoming Chen, Yuchuan Zhu, **Jie Ling**, and Mingming Zhang. [Characteristic investigation of digital control four quadrant electro-hydrostatic actuator with separated hydraulic motor](https://pubs.aip.org/aip/rsi/article-abstract/95/9/095002/3311771/Characteristic-investigation-of-digital-control?redirectedFrom=fulltext). **_Review of Scientific Instruments_**. 2024.**95**:095002.
 
