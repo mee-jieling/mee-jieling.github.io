@@ -58,7 +58,7 @@ Medical robots; Smart material-based actuators; Precision motion control.
 
 [58] Yuzhou Duan, **Jie Ling**, Micky Rakotondrabe, and Yuchuan Zhu*. [Achieving high-speed smooth motion for stick-slip piezoelectric motors with impact-enhanced driving mode](https://iopscience.iop.org/article/10.1088/1361-665X/adcd34/meta). **_Smart Materials and Structures_**. 2025. **34**(4): 045022
 
-[57] 彭洪涛，**凌杰***，朱玉川，李成刚. 基于J-A模型的压电双晶片执行器非线性建模及验证. **压电与声光**. 2025, **47**(1): 142-147. 
+[57] 彭洪涛，**凌杰***，朱玉川，李成刚. [基于J-A模型的压电双晶片执行器非线性建模及验证](http://peaotec.ijournals.cn:8001/ydysg823/article/abstract/20250123?st=search). **压电与声光**. 2025, **47**(1): 142-147. 
 
 [56] Yunzhi Zhang, **Jie Ling***, and Yuchuan Zhu. [Development and fault-tolerant control of a distributed piezoelectric stack actuator](https://iopscience.iop.org/article/10.1088/1361-665X/ad669e/meta). **_Smart Materials and Structures_**. 2024, **33**(9): 095003.
 
