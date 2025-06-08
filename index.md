@@ -54,7 +54,7 @@ Medical robots; Smart material-based actuators; Precision motion control.
 
 [60] 彭洪涛，张允执，**凌杰**，张文星，康佳豪，朱玉川. 油液环境下的电液伺服阀用压电双晶片执行器复合阻尼控制. **航空动力学报**. 2025. *(Accepted)*
 
-[59] Yunzhi Zhang, **Jie Ling**, Micky Rakotondrabe, Yuchuan Zhu, and Dan Wang. Modeling and feedforward control of hysteresis in piezoelectric actuators considering its rotation and expansion. **_Mechatronics_**. 2025. *(Accepted)*
+[59] Yunzhi Zhang, **Jie Ling**, Micky Rakotondrabe, Yuchuan Zhu, and Dan Wang. [Modeling and feedforward control of hysteresis in piezoelectric actuators considering its rotation and expansion](https://www.sciencedirect.com/science/article/abs/pii/S0957415825000637). **_Mechatronics_**. 2025. **110**: 103354.
 
 [58] Yuzhou Duan, **Jie Ling**, Micky Rakotondrabe, and Yuchuan Zhu*. [Achieving high-speed smooth motion for stick-slip piezoelectric motors with impact-enhanced driving mode](https://iopscience.iop.org/article/10.1088/1361-665X/adcd34/meta). **_Smart Materials and Structures_**. 2025. **34**(4): 045022
 
