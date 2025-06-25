@@ -1,4 +1,4 @@
-## Bio
+## Detailed profile
 
 <style>
   section {
