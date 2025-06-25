@@ -40,9 +40,9 @@
 
 ### 2025
 
-[61] 彭洪涛，张允执，**凌杰***，张文星，康佳豪，朱玉川. 油液环境下的压电双晶片执行器数学建模与试验分析. **航空科学技术**. 2025. *(Accepted)*
+[61] 彭洪涛，张允执，**凌杰***，张文星，康佳豪，朱玉川. 油液环境下的压电双晶片执行器数学建模与试验分析. **航空科学技术**. 2025. (Accepted)
 
-[60] 彭洪涛，张允执，**凌杰***，张文星，康佳豪，朱玉川. 油液环境下的电液伺服阀用压电双晶片执行器复合阻尼控制. **航空动力学报**. 2025. *(Accepted)*
+[60] 彭洪涛，张允执，**凌杰***，张文星，康佳豪，朱玉川. 油液环境下的电液伺服阀用压电双晶片执行器复合阻尼控制. **航空动力学报**. 2025. (Accepted)
 
 [59] Yunzhi Zhang, **Jie Ling***, Micky Rakotondrabe, Yuchuan Zhu, and Dan Wang. [Modeling and feedforward control of hysteresis in piezoelectric actuators considering its rotation and expansion](https://www.sciencedirect.com/science/article/abs/pii/S0957415825000637). **_Mechatronics_**. 2025. **110**: 103354.
 
