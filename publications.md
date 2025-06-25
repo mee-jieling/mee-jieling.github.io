@@ -26,7 +26,7 @@
   <a href="index.html">Home</a> |
   <a href="bio.html">Bio</a> |
   <a href="research.html">Research</a> |
-  <a href="teaching.md">Teaching</a> |
+  <a href="teaching.html">Teaching</a> |
   <a href="publications.html">Publications</a> |
   <a href="students.html">Students</a> |
   <a href="contact.html">Contact</a>
