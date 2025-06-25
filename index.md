@@ -67,5 +67,5 @@ I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power 
 Medical robots; Smart material-based actuators; Precision motion control.
 
 ## News
-
+[2025-06-15] A review paper by Phd Student Yuzhou Duan has been ACCEPTED for publication in IEEE Transactions on Medical Robotics and Bionics (TMRB).
 
