@@ -219,15 +219,4 @@
 ### Books & Chapters
 Xiaohui Xiao, **Jie Ling**, [Zhao Feng](https://scholar.google.com.hk/citations?user=dXkBZJAAAAAJ&hl=zh-CN). High-speed Scanning Motion Control of Piezoelectric Nanopositioning Systems. Monography in preparation. 
 
-### Editors & Organizer
-[1] Session Chair: [Zhao Feng](https://scholar.google.com.hk/citations?user=dXkBZJAAAAAJ&hl=zh-CN), **Jie Ling**, [Zhao Guo](https://scholar.google.com.hk/citations?user=P49ZTTsAAAAJ&hl=zh-CN), Xiaohui Xiao. _Advanced actuation and intelligent control in medical robot. 17th International Conference on Intelligent Robotics and Applications (ICIRA 2024)_. 31st Jul.~ 2nd Aug, Xi’an, China, 2024.
-
-[2] Co-guest Editor: Special issue on Mechatronic Systems Symposium, _IFAC Mechatronics Journal_. 2025.
-
-[3] Associate Editor: [Wolfgang Kemmetmüller](https://scholar.google.com.hk/citations?user=xe24HFAAAAAJ&hl=zh-CN&oi=ao) (TU Wien, Vienna Austria), [Micky Rakotondrabe](http://m.rakoton.net/) (UTTOP, Tarbes France), [Mohammad Al Janaideh](https://scholar.google.com.hk/citations?user=CerqpQMAAAAJ&hl=zh-CN&oi=ao) (Univ of Guelph, Guelph Canada), Gerardo Colunga Flores, **Jie Ling** (NUAA, Nanjing China), and Sofiane Khadraoui (Univ of Sharjah, Sharjah UAE). _10th IFAC Symposium on Mechatronics Systems & 14th IFAC Symposium on Robotics_. 15th-18th July, Paris, France, 2025.
-
-[4] Workshops Organizer: [Micky Rakotondrabe](http://m.rakoton.net/) (UTTOP, Tarbes France), **Jie Ling** (NUAA, Nanjing China), Sofiane Khadraoui (Univ of Sharjah, Sharjah UAE), [Mohammad Al Janaideh](https://scholar.google.com.hk/citations?user=CerqpQMAAAAJ&hl=zh-CN&oi=ao) (Univ of Guelph, Guelph Canada), Gerardo Flores (Texas A&M, Laredo TX USA). Smart materials based mechatronic systems: design, modeling, control. _"10th IFAC Symposium on Mechatronic Systems" & "14th IFAC Symposium on Robotics_. 15th-18th July, Paris, France, 2025.
-
-[5] Session Organizer: [Zhao Guo](https://scholar.google.com.hk/citations?user=P49ZTTsAAAAJ&hl=zh-CN) (WHU, Wuhan China), [Zhao Feng](https://scholar.google.com.hk/citations?user=dXkBZJAAAAAJ&hl=zh-CN) (WHU, Wuhan China), Jian Zhou (WHU, Wuhan China), **Jie Ling** (NUAA, Nanjing China). Intelligent Sensing and control in medical robotics. _2025 IEEE International Conference on Cyborg and Bionic Systems (CBS 2025)_. October 17-19, Beijing, China, 2025.
-
 
