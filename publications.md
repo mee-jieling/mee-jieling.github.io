@@ -175,7 +175,7 @@
 [1] **凌杰**, 明敏, 冯朝, 肖晓晖. [多轴运动系统非线性轮廓重复跟踪的主从交叉耦合迭代学习控制](http://www.aas.net.cn/fileZDHXB/journal/article/zdhxb/2017/12/PDF/zdhxb-43-12-2127.pdf). **自动化学报**. 2017, **43**(12): 2127-2140.
 
 
-### Conference Papers
+## Conference Papers
 
 [26] Zuoqing Yu, Yuzhou Duan, Lei Zhang, and **Jie Ling***. [A patient-mounted spherical scissor-like remote center of motion mechanism for robotic-assisted lumbar puncture](https://link.springer.com/chapter/10.1007/978-981-96-0777-8_9). _17th International Conference on Intelligent Robotics and Applications (ICIRA 2024)_. 31st Jul.~ 2nd Aug, Xi’an, China, 2024.
  
