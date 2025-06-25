@@ -1,4 +1,4 @@
-## Detailed profile
+
 
 <style>
   section {
@@ -50,6 +50,7 @@
     </tr>  
 </table>
 
+## Detailed profile
 
 I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power and Mechanical Engineering, [Wuhan University (WHU)](https://en.whu.edu.cn/), China, in 2012 and 2018, respectively. In 2017, I was a visiting Ph.D. student at the Department of Automatic Control and Micro-Mechatronic Systems, [FEMTO-ST Institute](https://www.femto-st.fr/en), France. From Jan. 2019 to Jan. 2020, I served as a Postdoctoral Research Fellow at the [Department of Biomedical Engineering, National University of Singapore (NUS)](https://cde.nus.edu.sg/bme/). From Dec. 2024 to Dec. 2025, I was a visiting scholar in Laboratoire Génie de Production, [University of Technologie Tarbes Occitanie Pyrénées (UTTOP)](https://www.uttop.fr/en/index.html), University of Toulouse alliance, France. Since August 2020, I have been an Associate Professor at the College of Mechanical and Electrical Engineering, [Nanjing University of Aeronautics and Astronautics (NUAA)](https://nuaa.edu.cn/), China. My research interests include the mechanical design and precision motion control of piezoelectric nanopositioning systems and medical robots.
 
