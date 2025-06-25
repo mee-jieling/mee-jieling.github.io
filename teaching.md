@@ -1,14 +1,4 @@
 ## Teaching
-<!-- 添加顶部导航栏 -->
-<div id="navbar" style="position: sticky; top: 0; background: #f8f8f8; padding: 10px; border-bottom: 1px solid #ccc;">
-  <a href="index.html">Home</a> |
-  <a href="bio.html">Bio</a> |
-  <a href="research.html">Research</a> |
-  <a href="teaching.md">Teaching</a> |
-  <a href="publications.html">Publications</a> |
-  <a href="students.html">Students</a> |
-  <a href="contact.html">Contact</a>
-</div>
 
 ### Undergraduate Courses
 **液压与气压传动** / Hydraulic and Pneumatic Transmission
