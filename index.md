@@ -23,13 +23,14 @@
 
 
 <!-- 添加顶部导航栏 -->
-<div id="navbar" style="position: sticky; top: 0; background: #f0f0f0; padding: 10px; z-index: 1000;">
-  <a href="#bio">BIO</a> |
-  <a href="#research">Research</a> |
-  <a href="#teaching">Teaching</a> |
-  <a href="#publications">Publications</a> |
-  <a href="#students">Students</a> |
-  <a href="#contact">Contact</a>
+<div id="navbar" style="position: sticky; top: 0; background: #f8f8f8; padding: 10px; border-bottom: 1px solid #ccc;">
+  <a href="index.html">Home</a> |
+  <a href="bio.html">BIO</a> |
+  <a href="research.html">Research</a> |
+  <a href="teaching.html">Teaching</a> |
+  <a href="publications.html">Publications</a> |
+  <a href="students.html">Students</a> |
+  <a href="contact.html">Contact</a>
 </div>
 
 <table border="0">
