@@ -1,4 +1,25 @@
 ## Welcome to Jie LING's Home Page
+<style>
+  section {
+    padding: 40px 20px;
+    border-bottom: 1px solid #ddd;
+  }
+
+  #navbar a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #007acc;
+  }
+
+  #navbar a:hover {
+    text-decoration: underline;
+  }
+
+  h2 {
+    border-bottom: 2px solid #007acc;
+    padding-bottom: 5px;
+  }
+</style>
 
 <!-- 添加顶部导航栏 -->
 <div id="navbar" style="position: sticky; top: 0; background: #f0f0f0; padding: 10px; z-index: 1000;">
