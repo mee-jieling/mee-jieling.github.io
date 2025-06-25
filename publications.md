@@ -40,13 +40,13 @@
 
 ### 2025
 
-[61] 彭洪涛，张允执，**凌杰** *，张文星，康佳豪，朱玉川. 油液环境下的压电双晶片执行器数学建模与试验分析. **航空科学技术**. 2025. *(Accepted)*
+[61] 彭洪涛，张允执，**凌杰***，张文星，康佳豪，朱玉川. 油液环境下的压电双晶片执行器数学建模与试验分析. **航空科学技术**. 2025. *(Accepted)*
 
-[60] 彭洪涛，张允执，**凌杰** *，张文星，康佳豪，朱玉川. 油液环境下的电液伺服阀用压电双晶片执行器复合阻尼控制. **航空动力学报**. 2025. *(Accepted)*
+[60] 彭洪涛，张允执，**凌杰***，张文星，康佳豪，朱玉川. 油液环境下的电液伺服阀用压电双晶片执行器复合阻尼控制. **航空动力学报**. 2025. *(Accepted)*
 
-[59] Yunzhi Zhang, **Jie Ling**, Micky Rakotondrabe, Yuchuan Zhu, and Dan Wang. [Modeling and feedforward control of hysteresis in piezoelectric actuators considering its rotation and expansion](https://www.sciencedirect.com/science/article/abs/pii/S0957415825000637). **_Mechatronics_**. 2025. **110**: 103354.
+[59] Yunzhi Zhang, **Jie Ling***, Micky Rakotondrabe, Yuchuan Zhu, and Dan Wang. [Modeling and feedforward control of hysteresis in piezoelectric actuators considering its rotation and expansion](https://www.sciencedirect.com/science/article/abs/pii/S0957415825000637). **_Mechatronics_**. 2025. **110**: 103354.
 
-[58] Yuzhou Duan, **Jie Ling**, Micky Rakotondrabe, and Yuchuan Zhu*. [Achieving high-speed smooth motion for stick-slip piezoelectric motors with impact-enhanced driving mode](https://iopscience.iop.org/article/10.1088/1361-665X/adcd34/meta). **_Smart Materials and Structures_**. 2025. **34**(4): 045022
+[58] Yuzhou Duan, **Jie Ling***, Micky Rakotondrabe, and Yuchuan Zhu*. [Achieving high-speed smooth motion for stick-slip piezoelectric motors with impact-enhanced driving mode](https://iopscience.iop.org/article/10.1088/1361-665X/adcd34/meta). **_Smart Materials and Structures_**. 2025. **34**(4): 045022
 
 [57] 彭洪涛，**凌杰***，朱玉川，李成刚. [基于J-A模型的压电双晶片执行器非线性建模及验证](http://peaotec.ijournals.cn:8001/ydysg823/article/abstract/20250123?st=search). **压电与声光**. 2025, **47**(1): 142-147. 
 
@@ -64,31 +64,31 @@
 
 [51]  **Jie Ling***, Hongtao Peng, Yuzhou Duan, and Micky Rakotondrabe. [Reducing backward motion of stick-slip piezoelectric actuators using dual driving feet designed by asymmetric stiffness principle](https://www.sciencedirect.com/science/article/pii/S0094114X24002374). **_Mechanism and Machine Theory_**. 2024, **203**:105810.
 
-[50] Tingting Ye, Zhao Feng, **Jie Ling**, Yangmin Li. [A novel W-shaped flexure-guided mechanism for high-frequency piezo-actuated micromanipulations](https://ieeexplore.ieee.org/abstract/document/10734177). **_IEEE/ASME Transactions on Mechatronics_**. 2024.
+[50] Tingting Ye, Zhao Feng, **Jie Ling**, Yangmin Li*. [A novel W-shaped flexure-guided mechanism for high-frequency piezo-actuated micromanipulations](https://ieeexplore.ieee.org/abstract/document/10734177). **_IEEE/ASME Transactions on Mechatronics_**. 2024.
 
-[49] Dongdong Zheng, Yangkun Zhang, **Jie Ling**, Haoyong Yu, and Xuemei Ren. [Composite learning based adaptive terminal sliding mode control for nonlinear systems with experimental validation](Composite learning based adaptive terminal sliding mode control for nonlinear systems with experimental validation). **_IEEE Transactions on Industrial Electronics_**. 2024.
+[49] Dongdong Zheng, Yangkun Zhang, **Jie Ling**, Haoyong Yu*, and Xuemei Ren. [Composite learning based adaptive terminal sliding mode control for nonlinear systems with experimental validation](Composite learning based adaptive terminal sliding mode control for nonlinear systems with experimental validation). **_IEEE Transactions on Industrial Electronics_**. 2024.
 
-[48] Xiaoming Chen, Yuchuan Zhu, **Jie Ling**, and Mingming Zhang. [Characteristic investigation of digital control four quadrant electro-hydrostatic actuator with separated hydraulic motor](https://pubs.aip.org/aip/rsi/article-abstract/95/9/095002/3311771/Characteristic-investigation-of-digital-control?redirectedFrom=fulltext). **_Review of Scientific Instruments_**. 2024.**95**:095002.
+[48] Xiaoming Chen, Yuchuan Zhu*, **Jie Ling**, and Mingming Zhang. [Characteristic investigation of digital control four quadrant electro-hydrostatic actuator with separated hydraulic motor](https://pubs.aip.org/aip/rsi/article-abstract/95/9/095002/3311771/Characteristic-investigation-of-digital-control?redirectedFrom=fulltext). **_Review of Scientific Instruments_**. 2024.**95**:095002.
 
-[47] Mingming Zhang, Yuchuan Zhu, Linfei Li, and **Jie Ling**. [Dynamic modeling of a cantilever reed valve considering squeeze flow with experimental validation](https://pubs.aip.org/aip/pof/article-abstract/36/6/067131/3299243/Dynamic-modeling-of-a-cantilever-reed-valve?redirectedFrom=fulltext). **_Physics of Fluids_**. 2024. **36**(6): 067131.
+[47] Mingming Zhang, Yuchuan Zhu*, Linfei Li, and **Jie Ling**. [Dynamic modeling of a cantilever reed valve considering squeeze flow with experimental validation](https://pubs.aip.org/aip/pof/article-abstract/36/6/067131/3299243/Dynamic-modeling-of-a-cantilever-reed-valve?redirectedFrom=fulltext). **_Physics of Fluids_**. 2024. **36**(6): 067131.
 
-[46] Yanwen Wang, Yuchuan Zhu, Long Chen, **Jie Ling**, and Mingming Zhang. [Development and testing of a discrete coil magnetostrictive actuator](https://iopscience.iop.org/article/10.1088/1361-665X/ad6382/meta). **_Smart Materials and Structures_**. 2024, **33**(9): 095001.
+[46] Yanwen Wang, Yuchuan Zhu*, Long Chen, **Jie Ling**, and Mingming Zhang. [Development and testing of a discrete coil magnetostrictive actuator](https://iopscience.iop.org/article/10.1088/1361-665X/ad6382/meta). **_Smart Materials and Structures_**. 2024, **33**(9): 095001.
 
-[45] 王玉文，朱玉川，**凌杰**，陈晓明，张洺铭. [滑阀式压电高速开关阀特性研究](http://www.jasp.com.cn/hkdlxb/article/doi/10.13224/j.cnki.jasp.20220426). **航空动力学报**. 2024. **39**(11): 20220426.
+[45] 王玉文，朱玉川*，**凌杰**，陈晓明，张洺铭. [滑阀式压电高速开关阀特性研究](http://www.jasp.com.cn/hkdlxb/article/doi/10.13224/j.cnki.jasp.20220426). **航空动力学报**. 2024. **39**(11): 20220426.
 
 [44] Yitong Li, Tingting Ye, **Jie Ling**, Xiaohui Xiao, and Zhao Feng*. [A novel F-shaped linear guiding mechanism based compliant positioning stage with restricted parasitic motion](https://www.sciencedirect.com/science/article/pii/S0141635924000783). **_Precision Engineering_**. 2024. **88**:674-685.
 
-[43] Mingming Zhang, Yuchuan Zhu, Shenghong Ge, and **Jie Ling**. [Development of a large flow electro-hydrostatic actuator equipped with four magnetostrictive-actuated pumps](https://pubs.aip.org/aip/rsi/article-abstract/95/1/015005/3104345/Development-of-a-large-flow-electro-hydrostatic?redirectedFrom=fulltext). **_Review of Scientific Instruments_**. 2024. **95**(1): 95, 015005.
+[43] Mingming Zhang, Yuchuan Zhu*, Shenghong Ge, and **Jie Ling**. [Development of a large flow electro-hydrostatic actuator equipped with four magnetostrictive-actuated pumps](https://pubs.aip.org/aip/rsi/article-abstract/95/1/015005/3104345/Development-of-a-large-flow-electro-hydrostatic?redirectedFrom=fulltext). **_Review of Scientific Instruments_**. 2024. **95**(1): 95, 015005.
 
-[42] Zhicheng Song, Linkang Wang, **Jie Ling**, Lingyu Wang, Jinjun Duan, Yaoyao Wang, and Bai Chen. [Time-delay control scheme with adaptive fixed-time convergent super-twisting fractional-order nonsingular terminal sliding mode for piezoelectric displacement amplifier](https://www.sciencedirect.com/science/article/pii/S0019057823005645). **_ISA Transactions_**. 2024. **146**:99-113.
+[42] Zhicheng Song, Linkang Wang, **Jie Ling**, Lingyu Wang, Jinjun Duan, Yaoyao Wang*, and Bai Chen. [Time-delay control scheme with adaptive fixed-time convergent super-twisting fractional-order nonsingular terminal sliding mode for piezoelectric displacement amplifier](https://www.sciencedirect.com/science/article/pii/S0019057823005645). **_ISA Transactions_**. 2024. **146**:99-113.
 
 ### 2023
 
-[41] Long Chen, Yuchuan Zhu, **Jie Ling**, and Mingming Zhang. [Temperature dependence modeling and experimental evaluation of a multidimensional discrete magnetostrictive actuator](https://www.sciencedirect.com/science/article/pii/S1359431123007652). **_Applied Thermal Engineering_**. 2023. **230**(Part B): 120736. 
+[41] Long Chen, Yuchuan Zhu*, **Jie Ling**, and Mingming Zhang. [Temperature dependence modeling and experimental evaluation of a multidimensional discrete magnetostrictive actuator](https://www.sciencedirect.com/science/article/pii/S1359431123007652). **_Applied Thermal Engineering_**. 2023. **230**(Part B): 120736. 
 
-[40] **Jie Ling**, Zhao Feng, Long Chen, Yuchuan Zhu, Yongping Pan. [Neural network-based iterative learning control of a piezo-driven nanopositioning stage](https://www.sciencedirect.com/science/article/abs/pii/S0141635923000338). **_Precision Engineering_**. 2023, **81**:112-123. 
+[40] **Jie Ling***, Zhao Feng, Long Chen, Yuchuan Zhu, Yongping Pan. [Neural network-based iterative learning control of a piezo-driven nanopositioning stage](https://www.sciencedirect.com/science/article/abs/pii/S0141635923000338). **_Precision Engineering_**. 2023, **81**:112-123. 
 
-[39] **Jie Ling**, Long Chen, Mingming Zhang, and Yuchuan Zhu. [Development of a dual-mode electro-hydrostatic actuator with serial-parallel hybrid configured piezoelectric pumps](https://iopscience.iop.org/article/10.1088/1361-665X/acafb5/meta). **_Smart Materials and Structures_**. 2023, **32**(2): 025011.
+[39] **Jie Ling**, Long Chen, Mingming Zhang, and Yuchuan Zhu*. [Development of a dual-mode electro-hydrostatic actuator with serial-parallel hybrid configured piezoelectric pumps](https://iopscience.iop.org/article/10.1088/1361-665X/acafb5/meta). **_Smart Materials and Structures_**. 2023, **32**(2): 025011.
 
 [38] 陈晓明，朱玉川*，**凌杰**，郑述峰，王玉文. [旋转惯性液压变换器的能效特性研究](https://bhxb.buaa.edu.cn/bhzk/cn/article/doi/10.13700/j.bh.1001-5965.2021.0570). **北京航空航天大学学报**. 2023,49(08):1982-1990.
 
@@ -96,53 +96,53 @@
 
 ### 2022
 
-[36] Zhao Feng, Wenyu Liang, **Jie Ling**, Xiaohui Xiao, Kok Kiong Tan, and Tong Heng Lee. [Precision force tracking control of a surgical device interacting with a deformable object](https://ieeexplore.ieee.org/abstract/document/9794483). **_IEEE/ASME Transactions on Mechatronics_**. 2022. **27**(6): 5327-5338.
+[36] Zhao Feng, Wenyu Liang*, **Jie Ling**, Xiaohui Xiao*, Kok Kiong Tan, and Tong Heng Lee. [Precision force tracking control of a surgical device interacting with a deformable object](https://ieeexplore.ieee.org/abstract/document/9794483). **_IEEE/ASME Transactions on Mechatronics_**. 2022. **27**(6): 5327-5338.
 
-[35] Lingkang Meng, Yuchuan Zhu, **Jie Ling**, Jianjun Ding, Zhichuang Chen, and Xiaoming Chen. [Research on mathematical modeling of the servo valve torque motor considering the variation of working air-gaps leakage flux](https://journals.sagepub.com/doi/abs/10.1177/09544062211064971). **_Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science_**, 2022. **236**(11): 09544062211064971.
+[35] Lingkang Meng, Yuchuan Zhu*, **Jie Ling**, Jianjun Ding, Zhichuang Chen, and Xiaoming Chen. [Research on mathematical modeling of the servo valve torque motor considering the variation of working air-gaps leakage flux](https://journals.sagepub.com/doi/abs/10.1177/09544062211064971). **_Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science_**, 2022. **236**(11): 09544062211064971.
 
-[34] Xiaoming Chen, Yuchuan Zhu, Travis Wiens, Doug Bitner, **Jie Ling**. [Characteristic investigation of a flow-dependent inertia hydraulic converter driven by an equivalent fast switching valve](https://journals.sagepub.com/doi/abs/10.1177/09544062211038983). **_Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science_**, 2022. **236**(7): 3354-3374. 
+[34] Xiaoming Chen, Yuchuan Zhu*, Travis Wiens, Doug Bitner, **Jie Ling**. [Characteristic investigation of a flow-dependent inertia hydraulic converter driven by an equivalent fast switching valve](https://journals.sagepub.com/doi/abs/10.1177/09544062211038983). **_Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science_**, 2022. **236**(7): 3354-3374. 
 
-[33] Zhao Feng, Wenyu Liang, **Jie Ling**, Xiaohui Xiao*, Kok Kiong Tan, and Tong Heng Lee. [Adaptive robust impedance control for an ear surgical device with soft interaction](https://ieeexplore.ieee.org/abstract/document/9447937/). **_IEEE/ASME Transactions on Mechatronics_**. 2022, **27**(3): 1784-1795. 
+[33] Zhao Feng, Wenyu Liang*, **Jie Ling**, Xiaohui Xiao*, Kok Kiong Tan, and Tong Heng Lee. [Adaptive robust impedance control for an ear surgical device with soft interaction](https://ieeexplore.ieee.org/abstract/document/9447937/). **_IEEE/ASME Transactions on Mechatronics_**. 2022, **27**(3): 1784-1795. 
 
-[32] **Jie Ling**, Long Chen, Zhao Feng, and Yuchuan Zhu. [Development and test of a high speed pusher-type inchworm piezoelectric actuator with asymmetric driving and clamping configuration](https://www.sciencedirect.com/science/article/abs/pii/S0094114X22002488). **_Mechanism and Machine Theory_**. 2022, **176**: 104997. 
+[32] **Jie Ling***, Long Chen, Zhao Feng, and Yuchuan Zhu. [Development and test of a high speed pusher-type inchworm piezoelectric actuator with asymmetric driving and clamping configuration](https://www.sciencedirect.com/science/article/abs/pii/S0094114X22002488). **_Mechanism and Machine Theory_**. 2022, **176**: 104997. 
 
-[31] **Jie Ling**, Tingting Ye, Zhao Feng, Yuchuan Zhu, Yangmin Li, Xiaohui Xiao. [A survey on synthesis of compliant constant force/torque mechanisms](https://www.sciencedirect.com/science/article/abs/pii/S0094114X22002257). **_Mechanism and Machine Theory_**. 2022, **176**: 104970. 
+[31] **Jie Ling***, Tingting Ye, Zhao Feng, Yuchuan Zhu, Yangmin Li, Xiaohui Xiao. [A survey on synthesis of compliant constant force/torque mechanisms](https://www.sciencedirect.com/science/article/abs/pii/S0094114X22002257). **_Mechanism and Machine Theory_**. 2022, **176**: 104970. 
 
-[30] Long Chen, Yuchuan Zhu*, **Jie Ling**, Mingming Zhang. [Development and characteristic investigation of a multi-dimensional discrete magnetostrictive actuator](https://ieeexplore.ieee.org/abstract/document/9778278). **_IEEE/ASME Transactions on Mechatronics_**. 2022, **27**(4): 2071-2079.
+[30] Long Chen, Yuchuan Zhu*, **Jie Ling***, Mingming Zhang. [Development and characteristic investigation of a multi-dimensional discrete magnetostrictive actuator](https://ieeexplore.ieee.org/abstract/document/9778278). **_IEEE/ASME Transactions on Mechatronics_**. 2022, **27**(4): 2071-2079.
 
-[29] Long Chen, Yuchuan Zhu*, **Jie Ling** and Zhao Feng. [Theoretical modeling and experimental evaluation of amagnetostrictive actuator with radial-nested stacked configuration](https://link.springer.com/article/10.1007/s11071-022-07494-4). **_Nonlinear Dynamics_**. 2022, **109**: 1277-1293. 
+[29] Long Chen, Yuchuan Zhu*, **Jie Ling*** and Zhao Feng. [Theoretical modeling and experimental evaluation of amagnetostrictive actuator with radial-nested stacked configuration](https://link.springer.com/article/10.1007/s11071-022-07494-4). **_Nonlinear Dynamics_**. 2022, **109**: 1277-1293. 
 
 [28] Zhao Feng, Min Ming, **Jie Ling***, Xiaohui Xiao, Zhixin Yang, and Feng Wan*. [Fractional delay filter based repetitive control for precision tracking: design and application to a piezoelectric nanopositioning stage](https://www.sciencedirect.com/science/article/abs/pii/S088832702100618X). **_Mechanical Systems and Signal Processing_**. 2022. **164**: 108249. 
 
 ### 2021
 
-[27] Long Chen, Yuchuan Zhu*, **Jie Ling** and Zhao Feng. [Development and test of a two-dimensional stacked terfenol-d actuator with high bandwidth and large stroke](https://ieeexplore.ieee.org/abstract/document/9431718/). **_IEEE/ASME Transactions on Mechatronics_**. 2021. **26**(4), 1951-1959. 
+[27] Long Chen, Yuchuan Zhu*, **Jie Ling*** and Zhao Feng. [Development and test of a two-dimensional stacked terfenol-d actuator with high bandwidth and large stroke](https://ieeexplore.ieee.org/abstract/document/9431718/). **_IEEE/ASME Transactions on Mechatronics_**. 2021. **26**(4), 1951-1959. 
 
-[26] Yingting Ye, **Jie Ling**, Xi Kang, Zhao Feng, and Xiaohui Xiao. [A novel two-stage constant force compliant microgripper](https://asmedigitalcollection.asme.org/mechanicaldesign/article-abstract/143/5/053302/1086524/A-Novel-Two-Stage-Constant-Force-Compliant). **_Journal of Mechanical Design_**. 2021. **143**(5), 053302. 
+[26] Yingting Ye, **Jie Ling***, Xi Kang, Zhao Feng, and Xiaohui Xiao. [A novel two-stage constant force compliant microgripper](https://asmedigitalcollection.asme.org/mechanicaldesign/article-abstract/143/5/053302/1086524/A-Novel-Two-Stage-Constant-Force-Compliant). **_Journal of Mechanical Design_**. 2021. **143**(5), 053302. 
 
 [25] **Jie Ling**, Zhao Feng, Xi Kang, and Xiaohui Xiao*. [Bandwidth enhancement in damping control for piezoelectric nanopositioning stages with load uncertainty: Design and implementation](https://journals.sagepub.com/doi/abs/10.1177/1077546320941705). **_Journal of Vibration and Control_**. 2021. **27**(11-12):1382-1394. 
 
-[24] Cancheng Qiu, **Jie Ling**, Yangkun Zhang, Min Ming, Zhao Feng and Xiaohui Xiao. [A novel cooperative compensation method to compensate for return stroke of stick-slip piezoelectric actuators](https://www.sciencedirect.com/science/article/abs/pii/S0094114X21000124). **_Mechanism and Machine Theory_**. 2021, **159**: 104254. 
+[24] Cancheng Qiu, **Jie Ling***, Yangkun Zhang, Min Ming, Zhao Feng and Xiaohui Xiao. [A novel cooperative compensation method to compensate for return stroke of stick-slip piezoelectric actuators](https://www.sciencedirect.com/science/article/abs/pii/S0094114X21000124). **_Mechanism and Machine Theory_**. 2021, **159**: 104254. 
 
 [23] Min Ming, Wenyu Liang, Zhao Feng, **Jie Ling**, Abdullah Al Mamun, and Xiaohui Xiao*. [PID-type sliding mode-based adaptive motion control of a 2-dof piezoelectric ultrasonic motor driven stage](https://www.sciencedirect.com/science/article/abs/pii/S0957415821000428). **_Mechatronics_**. 2021. **76**:102543. 
 
 ### 2020
 
-[22] Like Cao, **Jie Ling**, Xiaohui Xiao. [Study on the influence of image noise on monocular feature-based visual SLAM based on FFDNet](https://www.mdpi.com/1424-8220/20/17/4922). **_Sensors_**. 2020. **20**: 4922. 
+[22] Like Cao, **Jie Ling**, Xiaohui Xiao*. [Study on the influence of image noise on monocular feature-based visual SLAM based on FFDNet](https://www.mdpi.com/1424-8220/20/17/4922). **_Sensors_**. 2020. **20**: 4922. 
 
-[21] Zhao Feng, Wenyu Liang, **Jie Ling**, Xiaohui Xiao*, Kok Kiong Tan, and Tong Heng Lee. [Integral terminal sliding-mode-based adaptive integral backstepping control for precision motion of a piezoelectric ultrasonic motor](https://www.sciencedirect.com/science/article/abs/pii/S0888327020302429), **_Mechanical Systems and Signal Processing_**. 2020. **144**: 106856. 
+[21] Zhao Feng, Wenyu Liang*, **Jie Ling**, Xiaohui Xiao*, Kok Kiong Tan, and Tong Heng Lee. [Integral terminal sliding-mode-based adaptive integral backstepping control for precision motion of a piezoelectric ultrasonic motor](https://www.sciencedirect.com/science/article/abs/pii/S0888327020302429), **_Mechanical Systems and Signal Processing_**. 2020. **144**: 106856. 
 
 [20] Like Cao, **Jie Ling**, and Xiaohui Xiao*. [The WHU rolling shutter visual-inertial dataset](https://ieeexplore.ieee.org/abstract/document/9027901). **_IEEE Access_**. 2020. **8**(1): 50771-50779. 
 
 [19] Min Ming, Zhao Feng, **Jie Ling**, and Xiaohui Xiao*. [Disturbance observer-based model prediction control with real-time modified reference for a piezo-actuated nanopositioning stage](https://journals.sagepub.com/doi/abs/10.1177/0142331219878048). **_Transactions of the Institute of Measurement and Control_**. 2020. **42**(4): 813-822. 
 
-[18] **Jie Ling**, Zhao Feng, Dongdong Zheng, Jun Yang, Haoyong Yu*, and Xiaohui Xiao. [Robust adaptive motion tracking of piezoelectric actuated stages using online neural-network-based sliding mode control](https://www.sciencedirect.com/science/article/abs/pii/S088832702030621X). **_Mechanical Systems and Signal Processing_**. 2020. **150**: 107235. 
+[18] **Jie Ling***, Zhao Feng, Dongdong Zheng, Jun Yang, Haoyong Yu*, and Xiaohui Xiao. [Robust adaptive motion tracking of piezoelectric actuated stages using online neural-network-based sliding mode control](https://www.sciencedirect.com/science/article/abs/pii/S088832702030621X). **_Mechanical Systems and Signal Processing_**. 2020. **150**: 107235. 
 
-[17] Zhao Feng, **Jie Ling**, Min Ming, Wenyu Liang, Kok Kiong Tan and Xiaohui Xiao*. [Signal-transformation-based repetitive control of spiral trajectory for piezoelectric nanopositioning stages](https://ieeexplore.ieee.org/abstract/document/9042220). **_IEEE/ASME Transactions on Mechatronics_**. 2020. **25**(3): 1634-1645. 
+[17] Zhao Feng, **Jie Ling***, Min Ming, Wenyu Liang, Kok Kiong Tan and Xiaohui Xiao*. [Signal-transformation-based repetitive control of spiral trajectory for piezoelectric nanopositioning stages](https://ieeexplore.ieee.org/abstract/document/9042220). **_IEEE/ASME Transactions on Mechatronics_**. 2020. **25**(3): 1634-1645. 
 
 [16] **Jie Ling**, Zhao Feng, Min Ming, Zhao Guo, and Xiaohui Xiao*. [Signal transformed internal model control for non-raster scanning of piezo-actuated nanopositioning stages](https://link.springer.com/article/10.1007/s12555-019-0064-y). **_International Journal of Control, Automation and Systems_**. 2020. **18**(8): 1915–1925. 
 
-[15] **Jie Ling**, Micky Rakotondrabe, Zhao Feng, Min Ming and Xiaohui Xiao. [A robust resonant controller for high-speed scanning of nanopositioners: Design and implementation](https://ieeexplore.ieee.org/abstract/document/8658162/). **_IEEE Transactions on Control Systems Technology_**. 2020, **28**(3): 1116-1123.
+[15] **Jie Ling**, Micky Rakotondrabe, Zhao Feng, Min Ming and Xiaohui Xiao*. [A robust resonant controller for high-speed scanning of nanopositioners: Design and implementation](https://ieeexplore.ieee.org/abstract/document/8658162/). **_IEEE Transactions on Control Systems Technology_**. 2020, **28**(3): 1116-1123.
 
 ### 2019 and before
 
@@ -162,17 +162,17 @@
 
 [7] Min Ming, **Jie Ling**, Zhao Feng, and Xiaohui Xiao*. [A model prediction control design for inverse multiplicative structure based feedforward hysteresis compensation of a piezo nanopositioning stage](https://link.springer.com/article/10.1007/s12541-018-0197-6). **_International Journal of Precision Engineering and Manufacturing_**. 2018, **19**(11): 1699-1708.
 
-[6] **Jie Ling**, Zhao Feng, Daojin Yao, and Xiaohui Xiao. [Non-linear contour tracking using feedback PID and feedforward position domain cross-coupled iterative learning control](https://journals.sagepub.com/doi/abs/10.1177/0142331217695386). **_Transactions of the Institute of Measurement and Control_**. 2018, **40**(6): 1970-1982. 
+[6] **Jie Ling**, Zhao Feng, Daojin Yao, and Xiaohui Xiao*. [Non-linear contour tracking using feedback PID and feedforward position domain cross-coupled iterative learning control](https://journals.sagepub.com/doi/abs/10.1177/0142331217695386). **_Transactions of the Institute of Measurement and Control_**. 2018, **40**(6): 1970-1982. 
 
-[5] **Jie Ling**, Zhao Feng, Min Ming, and Xiaohui Xiao. [Damping controller design for nanopositioners: a hybrid reference model matching and virtual reference feedback tuning approach](https://link.springer.com/article/10.1007/s12541-018-0002-6). **_International Journal of Precision Engineering and Manufacturing_**. 2018, **19**(1): 13-22. 
+[5] **Jie Ling**, Zhao Feng, Min Ming, and Xiaohui Xiao*. [Damping controller design for nanopositioners: a hybrid reference model matching and virtual reference feedback tuning approach](https://link.springer.com/article/10.1007/s12541-018-0002-6). **_International Journal of Precision Engineering and Manufacturing_**. 2018, **19**(1): 13-22. 
 
-[4] **Jie Ling**, Zhao Feng, Daojin Yao, and Xiaohui Xiao. [Precision contour tracking using feedback-feedforward integrated control for a 2-DOF manipulation system](https://www.actapress.com/Abstract.aspx?paperId=45793). **_International Journal of Robotics & Automation_**. 2018, **33**(3):  276-283. 
+[4] **Jie Ling**, Zhao Feng, Daojin Yao, and Xiaohui Xiao*. [Precision contour tracking using feedback-feedforward integrated control for a 2-DOF manipulation system](https://www.actapress.com/Abstract.aspx?paperId=45793). **_International Journal of Robotics & Automation_**. 2018, **33**(3):  276-283. 
 
 [3] Zhao Feng, **Jie Ling**, Min Ming, and Xiaohui Xiao*. [High-bandwidth and flexible tracking control for precision motion with application to a piezo nanopositioner](https://aip.scitation.org/doi/abs/10.1063/1.4998303). **_Review of Scientific Instruments_**. 2017, **88**(8): 085107.
 
 [2] Zhao Feng, **Jie Ling**, Min Ming, and Xiaohui Xiao*. [Data-based double-feedforward controller design for a coupled parallel piezo nanopositioning stage](https://journals.sagepub.com/doi/abs/10.1177/0959651817732502). **_Proceedings of the Institution of Mechanical Engineers, Part I - Journal of Systems and Control Engineering_**. 2017, **231**(10): 881-892.
 
-[1] **凌杰**, 明敏, 冯朝, 肖晓晖. [多轴运动系统非线性轮廓重复跟踪的主从交叉耦合迭代学习控制](http://www.aas.net.cn/fileZDHXB/journal/article/zdhxb/2017/12/PDF/zdhxb-43-12-2127.pdf). **自动化学报**. 2017, **43**(12): 2127-2140.
+[1] **凌杰**, 明敏, 冯朝, 肖晓晖*. [多轴运动系统非线性轮廓重复跟踪的主从交叉耦合迭代学习控制](http://www.aas.net.cn/fileZDHXB/journal/article/zdhxb/2017/12/PDF/zdhxb-43-12-2127.pdf). **自动化学报**. 2017, **43**(12): 2127-2140.
 
 
 ## Conference Papers
