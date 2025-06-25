@@ -76,8 +76,8 @@ Medical robots; Smart material-based actuators; Precision motion control.
   
 - **[2025-05-16]** 🎉 A paper by MS student **Yunzhi Zhang** has been **ACCEPTED** for publication in **Mechatronics** as well as will be presented in IFAC Joint Symposia on Mechatronics & Robotics to be held in the beautiful city of Paris from July 15 to July 18, 2025.
 
-- **[2025-05-10]** 📚 A new international collaboration course **Academic Reading, Writing and Presentation Skills** with [UTTOP](https://www.uttop.fr/en/index.html) has been successfully launched.
+- **[2025-05-10]** 📚 A new international collaboration course **Academic Reading, Writing and Presentation Skills** with Prof. Micky Rakotondrabe from [UTTOP](https://www.uttop.fr/en/index.html) has been successfully launched.
 
-- **[2025-03-01]** 📝 Dr. Jie Ling has been invited as an **Associate Editor** for the upcoming special issue in [IFAC Mechatronics 2025](https://www.ifac2025.org/) journal with presentation at the Symposia to be held in Paris.
+- **[2025-03-01]** 📝 Dr. Jie Ling has been invited as an **Associate Editor** for the upcoming special issue in [IFAC Mechatronics](https://www.ifac2025.org/) journal with presentation at IFAC Joint Symposia on Mechatronics & Robotics 2025 to be held in Paris.
 
 
