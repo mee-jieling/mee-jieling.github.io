@@ -61,9 +61,6 @@ I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power 
 
 [Precision and Motion Control Group at NUAA](https://nuaapac.github.io/)
 
-## Research
-
-Medical robots; Smart material-based actuators; Precision motion control.
 
 ## Teaching
 ### Undergraduate Courses
