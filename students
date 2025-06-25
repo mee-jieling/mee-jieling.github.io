@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Jie Ling - Students</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0 20px;
+      background: #fff;
+    }
+    h1, h2 {
+      color: #00558C;
+    }
+    section {
+      padding: 30px 0;
+    }
+    #navbar {
+      position: sticky;
+      top: 0;
+      background: #f8f8f8;
+      padding: 10px;
+      border-bottom: 1px solid #ccc;
+      z-index: 1000;
+    }
+    #navbar a {
+      margin: 0 10px;
+      text-decoration: none;
+      color: #00558C;
+    }
+    #navbar a:hover {
+      text-decoration: underline;
+    }
+
+    .student-group {
+      margin-bottom: 40px;
+    }
+
+    .student-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+
+    .student-card {
+      width: 220px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      text-align: center;
+    }
+
+    .student-card img {
+      width: 100%;
+      height: 200px;
+      object-fit: cover;
+      border-radius: 5px;
+      background: #eee;
+    }
+
+    .student-card h3 {
+      font-size: 1.1em;
+      margin: 10px 0 4px;
+    }
+
+    .student-card p {
+      font-size: 0.9em;
+      color: #555;
+      margin: 0;
+    }
+
+    .student-card a {
+      color: #007acc;
+      font-size: 0.9em;
+      text-decoration: none;
+    }
+
+    .student-card a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- 导航栏 -->
+  <div id="navbar">
+    <a href="index.html">Home</a> |
+    <a href="bio.html">BIO</a> |
+    <a href="research.html">Research</a> |
+    <a href="teaching.html">Teaching</a> |
+    <a href="publications.html">Publications</a> |
+    <a href="students.html">Students</a> |
+    <a href="contact.html">Contact</a>
+  </div>
+
+  <!-- 内容区域 -->
+  <section>
+    <h1>Students</h1>
+
+    <!-- PhD Students -->
+    <div class="student-group">
+      <h2>PhD Students</h2>
+      <div class="student-list">
+        <div class="student-card">
+          <img src="images/duan.jpg" alt="Yuzhou Duan">
+          <h3>段榆洲 / Yuzhou Duan</h3>
+          <p>Sep 2022 - Present</p>
+          <p>Co-supervised with Prof. Yuchuan Zhu</p>
+          <a href="https://scholar.google.com.hk/citations?user=3r_wYSkAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Master Students -->
+    <div class="student-group">
+      <h2>Master Students</h2>
+      <div class="student-list">
+        <div class="student-card">
+          <img src="images/kang.jpg" alt="Shaoshuai Kang">
+          <h3>康绍帅 / Shaoshuai Kang</h3>
+          <p>Sep 2025</p>
+        </div>
+        <div class="student-card">
+          <img src="images/gong.jpg" alt="Pengfei Gong">
+          <h3>巩鹏飞 / Pengfei Gong</h3>
+          <p>Sep 2025</p>
+        </div>
+        <div class="student-card">
+          <img src="images/li.jpg" alt="Longyu Li">
+          <h3>李龙宇 / Longyu Li</h3>
+          <p>Sep 2025</p>
+        </div>
+        <div class="student-card">
+          <img src="images/xie.jpg" alt="Congan Xie">
+          <h3>谢从安 / Congan Xie</h3>
+          <p>Sep 2024</p>
+        </div>
+        <div class="student-card">
+          <img src="images/yu.jpg" alt="Zuoqing Yu">
+          <h3>玉作庆 / Zuoqing Yu</h3>
+          <p>Sep 2024</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Alumni -->
+    <div class="student-group">
+      <h2>Alumni</h2>
+      <div class="student-list">
+        <div class="student-card">
+          <img src="images/peng.jpg" alt="Hongtao Peng">
+          <h3>彭洪涛 / Hongtao Peng</h3>
+          <p>Sep 2022 – Mar 2025</p>
+          <p>Now PhD @ Zhejiang Univ.</p>
+          <a href="https://www.researchgate.net/profile/Hongtao-Peng-3" target="_blank">ResearchGate</a>
+        </div>
+        <div class="student-card">
+          <img src="images/zhang.jpg" alt="Yunzhi Zhang">
+          <h3>张允执 / Yunzhi Zhang</h3>
+          <p>Sep 2022 – Mar 2025</p>
+          <p>Now PhD @ Fudan Univ.</p>
+          <a href="https://www.researchgate.net/profile/Yunzhi-Zhang-12" target="_blank">ResearchGate</a>
+        </div>
+      </
