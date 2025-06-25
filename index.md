@@ -66,6 +66,14 @@ I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power 
 ## Research Interests
 Medical robots; Smart material-based actuators; Precision motion control.
 
-## News
-[2025-06-15] A review paper by Phd Student Yuzhou Duan has been ACCEPTED for publication in IEEE Transactions on Medical Robotics and Bionics (TMRB).
+## 📢 News
+
+- **[2025-06-15]** 🎉 A review paper by *PhD student Yuzhou Duan* has been **ACCEPTED** for publication in [IEEE Transactions on Medical Robotics and Bionics (TMRB)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9039958).
+
+- **[2025-05-01]** 📝 Prof. Jie Ling has been invited as an **Associate Editor** for the upcoming [IFAC Mechatronics 2025](https://www.ifac2025.org/) to be held in Paris.
+
+- **[2025-03-22]** 🏆 Our paper on dual-mode piezoelectric actuators received the **Best Paper Award** at [ICARM 2025](https://www.ieee-icarm.org/).
+
+- **[2025-05-10]** 📚 A new international collaboration course **Academic Reading, Writing and Presentation Skills** with [UTTOP](https://www.uttop.fr/en/index.html) has been successfully launched.
+
 
