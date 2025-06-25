@@ -68,16 +68,16 @@ Medical robots; Smart material-based actuators; Precision motion control.
 
 ## 📢 News
 
-- **[2025-06-15]** 🎉 A review paper by *PhD student Yuzhou Duan* has been **ACCEPTED** for publication in [IEEE Transactions on Medical Robotics and Bionics (TMRB)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9039958).
+- **[2025-06-15]** 🎉 A review paper by PhD student **Yuzhou Duan** has been **ACCEPTED** for publication in [IEEE Transactions on Medical Robotics and Bionics (TMRB)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9039958).
 
-- **[2025-05-26]** 🏆 课题组博士生*段榆洲*获南京航空航天大学“博士生学位论文创新与创优基金”资助.
+- **[2025-05-26]** 🏆 课题组博士生**段榆洲**获南京航空航天大学“博士生学位论文创新与创优基金”资助.
 
-- **[2025-05-22]** 🎉 课题组硕士生*彭洪涛*两篇论文分别被《航空科学技术》、《航空动力学报》录用.
+- **[2025-05-22]** 🎉 课题组硕士生**彭洪涛**两篇论文分别被《航空科学技术》、《航空动力学报》录用.
   
-- **[2025-05-16]** 🎉 A paper by *MS student Yunzhi Zhang* has been **ACCEPTED** for publication in **Mechatronics** as well as will be presented in IFAC Joint Symposia on Mechatronics & Robotics to be held in the beautiful city of Paris from July 15 to July 18, 2025.
+- **[2025-05-16]** 🎉 A paper by MS student **Yunzhi Zhang** has been **ACCEPTED** for publication in **Mechatronics** as well as will be presented in IFAC Joint Symposia on Mechatronics & Robotics to be held in the beautiful city of Paris from July 15 to July 18, 2025.
 
 - **[2025-05-10]** 📚 A new international collaboration course **Academic Reading, Writing and Presentation Skills** with [UTTOP](https://www.uttop.fr/en/index.html) has been successfully launched.
 
-- **[2025-03-01]** 📝 Dr. Jie Ling has been invited as an **Associate Editor** for the upcoming [IFAC Mechatronics 2025](https://www.ifac2025.org/) to be held in Paris.
+- **[2025-03-01]** 📝 Dr. Jie Ling has been invited as an **Associate Editor** for the upcoming special issue in [IFAC Mechatronics 2025](https://www.ifac2025.org/) journal with presentation at the Symposia to be held in Paris.
 
 
