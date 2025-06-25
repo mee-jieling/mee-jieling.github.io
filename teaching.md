@@ -40,6 +40,8 @@
 
 **可编程控制器** / Programmable Logic Controller
 
+**机器人动力学与控制** / Robot Dynamics and Control
+
 ### Master's and Doctoral Courses
 
 **基于智能材料的机电系统:建模与控制** / Modelling and Control of Smart Materials based Mechatronic Systems / NUAA International Course cooperated with Prof. [Micky Rakotondrabe](http://m.rakoton.net/) ([UTTOP](https://www.uttop.fr/en/index.html), Tarbes France)
