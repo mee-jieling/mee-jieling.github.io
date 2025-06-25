@@ -21,6 +21,7 @@
   }
 </style>
 
+
 <!-- 添加顶部导航栏 -->
 <div id="navbar" style="position: sticky; top: 0; background: #f0f0f0; padding: 10px; z-index: 1000;">
   <a href="#bio">BIO</a> |
