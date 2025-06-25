@@ -1,3 +1,5 @@
+## Publication List
+
 <style>
   section {
     padding: 40px 20px;
@@ -32,7 +34,7 @@
   <a href="contact.html">Contact</a>
 </div>
 
-## Publication List
+
 
 ### Journal Papers
 
