@@ -1,3 +1,5 @@
+## Research Interests
+
 <style>
   section {
     padding: 40px 20px;
@@ -26,12 +28,12 @@
   <a href="index.html">Home</a> |
   <a href="bio.html">Bio</a> |
   <a href="research.html">Research</a> |
-  <a href="teaching.html>Teaching</a> |
+  <a href="teaching.html">Teaching</a> |
   <a href="publications.html">Publications</a> |
   <a href="students.html">Students</a> |
   <a href="contact.html">Contact</a>
 </div>
 
-## Research Interests
+
 
 Medical robots; Smart material-based actuators; Precision motion control.
