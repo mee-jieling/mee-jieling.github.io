@@ -3,82 +3,107 @@
 <head>
   <meta charset="UTF-8">
   <title>Jie Ling - Students</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
-      font-family: sans-serif;
+      font-family: 'Segoe UI', sans-serif;
       line-height: 1.6;
       margin: 0;
       padding: 0 20px;
-      background: #fff;
+      background: #fdfdfd;
     }
+
     h1, h2 {
-      color: #00558C;
+      color: #003366;
     }
+
     section {
-      padding: 30px 0;
+      padding: 40px 0;
     }
+
     #navbar {
       position: sticky;
       top: 0;
-      background: #f8f8f8;
-      padding: 10px;
+      background: #f0f4f8;
+      padding: 10px 20px;
       border-bottom: 1px solid #ccc;
       z-index: 1000;
     }
+
     #navbar a {
-      margin: 0 10px;
+      margin: 0 12px;
       text-decoration: none;
       color: #00558C;
+      font-weight: 500;
     }
+
     #navbar a:hover {
       text-decoration: underline;
     }
 
     .student-group {
-      margin-bottom: 40px;
+      margin-bottom: 50px;
     }
 
     .student-list {
       display: flex;
       flex-wrap: wrap;
-      gap: 20px;
+      gap: 24px;
     }
 
     .student-card {
+      background: white;
       width: 220px;
-      border: 1px solid #ddd;
-      border-radius: 8px;
-      padding: 10px;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      padding: 15px;
       text-align: center;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .student-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 6px 12px rgba(0,0,0,0.15);
     }
 
     .student-card img {
-      width: 60%;
-      height: 60%;
+      width: 100px;
+      height: 100px;
       object-fit: cover;
-      border-radius: 5px;
+      border-radius: 50%;
+      margin-bottom: 10px;
       background: #eee;
     }
 
     .student-card h3 {
-      font-size: 1.1em;
-      margin: 10px 0 4px;
+      font-size: 1em;
+      margin: 8px 0 4px;
+      color: #00264d;
     }
 
     .student-card p {
-      font-size: 0.9em;
+      font-size: 0.88em;
       color: #555;
-      margin: 0;
+      margin: 4px 0;
     }
 
     .student-card a {
       color: #007acc;
-      font-size: 0.9em;
+      font-size: 0.88em;
       text-decoration: none;
+      display: inline-block;
+      margin-top: 6px;
     }
 
     .student-card a:hover {
       text-decoration: underline;
+    }
+
+    @media screen and (max-width: 600px) {
+      .student-list {
+        flex-direction: column;
+        align-items: center;
+      }
     }
   </style>
 </head>
@@ -95,101 +120,18 @@
     <a href="contact.html">Contact</a>
   </div>
 
-  <!-- 内容区域 -->
+  <!-- 页面主体 -->
   <section>
-    <h1>Students</h1>
+    <h1>🎓 Students</h1>
 
-    <!-- PhD Students -->
+    <!-- PhD -->
     <div class="student-group">
       <h2>PhD Students</h2>
       <div class="student-list">
         <div class="student-card">
           <img src="photos/DuanYuzhou.jpg" alt="Yuzhou Duan">
           <h3>段榆洲 / Yuzhou Duan</h3>
-          <p>Sep 2022 - Present</p>
+          <p>Sep 2022 – Present</p>
           <p>Co-supervised with Prof. Yuchuan Zhu</p>
           <a href="https://scholar.google.com.hk/citations?user=3r_wYSkAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a>
-        </div>
-      </div>
-    </div>
-
-    <!-- Master Students -->
-    <div class="student-group">
-      <h2>Master Students</h2>
-      <div class="student-list">
-        <div class="student-card">
-          <img src="photos/ZhangGuodong.jpg" alt="Guodong Zhang">
-          <h3>张国栋 / Guodong Zhang</h3>
-          <p>Sep 2023 - Present</p>
-        </div>
-        <div class="student-card">
-          <img src="photos/ZhaoRuifeng.jpg" alt="Ruifeng Zhao">
-          <h3>赵瑞峰 / Ruifeng Zhao</h3>
-          <p>Sep 2023 - Present</p>
-        </div>
-        <div class="student-card">
-          <img src="photos/YangQizhe.png" alt="Qizhe Yang">
-          <h3>杨琦哲 / Qizhe Yang</h3>
-          <p>Sep 2023 - Present</p>
-        </div>
-      </div>
-      <div class="student-list">
-        <div class="student-card">
-          <img src="photos/YuZuoqing.jpg" alt="Zuoqing Yu">
-          <h3>玉作庆 / Zuoqing Yu</h3>
-          <p>Sep 2024 - Present</p>
-        </div>        
-        <div class="student-card">
-          <img src="photos/XieCongan.jpg" alt="Congan Xie">
-          <h3>谢从安 / Congan Xie</h3>
-          <p>Sep 2024 - Present</p>
-        </div>
-        <div class="student-card">
-          <img src="photos/ZhouPengfei.jpg" alt="Pengfei Zhou">
-          <h3>周鹏飞 / Pengfei Zhou</h3>
-          <p>Sep 2024 - Present</p>
-        </div>  
-        <div class="student-card">
-          <img src="photos/JianJie.png" alt="Mandakini">
-          <h3>简洁 / Mandakini</h3>
-          <p>Sep 2024 - Present</p>
-        </div>   
-      </div>
-      <div class="student-list">
-        <div class="student-card">
-          <img src="photos/KangShaoshuai.jpg" alt="Shaoshuai Kang">
-          <h3>康绍帅 / Shaoshuai Kang</h3>
-          <p>Sep 2025 - Present</p>
-        </div>
-        <div class="student-card">
-          <img src="photos/GongPengfei.jpg" alt="Pengfei Gong">
-          <h3>巩鹏飞 / Pengfei Gong</h3>
-          <p>Sep 2025 - Present</p>
-        </div>
-        <div class="student-card">
-          <img src="photos/LiLongyu.jpg" alt="Longyu Li">
-          <h3>李龙宇 / Longyu Li</h3>
-          <p>Sep 2025 - Present</p>
-        </div>        
-      </div>
-    </div>
-
-    <!-- Alumni -->
-    <div class="student-group">
-      <h2>Alumni</h2>
-      <div class="student-list">
-        <div class="student-card">
-          <img src="photos/PengHongtao.jpg" alt="Hongtao Peng">
-          <h3>彭洪涛 / Hongtao Peng</h3>
-          <p>Sep 2022 – Mar 2025</p>
-          <p>Now PhD Student @ Zhejiang University</p>
-          <a href="https://www.researchgate.net/profile/Hongtao-Peng-3" target="_blank">ResearchGate</a>
-        </div>
-        <div class="student-card">
-          <img src="photos/ZhangYunzhi.jpg" alt="Yunzhi Zhang">
-          <h3>张允执 / Yunzhi Zhang</h3>
-          <p>Sep 2022 – Mar 2025</p>
-          <p>Now PhD Student @ Fudan University</p>
-          <a href="https://www.researchgate.net/profile/Yunzhi-Zhang-12" target="_blank">ResearchGate</a>
-        </div>
-      </
+        </di
