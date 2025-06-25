@@ -1,5 +1,15 @@
 ## Welcome to Jie LING's Home Page
 
+<!-- 添加顶部导航栏 -->
+<div id="navbar" style="position: sticky; top: 0; background: #f0f0f0; padding: 10px; z-index: 1000;">
+  <a href="#bio">BIO</a> |
+  <a href="#research">Research</a> |
+  <a href="#teaching">Teaching</a> |
+  <a href="#publications">Publications</a> |
+  <a href="#students">Students</a> |
+  <a href="#contact">Contact</a>
+</div>
+
 <table border="0">
   <tr>
     <td width="75%">
