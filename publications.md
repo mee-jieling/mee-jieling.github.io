@@ -39,6 +39,7 @@
 ## Journal Papers (* Corresponding author)
 
 ### 2025
+[62] Yuzhou Duan, **Jie Ling***, Micky Rakotondrabe, Zuoqing Yu, Lei Zhang and Yuchuan Zhu*, 'A review of flexible bronchoscope robots for peripheral pulmonary noduleintervention', IEEE Transactions on Medical Robotics and Bionics (TMRB). 2025. (Accepted)
 
 [61] 彭洪涛，张允执，**凌杰***，张文星，康佳豪，朱玉川. 油液环境下的压电双晶片执行器数学建模与试验分析. **航空科学技术**. 2025. (Accepted)
 
