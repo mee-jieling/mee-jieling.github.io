@@ -1,4 +1,4 @@
-## Contact Infomation
+# Contact Infomation
 
 <style>
   section {
@@ -34,8 +34,20 @@
   <a href="contact.html">Contact</a>
 </div>
 
-Welcome undergraduate, master and phd students in mechanical engineering, automation, or other relevent majors.
+## 📬 Info
 
-Contact with me if you are interested in joining us. (**meejling@nuaa.edu.cn**)
+> 💬 *Welcome undergraduate, master, and PhD students in mechanical engineering, automation, or other relevant majors.*
 
-We are also open for exchange or visiting students to [NUAA](https://ciee.nuaa.edu.cn/).
+If you're interested in joining us, feel free to reach out:
+
+- 📧 **Email**: [meejling@nuaa.edu.cn](mailto:meejling@nuaa.edu.cn)  
+- 🏫 **Affiliation**: College of Mechanical and Electrical Engineering, [Nanjing University of Aeronautics and Astronautics (NUAA)](https://nuaa.edu.cn/)  
+- 🌍 **Exchange / Visiting Students**: See [International Office at NUAA](https://ciee.nuaa.edu.cn/)
+
+---
+
+### 📍 Address / 通讯地址
+
+- **English**: No.29 Yudao Street, Qinhuai District, Nanjing 210016, China  
+- **中文**：江苏省南京市秦淮区御道街29号，南京航空航天大学机电学院，邮编：210016
+
