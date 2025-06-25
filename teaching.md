@@ -1,4 +1,4 @@
-## Teaching
+# Teaching
 
 <style>
   section {
@@ -35,15 +35,29 @@
 </div>
 
 
-### Undergraduate Courses
-**液压与气压传动** / Hydraulic and Pneumatic Transmission
+## 📘 Undergraduate Courses 本科生课程
 
-**可编程控制器** / Programmable Logic Controller
+- **液压与气压传动**  
+  *Hydraulic and Pneumatic Transmission*
 
-**机器人动力学与控制** / Robot Dynamics and Control
+- **可编程控制器**  
+  *Programmable Logic Controller (PLC)*
 
-### Master's and Doctoral Courses
+- **机器人动力学与控制**  
+  *Robot Dynamics and Control*
 
-**基于智能材料的机电系统:建模与控制** / Modelling and Control of Smart Materials based Mechatronic Systems / NUAA International Course cooperated with Prof. [Micky Rakotondrabe](http://m.rakoton.net/) ([UTTOP](https://www.uttop.fr/en/index.html), Tarbes France)
+---
 
-**学术读写说技巧** / Academic Reading, Writing and Presentation Skills / NUAA International Course cooperated with Prof. [Micky Rakotondrabe](http://m.rakoton.net/) ([UTTOP](https://www.uttop.fr/en/index.html), Tarbes France)
+## 🎓 Master's and Doctoral Courses 研究生课程
+
+- **基于智能材料的机电系统：建模与控制**  
+  *Modelling and Control of Smart Materials-based Mechatronic Systems*  
+  🧭 *NUAA International Course*  
+  🤝 *Co-taught with [Prof. Micky Rakotondrabe](http://m.rakoton.net/) from [UTTOP](https://www.uttop.fr/en/index.html), France*
+
+- **学术读写说技巧**  
+  *Academic Reading, Writing and Presentation Skills*  
+  🧭 *NUAA International Course*  
+  🤝 *Joint with [Prof. Micky Rakotondrabe](http://m.rakoton.net/) ([UTTOP](https://www.uttop.fr/en/index.html))*
+
+---
