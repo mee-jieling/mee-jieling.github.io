@@ -36,11 +36,53 @@
 
 ### Education
 
+B. Eng., Mechanical Engineering, Spet. 2008 to Jun. 2012, Wuhan University
+
+Ph. D., Mechanical Engineering, Spet. 2012 to Jun. 2018, Wuhan University  (Supervisor: Prof. Xiaohui Xiao)
+
 ### Research Experiences
+
+Visiting Ph.D. Student, Aug. 2017 to Nov. 2017. Department of Automatic Control and Micro-Mechatronic Systems, FEMTO-ST Institute, Besançon, France (Supervisor: Prof. Micky Rakotondrabe)
+
+Postdoctoral Fellow, Jul. 2018 to Jun. 2020, Department of Mechanical Engineering, Wuhan University, Wuhan, China (Su-pervisor: Prof. Xiaohui Xiao)
+
+Postdoctoral Fellow, Jan. 2019 to Jan. 2020, Department of Biomedical Engineering, National University of Singapore, Sin-gapore (Supervisor: Prof. Haoyong Yu)
+
+Associate Professor, Aug. 2020 to present, College of Mechanical and Electrical Engineering, Nanjing University of Aero-nautics and Astronautics, China
+
+Visiting Professor, Dec. 2024 to Dec. 2025, Laboratoire Génie de Production, University of Technologie Tarbes Occitanie Pyrénées (UTTOP), University of Toulouse alliance, France. (Supervisor: Prof. Micky Rakotondrabe)
 
 ### Prizes and Awards
 
+第十五届本科生学术论坛优秀指导教师奖，2024
+
+校级本科优秀毕业设计二等奖（指导教师），2024
+
+IEEE ROBIO最佳会议论文提名奖（通讯作者），2023
+
+IEEE FPM最佳论文一等奖（合作作者），2023
+
+IEEE ICARM 最佳会议论文提名奖（合作作者），2023
+
+校级本科优秀毕业设计一等奖（指导教师），2022
+
+第十二届本科生学术论坛优秀指导教师奖，2021
+
+江苏省双创博士，2021年
+
+南京航空航天大学“长空学者”计划，2020年
+
+Best Paper Award Finalist, awarded by the IEEE International Conference on Ad-vanced Robotics and Mechatronics (ICARM 2018), Jul. 2018
+
+Excellent PhD Graduate Student Award, awarded by Wuhan University, May 2018
+
+Best Student Paper Award, awarded by the 9th International Conference on Intel-ligent Robotics and Applications (ICIRA 2016), Aug. 2016
+
+Excellent Undergraduate Thesis, “Design of Humanoid biped robot walking mecha-nism and its control system”, awarded by Hubei Provincial Department of Education, Dec. 2012
+
 ### Supervised students prizes and awards
+
+
 
 ### Editors & Organizer
 [1] Session Chair: [Zhao Feng](https://scholar.google.com.hk/citations?user=dXkBZJAAAAAJ&hl=zh-CN), **Jie Ling**, [Zhao Guo](https://scholar.google.com.hk/citations?user=P49ZTTsAAAAJ&hl=zh-CN), Xiaohui Xiao. _Advanced actuation and intelligent control in medical robot. 17th International Conference on Intelligent Robotics and Applications (ICIRA 2024)_. 31st Jul.~ 2nd Aug, Xi’an, China, 2024.
