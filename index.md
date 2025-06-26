@@ -74,7 +74,7 @@ Medical robots; Smart material-based actuators; Precision motion control.
 
 - **[2025-05-22]** 🎉 课题组硕士生**彭洪涛**两篇论文分别被《航空科学技术》、《航空动力学报》录用.
   
-- **[2025-05-16]** 🎉 A paper by MS student **Yunzhi Zhang** has been **ACCEPTED** for publication in **Mechatronics** as well as will be presented in IFAC Joint Symposia on Mechatronics & Robotics to be held in the beautiful city of Paris from July 15 to July 18, 2025.
+- **[2025-05-16]** 🎉 A paper by master student **Yunzhi Zhang** has been **ACCEPTED** for publication in **Mechatronics** as well as will be presented in IFAC Joint Symposia on Mechatronics & Robotics to be held in the beautiful city of Paris from July 15 to July 18, 2025.
 
 - **[2025-05-10]** 📚 A new international collaboration course **Academic Reading, Writing and Presentation Skills** with Prof. Micky Rakotondrabe from [UTTOP](https://www.uttop.fr/en/index.html) has been successfully launched.
 
