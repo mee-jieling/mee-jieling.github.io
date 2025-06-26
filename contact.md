@@ -48,6 +48,6 @@ If you're interested in joining us, feel free to reach out:
 
 ### 📍 Address / 通讯地址
 
-- **English**: No.29 Yudao Street, Qinhuai District, Nanjing 210016, China  
-- **中文**：江苏省南京市秦淮区御道街29号，南京航空航天大学机电学院，邮编：210016
+- No.29 Yudao Street, Qinhuai District, Nanjing 210016, China  
+- 江苏省南京市秦淮区御道街29号，南京航空航天大学明故宫校区机电学院，邮编：210016
 
