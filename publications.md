@@ -36,7 +36,7 @@
 
 
 
-## Journal Papers (\* Corresponding author)
+## Journal Papers (\* Corresponding author)  / 期刊论文
 
 ### 2025
 [62] Yuzhou Duan, **Jie Ling**\*, Micky Rakotondrabe, Zuoqing Yu, Lei Zhang and Yuchuan Zhu\*. 'A review of flexible bronchoscope robots for peripheral pulmonary nodule intervention'. **_IEEE Transactions on Medical Robotics and Bionics (TMRB)_**. 2025. (Accepted)
@@ -176,7 +176,7 @@
 [1] **凌杰**, 明敏, 冯朝, 肖晓晖\*. [多轴运动系统非线性轮廓重复跟踪的主从交叉耦合迭代学习控制](http://www.aas.net.cn/fileZDHXB/journal/article/zdhxb/2017/12/PDF/zdhxb-43-12-2127.pdf). **自动化学报**. 2017, **43**(12): 2127-2140.
 
 
-## Conference Papers
+## Conference Papers  / 会议论文
 
 [26] Zuoqing Yu, Yuzhou Duan, Lei Zhang, and **Jie Ling**\*. [A patient-mounted spherical scissor-like remote center of motion mechanism for robotic-assisted lumbar puncture](https://link.springer.com/chapter/10.1007/978-981-96-0777-8_9). _17th International Conference on Intelligent Robotics and Applications (ICIRA 2024)_. 31st Jul.~ 2nd Aug, Xi’an, China, 2024.
  
@@ -231,7 +231,35 @@
 [1] **Jie Ling**, and Xiaohui Xiao\*. [Rapid and precise control of a micro-manipulation stage combining H∞ with ILC algorithm](http://www.i-asem.org/publication_conf/anbre13/M5C.3.RR608_1046F.pdf). _The 2013 World Congress on Advances in Nano, Biomechanics, Robotics, and Energy Research_, Aug. 25-28, Seoul, South Korea, 2013.
 
 
-### Books & Chapters
+## Books & Chapters  / 专著
 Xiaohui Xiao, **Jie Ling**, [Zhao Feng](https://scholar.google.com.hk/citations?user=dXkBZJAAAAAJ&hl=zh-CN). High-speed Scanning Motion Control of Piezoelectric Nanopositioning Systems. Monography in preparation. 
 
+## Invention Patents / 发明专利
 
+[7] **凌杰**，段榆洲，朱玉川，张洺铭，王彦文，张允执. 一种机液混合传动的微创手术机器人及控制方法. 发明专利. 授权号 ZL 202210299540.9. 
+
+[6] **凌杰**，陈龙，朱玉川，张洺铭，段榆洲. 一种二进制编码的数字式自感应压电叠堆装置及工作方法. 发明专利. 授权号 ZL 202210167766.3.
+
+[5] **凌杰**, 田佳淳, 朱玉川, 段榆洲, 张允执, 张梦昊. 一种压电驱动细胞显微注射装置及其自适应柔顺控制方法. 发明专利. 授权号ZL 202111393114.3. 
+
+[4] 陈龙，朱玉川，**凌杰**，刘昶. 一种高频大位移多维离散磁致伸缩执行器及控制方法. 发明专利. 授权号 ZL 202110643046.5.
+
+[3] **凌杰**，谷悦，朱玉川，陈龙，郑述峰，张洺铭. 一种变刚度调谐的压电俘能器. 发明专利. 授权号 ZL 202011550006.8. 
+
+[2] **凌杰**, 肖晓晖, 邱灿程，冯朝，明敏，叶婷婷. 一种实现双向驱动的粘滑式压电驱动器及控制方法. 发明专利.  授权号 ZL 202010547153.3. 
+
+[1] **凌杰**，肖晓晖，叶婷婷，冯朝，明敏，邱灿程. 一种连续两行程两级常力输出微夹钳及控制方法. 发明专利. 授权号 ZL 202010563464.9. 
+
+## Utility Model Patents / 实用新型专利
+
+[1] 段榆洲，曹振强，曾香云，周顺，**凌杰**，朱玉川. 一种基于对称双平行四杆构型的眼科手术机器人. 实用新型专利. 专利号 ZL 2023 2 3466648.1
+
+## Software Copyright / 软件著作权
+
+[4] **凌杰**，玉作庆，段榆洲，朱玉川. 支气管镜机器人操作系统v1.0. 软件著作权. 登记号 2024SR1894429.
+
+[3] 朱玉川，陈龙，**凌杰**. 多维离散磁致伸缩执行器运动控制软件. 软件著作权. 登记号 2023SR0731857.
+
+[2] **凌杰**，张允执，张梦昊，段榆洲，朱玉川，陈龙，郑述峰. 细胞穿刺过程力学分析系统. 软件著作权. 登记号 2022SR0037290. 
+
+[1] **凌杰**，王彦文，段榆洲，张允执，朱玉川. 机器人辅助穿刺麻醉过程力/位在线分析及位姿实时显示系统. 软件著作权. 登记号 2022SR0561439. 
