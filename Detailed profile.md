@@ -160,7 +160,11 @@ IEEE Transactions on Automation Science and Engineering
 
 IEEE Transactions on Systems, Man and Cybernetics: Systems
 
+IEEE Transactions on Medical Robotics and Bionics
+
 IEEE Transactions on Instrumentation & Measurement
+
+IEEE Transactions on Aerospace and Electronic Systems
 
 IEEE Robotics and Automation Letters
 
