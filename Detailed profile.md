@@ -36,9 +36,9 @@
 
 ## Education
 
-**B. Eng.**, Mechanical Engineering, Spet. 2008 to Jun. 2012, Wuhan University
+**B. Eng.**, Mechanical Engineering, Spet. 2008 to Jun. 2012, [Wuhan University](http://www.whu.edu.cn/)
 
-**Ph. D.**, Mechanical Engineering, Spet. 2012 to Jun. 2018, Wuhan University  (Supervisor: Prof. Xiaohui Xiao)
+**Ph. D.**, Mechanical Engineering, Spet. 2012 to Jun. 2018, [Wuhan University](http://www.whu.edu.cn/)  (Supervisor: Prof. Xiaohui Xiao)
 
 ## Research Experiences
 
@@ -52,7 +52,7 @@
 
 **Visiting Professor**, Dec. 2024 to Dec. 2025, Laboratoire Génie de Production, University of Technologie Tarbes Occitanie Pyrénées (UTTOP), University of Toulouse alliance, France. (Supervisor: Prof. Micky Rakotondrabe)
 
-## Prizes and Awards
+## Prizes, Honors and Awards
 
 第十五届本科生学术论坛优秀指导教师奖，2024
 
@@ -80,9 +80,9 @@ Best Student Paper Award, awarded by the 9th International Conference on Intel-l
 
 Excellent Undergraduate Thesis, “Design of Humanoid biped robot walking mecha-nism and its control system”, awarded by Hubei Provincial Department of Education, Dec. 2012
 
-## Supervised students prizes and awards
+## Supervised Student Competitions, Contests, Research Programs and The Student Prizes, Honors, Awards
 
-### 大学生创新训练计划项目
+### Undergraduate Innovation Training Program / 大学生创新训练计划项目
 2021年，基于压电振动调制的细胞微注射系统设计，国家级，段榆洲、田佳淳、王忠尉、张允执、张梦昊，考核良好
 
 2022年，机器人辅助穿刺麻醉进针机构设计与运动控制，校级，邢宇、吴志雨、薛宇航、周延，通过
@@ -95,32 +95,32 @@ Excellent Undergraduate Thesis, “Design of Humanoid biped robot walking mecha-
 
 2024年，椎管内麻醉穿刺定位机构设计与组织感知，校级，贾文博、黄文卓、王腾、赵宝华，良好
 
-### 本科生自由探索计划项目
+### Undergraduate Free Exploration Program / 本科生自由探索计划项目
 2022年，细胞切割微操作针结构设计，黎天昊、李邦序、宁心、秦一炜
 
 2022年，位姿自适应智能弹药结构设计，姜雨辰、吴俊阳、姚皓博、宋汶龙
 
 2022年，仿蝙蝠扑翼无人机的原理设计，高华、魏佳旭、黄泽毅、周顺
 
-### 机器人竞赛
+### University Students' Robot Competition / 大学生机器人竞赛
 2022年，第五届中国高校智能机器人创意大赛江苏区域赛，二等奖，廖之峰、皮俊杰、夏凌峰
 
 2022年，第五届中国高校智能机器人创意大赛江苏区域赛，二等奖，段榆洲、张允执、张梦昊
 
-### 本科生学术论坛
+### Undergraduate Academic Forum / 本科生学术论坛
 2021年，第十二届本科生学术论坛一等奖、季军，段榆洲
 
 2024年，第十五届本科生学术论坛一等奖，贾文博
 
-### 本科生毕业设计
+### Undergraduate Graduation Project / 本科生毕业设计
 2024年，校优秀本科毕业设计二等奖，身体固定式腰麻穿刺机器人软硬件系统设计，玉作庆
 
 2022年，校优秀本科毕业设计一等奖，机器人辅助穿刺麻醉进针机构与运动控制系统设计，段榆洲
 
-### 全国毕设大赛
+### National Undergraduate Graduation Project Competition / 全国毕设大赛
 2024年，第七届精雕杯毕业设计大赛东部赛区二等奖，身体固定式腰麻穿刺机器人软硬件系统设计，玉作庆
 
-### 研究生基金项目
+### Postgraduate Research Fund Project / 研究生科研基金项目
 2023年，研究生创新实验竞赛，面向椎管内麻醉的机器人辅助针穿刺系统，段榆洲、张允执、彭洪涛、张国栋
 
 2024年，江苏省研究生科研与实践创新计划项目，面向肺外周活检的软连续体支气管镜机器人系统研究，段榆洲
