@@ -138,7 +138,14 @@ Excellent Undergraduate Thesis, “Design of Humanoid biped robot walking mecha-
 
 [5] Session Organizer: [Zhao Guo](https://scholar.google.com.hk/citations?user=P49ZTTsAAAAJ&hl=zh-CN) (WHU, Wuhan China), [Zhao Feng](https://scholar.google.com.hk/citations?user=dXkBZJAAAAAJ&hl=zh-CN) (WHU, Wuhan China), Jian Zhou (WHU, Wuhan China), **Jie Ling** (NUAA, Nanjing China). Intelligent Sensing and control in medical robotics. _2025 IEEE International Conference on Cyborg and Bionic Systems (CBS 2025)_. October 17-19, Beijing, China, 2025.
 
-## Journal Referee
+## Thesis Referee / 学位论文评审
+
+教育部学位论文评审专家
+
+南京理工大学、沈阳航空航天大学、南昌航空航天大学等本科毕设评审
+
+
+## Journal Referee  / 期刊论文评审
 IEEE Transactions on Industrial Electronics
 
 IEEE Transactions on Robotics
@@ -193,9 +200,15 @@ Mechatronics
 
 Control Engineering Practice
 
+Robotics and Autonomous Systems
+
 International Journal of Advanced Robotic Systems
 
 Review of Scientific Instruments
+
+Transactions of the Institute of Measurement and Control
+
+Scientific Reports
 
 MDPI Micromachines
 
@@ -205,14 +218,9 @@ Frontiers in Neurorobotics
 
 Advances in Mechanical Engineering
 
-Robotics and Autonomous Systems
+机械工程学报、航空学报、自动化学报、机器人等中文期刊审稿专家
 
-Transactions of the Institute of Measurement and Control
 
-教育部学位论文评审专家
+## Conferences Referee / 会议论文评审
 
-机械工程学报、航空学报、自动化学报、机器人等中文期刊
-
-## Conferences Referee
-
-American Control Conference (ACC), IEEE International Conference on Advanced Robotics and Mechatronics (ICARM), Chinese Control Conference (CCC), International Conference on Robotics and Automation (ICRA), IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), IFAC World Congress, International Conference on Intelligent Robotics and Applications (ICIRA).
+American Control Conference (ACC), IEEE International Conference on Advanced Robotics and Mechatronics (ICARM), Chinese Control Conference (CCC), International Conference on Robotics and Automation (ICRA), IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), IFAC World Congress, International Conference on Intelligent Robotics and Applications (ICIRA), IEEE International Conference on Robotics and Biomimetics (IEEE ROBIO)
