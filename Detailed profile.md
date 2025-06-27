@@ -140,91 +140,82 @@ Excellent Undergraduate Thesis, “Design of Humanoid biped robot walking mecha-
 
 ## Thesis Referee / 学位论文评审
 
-教育部学位论文评审专家
+- 教育部学位论文评审专家
+- 南京理工大学、沈阳航空航天大学、南昌航空航天大学等本科毕设评审
 
-南京理工大学、沈阳航空航天大学、南昌航空航天大学等本科毕设评审
+---
 
+## 🧾 Journal Referee / 期刊论文评审
 
-## Journal Referee  / 期刊论文评审
-IEEE Transactions on Industrial Electronics
+### 🔹 IEEE Transactions 系列
 
-IEEE Transactions on Robotics
+- IEEE Transactions on Industrial Electronics  
+- IEEE Transactions on Robotics  
+- IEEE/ASME Transactions on Mechatronics  
+- IEEE Transactions on Industrial Informatics  
+- IEEE Transactions on Control Systems Technology  
+- IEEE Transactions on Automation Science and Engineering  
+- IEEE Transactions on Systems, Man and Cybernetics: Systems  
+- IEEE Transactions on Medical Robotics and Bionics  
+- IEEE Transactions on Instrumentation & Measurement  
+- IEEE Transactions on Aerospace and Electronic Systems  
+- IEEE Robotics and Automation Letters  
+- IEEE Sensors Journal  
+- IEEE Access  
 
-IEEE/ASME Transactions on Mechatronics
+---
 
-IEEE Transactions on Industrial Informatics
+### 🔹 机械动力学 / 结构方向期刊（Elsevier / Springer / ASME 等）
 
-IEEE Transactions on Control Systems Technology
+- Mechanism and Machine Theory
+- Nonlinear Dynamics
+- Precision Engineering  
+- Smart Materials and Structures
+- Sensors and Actuators A: Physical  
+- Engineering
+- Engineering Structures
+- Ocean Engineering  
+- ASME Journal of Mechanisms and Robotics
+- Mechanical Systems and Signal Processing  
+- Mechatronics
+- Control Engineering Practice
+- ISA Transactions  
 
-IEEE Transactions on Automation Science and Engineering
+---
 
-IEEE Transactions on Systems, Man and Cybernetics: Systems
+### 🔹 控制 / 自动化方向期刊
 
-IEEE Transactions on Medical Robotics and Bionics
+- International Journal of Control
+- IET Control Theory & Applications  
+- Journal of Low Frequency Noise, Vibration & Active Control  
+- Transactions of the Institute of Measurement and Control  
 
-IEEE Transactions on Instrumentation & Measurement
+---
 
-IEEE Transactions on Aerospace and Electronic Systems
+### 🔹 开放获取 / 综合类期刊
 
-IEEE Robotics and Automation Letters
+- Scientific Reports  
+- MDPI Micromachines, MDPI Sensors  
+- Frontiers in Neurorobotics  
+- Advances in Mechanical Engineering  
+- Robotics and Autonomous Systems  
+- International Journal of Advanced Robotic Systems  
+- Review of Scientific Instruments  
 
-IEEE Sensors Journal
+---
 
-IEEE Access
+### 🔹 中文核心期刊
 
-Mechanism and Machine Theory
+- 《机械工程学报》、 《航空学报》、《自动化学报》、 《机器人》等
 
-Nonlinear Dynamics
+---
 
-Precision Engineering
+## 🗂️ Conferences Referee / 会议论文评审
 
-Smart Materials and Structures
-
-Sensors and Actuators A: Physical
-
-Engineering
-
-Engineering Structures
-
-Ocean Engineering
-
-IET Control Theory & Applications
-
-Journal of Low Frequency Noise, Vibration & Active Control
-
-International Journal of Control
-
-ISA Transactions
-
-ASME Journal of Mechanisms and Robotics
-
-Mechanical Systems and Signal Processing
-
-Mechatronics
-
-Control Engineering Practice
-
-Robotics and Autonomous Systems
-
-International Journal of Advanced Robotic Systems
-
-Review of Scientific Instruments
-
-Transactions of the Institute of Measurement and Control
-
-Scientific Reports
-
-MDPI Micromachines
-
-MDPI Sensors
-
-Frontiers in Neurorobotics
-
-Advances in Mechanical Engineering
-
-机械工程学报、航空学报、自动化学报、机器人等中文期刊审稿专家
-
-
-## Conferences Referee / 会议论文评审
-
-American Control Conference (ACC), IEEE International Conference on Advanced Robotics and Mechatronics (ICARM), Chinese Control Conference (CCC), International Conference on Robotics and Automation (ICRA), IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), IFAC World Congress, International Conference on Intelligent Robotics and Applications (ICIRA), IEEE International Conference on Robotics and Biomimetics (IEEE ROBIO)
+- American Control Conference (ACC), Chinese Control Conference (CCC)  
+- IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)  
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)  
+- IEEE International Conference on Robotics and Automation (ICRA)  
+- IEEE International Conference on Robotics and Biomimetics (ROBIO)  
+- International Conference on Intelligent Robotics and Applications (ICIRA)  
+- IFAC World Congress
