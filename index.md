@@ -61,7 +61,7 @@ I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power 
 🔗 **Academic Profiles**  
 - [🔬 ResearchGate](https://www.researchgate.net/profile/Jie-Ling-5)  
 - [📊 Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=HcqsRR4AAAAJ)  
-- [🆔 ORCID](https://orcid.org/0000-0002-6786-0422)  
+- [🆔  ORCID](https://orcid.org/0000-0002-6786-0422)  
 
 ## 🔬 Research Interests  
 **Medical robotics**, **Smart material actuators**, **Precision motion control**
