@@ -112,3 +112,34 @@
 
 
 ---
+
+
+## Supervised Master Thesis / 指导硕士学位论文
+- 2025年3月，张允执，硕士学位论文，分布式压电叠堆执行器设计与控制研究（Research on Design and Control of Distributed Piezoelectric Stack Actuator）
+- 2025年3月，彭洪涛，硕士学位论文，不同阻尼环境下压电双晶片-反馈杆组件建模与控制研究（Research on Modeling and Control of Piezoelectric Bimorph-Feedback Rod Assembly under Different Damping Environments）
+
+## Supervised Undergraduate Thesis / 指导本科毕设
+- 2021年5月，张正晗，二自由度解耦的压电微夹钳结构设计与性能仿真
+- 2021年5月，刘鹏坤，基于压电振动的细胞切割操作针结构设计与性能分析
+- 2021年5月，虞钧鹏，针对卵母细胞穿刺和注射的压电末端执行器结构设计与性能分析
+- 2021年5月，王晋华，基于变刚度调谐的压电俘能器结构设计与性能分析
+- 2022年5月，段榆洲，机器人辅助麻醉穿刺系统设计与精稳进针控制
+- 2022年5月，吕鹏，串并联混合式眼内手术器结构设计与运动/力学分析
+- 2022年5月，李昌汭，外科手术用远程运动中心机构设计与运动学/力学分析
+- 2022年5月，吴卓远，基于对称三角驱动机构的尺蠖旋转压电马达设计与分析
+- 2023年5月，艾北林，基于三维镂空柔顺机构的线性压电驱动器设计与性能仿真
+- 2023年5月，张国栋，强机电耦合压电俘能器的结构设计与性能分析
+- 2023年5月，张子洋，双向高速尺蠖式压电马达的结构设计与性能仿真
+- 2023年5月，王天佐，视网膜下注射手术机器人运动机构设计与仿真分析
+- 2024年5月，玉作庆，身体固定式腰麻穿刺机器人软硬件系统设计
+- 2024年5月，马士钦，经支气管细针抽吸柔性机器人结构设计与运动学分析
+- 2024年5月，屠羿君，深部肺检查柔性机器人结构设计和运动学分析
+- 2024年5月，林丰宁（留学生），Precision motion tracking of piezoelectric actuated systems using iterative learning control
+- 2024年5月，简洁（留学生），Data-driven PID control design for piezoelectric actuated stage with parameter uncertainty
+- 2025年5月，张振熙，多腿协调驱动的压电执行器结构设计与优化分析
+- 2025年5月，陶子牛，球形粘滑压电执行器结构设计与优化分析
+- 2025年5月，李林瀚，肺病变活检用支气管镜机器人结构设计与运动学分析
+- 2025年5月，周顺，基于格子-玻尔兹曼法计算平推流中球形颗粒所受的流体动力
+
+---
+
