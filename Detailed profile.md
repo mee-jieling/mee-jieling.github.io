@@ -42,7 +42,7 @@
 
 ## Research Experiences
 
-**Visiting Ph.D. Student**, Aug. 2017 to Nov. 2017. Department of Automatic Control and Micro-Mechatronic Systems, [FEMTO-ST Institute0](https://www.femto-st.fr/en) Besançon, France (Supervisor: Prof. [Micky Rakotondrabe](https://m.rakoton.net/))
+**Visiting Ph.D. Student**, Aug. 2017 to Nov. 2017. Department of Automatic Control and Micro-Mechatronic Systems, [FEMTO-ST Institute](https://www.femto-st.fr/en) Besançon, France (Supervisor: Prof. [Micky Rakotondrabe](https://m.rakoton.net/))
 
 **Postdoctoral Fellow**, Jul. 2018 to Jun. 2020, Department of Mechanical Engineering, [Wuhan University](http://www.whu.edu.cn/) (WHU), Wuhan, China (Su-pervisor: Prof. [Xiaohui Xiao](https://pmc.whu.edu.cn/info/1017/13524.htm))
 
