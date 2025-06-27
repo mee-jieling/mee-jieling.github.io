@@ -141,7 +141,7 @@ Excellent Undergraduate Thesis, “Design of Humanoid biped robot walking mecha-
 ## Thesis Referee / 学位论文评审
 
 - 教育部学位论文评审专家
-- 南京理工大学、沈阳航空航天大学、南昌航空航天大学等本科毕设评审
+- 南京理工大学、沈阳航空航天大学、南昌航空大学等本科毕设评审
 
 ---
 
