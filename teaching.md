@@ -75,7 +75,7 @@
   *The "14th Five-Year Plan" Textbook Construction Base Project of the Ministry of Industry and Information Technology*  
   📌 航空航天领域智能制造科教产教融合企业案例与机电控制教材建设研究  
   💡 *Research on Case Studies of Intelligent Manufacturing in Aerospace Industry and Construction of Textbooks for Mechanical and Electrical Control*  
-  ⏱️ 2024.06 – 2026.06 （主持）
+  ⏱️ 2024.06--2026.06 （主持）
 
 ---
 
@@ -83,7 +83,7 @@
   *Postgraduate Education Reform Project at NUAA*  
   📌 破“五唯”新形势下机械工程研究生创新能力培养的过程控制与分阶段评价机制研究  
   💡 *Process Control and Phased Evaluation Mechanism for Cultivating Innovation Ability of Graduate Students in Mechanical Engineering under the New Anti-"Five-Only" Policy*  
-  ⏱️ 2020.12 – 2022.12 （主持）
+  ⏱️ 2020.12--2022.12 （主持）
 
 ---
 
@@ -91,21 +91,24 @@
   *Undergraduate Education Reform Project at NUAA*  
   📌 “新工科”背景下医工融合创新项目式人才培养模式探索与实践  
   💡 *Exploration and Practice of Project-Based Innovative Training Model for Medical-Engineering Integration under the "New Engineering Disciplines" Initiative*  
-  ⏱️ 2023.10 – 2025.10 （主持）
+  ⏱️ 2023.10--2025.10 （主持）
 
 
 ---
 
 ### 📝 教改论文 / Educational Reform Papers
 
-- **凌杰**, 朱玉川，王旦.  
-  *破“五唯”新背景下机械工程研究生创新能力培养*
-  *Innovative Ability Cultivation of Mechanical Engineering Graduate Students in the Context of Breaking the "Five-Only" Norms* 
-  《科教导刊》，2022年第6期，pp. 45–47.
+- **凌杰**, 朱玉川，王旦  
+  📄 *破“五唯”新背景下机械工程研究生创新能力培养*  
+  💡 *Innovative Ability Cultivation of Mechanical Engineering Graduate Students in the Context of Breaking the "Five-Only" Norms*  
+  📰 《科教导刊》，2022年第6期，pp. 45–47
 
-- **凌杰**, 王旦，朱玉川.  
-  *医工融合创新项目式人才培养模式探索*
-  *Exploration of Project-Based Training Model for Integrating Medicine and Engineering Innovation*
-  《中国教育技术装备》，录用待发表。
+---
+
+- **凌杰**, 王旦，朱玉川  
+  📄 *医工融合创新项目式人才培养模式探索*  
+  💡 *Exploration of Project-Based Training Model for Integrating Medicine and Engineering Innovation*  
+  📰 《中国教育技术装备》，录用待发表
+
 
 ---
