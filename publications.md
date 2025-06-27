@@ -34,6 +34,12 @@
   <a href="contact.html">Contact</a>
 </div>
 
+## Thesis, Dissertation and Report / 学位论文
+- 未知有界摄动下的压电驱动微机电系统精密运动控制方法及其实验研究（Precision Motion Control of Piezoelectric Micro-Electro-Mechanical-Systems under Bounded Unknown Perturbations with Experimental Studies），博士后研究报告（Postdoctoral Research Report），2020年6月
+- 微动平台扫描运动的振动抑制和轮廓跟踪控制研究（Vibration Suppression and Contour Tracking Control of Scanning Motions for Nanopostioners），博士学位论文（Doctoral dissertation），2018年6月
+- 仿人双足机器人步行机构及其控制系统设计（Design of Humanoid Biped Robot Walking Mechanism and Its Control System），本科毕业论文（Undergraduate thesis），2012年6月
+
+## Supervised Thesis and Dissertation / 指导学生学位论文
 
 
 ## Journal Papers (\* Corresponding author)  / 期刊论文
