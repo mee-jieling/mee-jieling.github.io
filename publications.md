@@ -64,7 +64,7 @@
 
 [51]  **Jie Ling**\*, Hongtao Peng, Yuzhou Duan, and Micky Rakotondrabe. [Reducing backward motion of stick-slip piezoelectric actuators using dual driving feet designed by asymmetric stiffness principle](https://www.sciencedirect.com/science/article/pii/S0094114X24002374). **_Mechanism and Machine Theory_**. 2024, **203**:105810.
 
-[50] Tingting Ye, Zhao Feng, **Jie Ling**, Yangmin Li\*. [A novel W-shaped flexure-guided mechanism for high-frequency piezo-actuated micromanipulations](https://ieeexplore.ieee.org/abstract/document/10734177). **_IEEE/ASME Transactions on Mechatronics_**. 2024.
+[50] Tingting Ye, Zhao Feng, **Jie Ling**, Yangmin Li\*. [A novel W-shaped flexure-guided mechanism for high-frequency piezo-actuated micromanipulations](https://ieeexplore.ieee.org/abstract/document/10734177). **_IEEE/ASME Transactions on Mechatronics_**. 2024. Doi: 10.1109/TMECH.2024.3476332. (Early Access)
 
 [49] Dongdong Zheng, Yangkun Zhang, **Jie Ling**, Haoyong Yu\*, and Xuemei Ren. [Composite learning based adaptive terminal sliding mode control for nonlinear systems with experimental validation](Composite learning based adaptive terminal sliding mode control for nonlinear systems with experimental validation). **_IEEE Transactions on Industrial Electronics_**. 2025. **72**(8): 8197-8207.
 
