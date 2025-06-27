@@ -35,9 +35,10 @@
 </div>
 
  
-## Journal Papers (\* Corresponding author)  / 期刊论文
+## 📄 Journal Papers (\* Corresponding author) / 期刊论文
 
-### 2025
+### 🐍 2025（蛇年）
+
 [62] Yuzhou Duan, **Jie Ling**\*, Micky Rakotondrabe, Zuoqing Yu, Lei Zhang and Yuchuan Zhu\*. [A review of flexible bronchoscope robots for peripheral pulmonary nodule intervention](https://ieeexplore.ieee.org/document/11051056). **_IEEE Transactions on Medical Robotics and Bionics (TMRB)_**. 2025. Doi: 10.1109/TMRB.2025.3583172. (Early Access)
 
 [61] 彭洪涛，张允执，**凌杰**\*，张文星，康佳豪，朱玉川. 油液环境下的压电双晶片执行器数学建模与试验分析. **航空科学技术**. 2025. (Accepted)
@@ -52,7 +53,7 @@
 
 [56] **凌杰**\*，张允执，陈龙，朱玉川．[数字压电叠堆执行器：原理、建模与控制](https://link.cnki.net/urlid/42.1294.TH.20240531.1807.002.)．**中国机械工程**. 2025, 36(2): 228-237.
 
-### 2024
+### 🐲 2024（龙年）
 
 [55] Yunzhi Zhang, **Jie Ling**\*, and Yuchuan Zhu. [Development and fault-tolerant control of a distributed piezoelectric stack actuator](https://iopscience.iop.org/article/10.1088/1361-665X/ad669e/meta). **_Smart Materials and Structures_**. 2024, **33**(9): 095003.
 
@@ -82,7 +83,7 @@
 
 [42] Zhicheng Song, Linkang Wang, **Jie Ling**, Lingyu Wang, Jinjun Duan, Yaoyao Wang\*, and Bai Chen. [Time-delay control scheme with adaptive fixed-time convergent super-twisting fractional-order nonsingular terminal sliding mode for piezoelectric displacement amplifier](https://www.sciencedirect.com/science/article/pii/S0019057823005645). **_ISA Transactions_**. 2024. **146**:99-113.
 
-### 2023
+### 🐰 2023（兔年）
 
 [41] Long Chen, Yuchuan Zhu\*, **Jie Ling**, and Mingming Zhang. [Temperature dependence modeling and experimental evaluation of a multidimensional discrete magnetostrictive actuator](https://www.sciencedirect.com/science/article/pii/S1359431123007652). **_Applied Thermal Engineering_**. 2023. **230**(Part B): 120736. 
 
@@ -94,7 +95,7 @@
 
 [37] 郑述峰，朱玉川\*，**凌杰**，刘昶，林文. [轴向双压电叠堆执行器并联控制实验研究](https://bhxb.buaa.edu.cn/bhzk/cn/article/doi/10.13700/j.bh.1001-5965.2021.0432). **北京航空航天大学学报**. 2023,49(06):1460-1470. 
 
-### 2022
+### 🐯 2022（虎年）
 
 [36] Zhao Feng, Wenyu Liang\*, **Jie Ling**, Xiaohui Xiao\*, Kok Kiong Tan, and Tong Heng Lee. [Precision force tracking control of a surgical device interacting with a deformable object](https://ieeexplore.ieee.org/abstract/document/9794483). **_IEEE/ASME Transactions on Mechatronics_**. 2022. **27**(6): 5327-5338.
 
@@ -114,7 +115,7 @@
 
 [28] Zhao Feng, Min Ming, **Jie Ling**\*, Xiaohui Xiao, Zhixin Yang, and Feng Wan\*. [Fractional delay filter based repetitive control for precision tracking: design and application to a piezoelectric nanopositioning stage](https://www.sciencedirect.com/science/article/abs/pii/S088832702100618X). **_Mechanical Systems and Signal Processing_**. 2022. **164**: 108249. 
 
-### 2021
+### 🐮 2021（牛年）
 
 [27] Long Chen, Yuchuan Zhu*, **Jie Ling**\* and Zhao Feng. [Development and test of a two-dimensional stacked terfenol-d actuator with high bandwidth and large stroke](https://ieeexplore.ieee.org/abstract/document/9431718/). **_IEEE/ASME Transactions on Mechatronics_**. 2021. **26**(4), 1951-1959. 
 
@@ -126,7 +127,7 @@
 
 [23] Min Ming, Wenyu Liang, Zhao Feng, **Jie Ling**, Abdullah Al Mamun, and Xiaohui Xiao\*. [PID-type sliding mode-based adaptive motion control of a 2-dof piezoelectric ultrasonic motor driven stage](https://www.sciencedirect.com/science/article/abs/pii/S0957415821000428). **_Mechatronics_**. 2021. **76**:102543. 
 
-### 2020
+### 🐭 2020（鼠年）
 
 [22] Like Cao, **Jie Ling**, Xiaohui Xiao\*. [Study on the influence of image noise on monocular feature-based visual SLAM based on FFDNet](https://www.mdpi.com/1424-8220/20/17/4922). **_Sensors_**. 2020. **20**: 4922. 
 
@@ -144,7 +145,7 @@
 
 [15] **Jie Ling**, Micky Rakotondrabe, Zhao Feng, Min Ming and Xiaohui Xiao\*. [A robust resonant controller for high-speed scanning of nanopositioners: Design and implementation](https://ieeexplore.ieee.org/abstract/document/8658162/). **_IEEE Transactions on Control Systems Technology_**. 2020, **28**(3): 1116-1123.
 
-### 2019 and before
+### 🐷 2019 and before（2019 及以前）
 
 [14] Zhao Feng, **Jie Ling**, Min Ming, and Xiaohui Xiao\*. [Integrated modified repetitive control with disturbance observer of piezoelectric nanopositioning stages for high-speed and precision motion](https://asmedigitalcollection.asme.org/dynamicsystems/article-abstract/141/8/081006/726541/Integrated-Modified-Repetitive-Control-With). **_Journal of Dynamic Systems Measurement and Control-Transactions of the ASME_**. 2019, **141**(8): 081006-081006-10. 
 
@@ -174,8 +175,11 @@
 
 [1] **凌杰**, 明敏, 冯朝, 肖晓晖\*. [多轴运动系统非线性轮廓重复跟踪的主从交叉耦合迭代学习控制](http://www.aas.net.cn/fileZDHXB/journal/article/zdhxb/2017/12/PDF/zdhxb-43-12-2127.pdf). **自动化学报**. 2017, **43**(12): 2127-2140.
 
+---
 
-## Conference Papers  / 会议论文
+
+
+## 📑 Conference Papers / 会议论文
 
 [26] Zuoqing Yu, Yuzhou Duan, Lei Zhang, and **Jie Ling**\*. [A patient-mounted spherical scissor-like remote center of motion mechanism for robotic-assisted lumbar puncture](https://link.springer.com/chapter/10.1007/978-981-96-0777-8_9). _17th International Conference on Intelligent Robotics and Applications (ICIRA 2024)_. 31st Jul.~ 2nd Aug, Xi’an, China, 2024.
  
@@ -229,10 +233,16 @@
 
 [1] **Jie Ling**, and Xiaohui Xiao\*. [Rapid and precise control of a micro-manipulation stage combining H∞ with ILC algorithm](http://www.i-asem.org/publication_conf/anbre13/M5C.3.RR608_1046F.pdf). _The 2013 World Congress on Advances in Nano, Biomechanics, Robotics, and Energy Research_, Aug. 25-28, Seoul, South Korea, 2013.
 
-## Books & Chapters  / 专著
+---
+
+
+## 📘 Books & Chapters / 专著章节  
+
 Xiaohui Xiao, **Jie Ling**, [Zhao Feng](https://scholar.google.com.hk/citations?user=dXkBZJAAAAAJ&hl=zh-CN). High-speed Scanning Motion Control of Piezoelectric Nanopositioning Systems. Monography in preparation. 
 
-## Invention Patents / 发明专利
+---
+
+## 🛠️ Invention Patents / 发明专利  
 
 [7] **凌杰**，段榆洲，朱玉川，张洺铭，王彦文，张允执. 一种机液混合传动的微创手术机器人及控制方法. 发明专利. 授权号 ZL 202210299540.9. 
 
@@ -248,11 +258,15 @@ Xiaohui Xiao, **Jie Ling**, [Zhao Feng](https://scholar.google.com.hk/citations?
 
 [1] **凌杰**，肖晓晖，叶婷婷，冯朝，明敏，邱灿程. 一种连续两行程两级常力输出微夹钳及控制方法. 发明专利. 授权号 ZL 202010563464.9. 
 
-## Utility Model Patents / 实用新型专利
+---
+
+## 🧰 Utility Model Patents / 实用新型专利  
 
 [1] 段榆洲，曹振强，曾香云，周顺，**凌杰**，朱玉川. 一种基于对称双平行四杆构型的眼科手术机器人. 实用新型专利. 专利号 ZL 2023 2 3466648.1
 
-## Software Copyright / 软件著作权
+---
+
+## 💻 Software Copyright / 软件著作权   
 
 [4] **凌杰**，玉作庆，段榆洲，朱玉川. 支气管镜机器人操作系统v1.0. 软件著作权. 登记号 2024SR1894429.
 
