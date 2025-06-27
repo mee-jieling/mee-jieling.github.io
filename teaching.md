@@ -37,13 +37,13 @@
 ## 📘 Undergraduate Courses 本科生课程
 
 - **液压与气压传动**  （专业必修课）
-  *Hydraulic and Pneumatic Transmission*
+  💡*Hydraulic and Pneumatic Transmission*
 
 - **机器人动力学与控制**  （专业必修课）
-  *Robot Dynamics and Control*
+  💡*Robot Dynamics and Control*
 
 - **可编程控制器**  （专业选修课）
-  *Programmable Logic Controller (PLC)*
+  💡*Programmable Logic Controller (PLC)*
 
 ---
 
