@@ -35,11 +35,15 @@
 </div>
 
 ## Thesis, Dissertation and Report / 学位论文
-- 未知有界摄动下的压电驱动微机电系统精密运动控制方法及其实验研究（Precision Motion Control of Piezoelectric Micro-Electro-Mechanical-Systems under Bounded Unknown Perturbations with Experimental Studies），博士后研究报告（Postdoctoral Research Report），2020年6月
-- 微动平台扫描运动的振动抑制和轮廓跟踪控制研究（Vibration Suppression and Contour Tracking Control of Scanning Motions for Nanopostioners），博士学位论文（Doctoral dissertation），2018年6月
-- 仿人双足机器人步行机构及其控制系统设计（Design of Humanoid Biped Robot Walking Mechanism and Its Control System），本科毕业论文（Undergraduate thesis），2012年6月
+- 2020年6月，博士后研究报告（Postdoctoral Research Report），未知有界摄动下的压电驱动微机电系统精密运动控制方法及其实验研究（Precision Motion Control of Piezoelectric Micro-Electro-Mechanical-Systems under Bounded Unknown Perturbations with Experimental Studies）
+- 2018年6月，博士学位论文（Doctoral dissertation），微动平台扫描运动的振动抑制和轮廓跟踪控制研究（Vibration Suppression and Contour Tracking Control of Scanning Motions for Nanopostioners）
+- 2012年6月，本科毕业论文（Undergraduate thesis），仿人双足机器人步行机构及其控制系统设计（Design of Humanoid Biped Robot Walking Mechanism and Its Control System）
 
-## Supervised Thesis and Dissertation / 指导学生学位论文
+## Supervised Master Thesis / 指导硕士学位论文
+- 2025年3月，张允执，硕士学位论文，分布式压电叠堆执行器设计与控制研究（Research on Design and Control of Distributed Piezoelectric Stack Actuator）
+- 2025年3月，彭洪涛，硕士学位论文，不同阻尼环境下压电双晶片-反馈杆组件建模与控制研究（Research on Modeling and Control of Piezoelectric Bimorph-Feedback Rod Assembly under Different Damping Environments）
+
+## Supervised Undergraduate Thesis / 指导本科毕设
 
 
 ## Journal Papers (\* Corresponding author)  / 期刊论文
