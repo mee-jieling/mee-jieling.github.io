@@ -267,6 +267,10 @@ Xiaohui Xiao, **Jie Ling**, [Zhao Feng](https://scholar.google.com.hk/citations?
 - 2018年6月，博士学位论文（Doctoral dissertation），微动平台扫描运动的振动抑制和轮廓跟踪控制研究（Vibration Suppression and Contour Tracking Control of Scanning Motions for Nanopostioners）
 - 2012年6月，本科毕业论文（Undergraduate thesis），仿人双足机器人步行机构及其控制系统设计（Design of Humanoid Biped Robot Walking Mechanism and Its Control System）
 
+## Supervised Master Thesis / 指导硕士学位论文
+- 2025年3月，张允执，硕士学位论文，分布式压电叠堆执行器设计与控制研究（Research on Design and Control of Distributed Piezoelectric Stack Actuator）
+- 2025年3月，彭洪涛，硕士学位论文，不同阻尼环境下压电双晶片-反馈杆组件建模与控制研究（Research on Modeling and Control of Piezoelectric Bimorph-Feedback Rod Assembly under Different Damping Environments）
+
 
 
 
