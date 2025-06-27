@@ -58,7 +58,7 @@
 - **基于智能材料的机电系统：建模与控制**  
   *Modelling and Control of Smart Materials-based Mechatronic Systems*  
   🧭 *NUAA International Course*  
-  🤝 *Joint with [Prof. Micky Rakotondrabe](http://m.rakoton.net/) from [UTTOP](https://www.uttop.fr/en/index.html), France*
+  🤝 *Joint with [Prof. Micky Rakotondrabe](http://m.rakoton.net/) ([UTTOP](https://www.uttop.fr/en/index.html)), France*
 
 - **学术读写说技巧**  
   *Academic Reading, Writing and Presentation Skills*  
