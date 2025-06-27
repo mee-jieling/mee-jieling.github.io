@@ -45,6 +45,7 @@
     [Ch2](pdf/Ch2.pdf) ・ [Ch3](pdf/Ch3.pdf) ・ [Ch4](pdf/Ch4.pdf) ・ [Ch5](pdf/Ch5.pdf) ・ [Ch6](pdf/Ch6.pdf) ・ [Ch7](pdf/Ch7.pdf)
   - **气动部分**：  
     [Ch10](pdf/Ch10.pdf) ・ [Ch11](pdf/Ch11.pdf) ・ [Ch12](pdf/Ch12.pdf) ・ [Ch13](pdf/Ch13.pdf) ・ [Ch14](pdf/Ch14.pdf) ・ [Ch15](pdf/Ch15.pdf)
+    
   📚 **教材**：  
   《液压与气压传动（第 3 版）》，游有鹏、李成刚 主编，科学出版社
 
