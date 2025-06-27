@@ -34,11 +34,7 @@
   <a href="contact.html">Contact</a>
 </div>
 
-## Thesis, Dissertation and Report / 学位论文
-- 2020年6月，博士后研究报告（Postdoctoral Research Report），未知有界摄动下的压电驱动微机电系统精密运动控制方法及其实验研究（Precision Motion Control of Piezoelectric Micro-Electro-Mechanical-Systems under Bounded Unknown Perturbations with Experimental Studies）
-- 2018年6月，博士学位论文（Doctoral dissertation），微动平台扫描运动的振动抑制和轮廓跟踪控制研究（Vibration Suppression and Contour Tracking Control of Scanning Motions for Nanopostioners）
-- 2012年6月，本科毕业论文（Undergraduate thesis），仿人双足机器人步行机构及其控制系统设计（Design of Humanoid Biped Robot Walking Mechanism and Its Control System）
-  
+ 
 ## Journal Papers (\* Corresponding author)  / 期刊论文
 
 ### 2025
@@ -233,7 +229,6 @@
 
 [1] **Jie Ling**, and Xiaohui Xiao\*. [Rapid and precise control of a micro-manipulation stage combining H∞ with ILC algorithm](http://www.i-asem.org/publication_conf/anbre13/M5C.3.RR608_1046F.pdf). _The 2013 World Congress on Advances in Nano, Biomechanics, Robotics, and Energy Research_, Aug. 25-28, Seoul, South Korea, 2013.
 
-
 ## Books & Chapters  / 专著
 Xiaohui Xiao, **Jie Ling**, [Zhao Feng](https://scholar.google.com.hk/citations?user=dXkBZJAAAAAJ&hl=zh-CN). High-speed Scanning Motion Control of Piezoelectric Nanopositioning Systems. Monography in preparation. 
 
@@ -266,5 +261,12 @@ Xiaohui Xiao, **Jie Ling**, [Zhao Feng](https://scholar.google.com.hk/citations?
 [2] **凌杰**，张允执，张梦昊，段榆洲，朱玉川，陈龙，郑述峰. 细胞穿刺过程力学分析系统. 软件著作权. 登记号 2022SR0037290. 
 
 [1] **凌杰**，王彦文，段榆洲，张允执，朱玉川. 机器人辅助穿刺麻醉过程力/位在线分析及位姿实时显示系统. 软件著作权. 登记号 2022SR0561439. 
+
+## Thesis, Dissertation and Report / 学位论文
+- 2020年6月，博士后研究报告（Postdoctoral Research Report），未知有界摄动下的压电驱动微机电系统精密运动控制方法及其实验研究（Precision Motion Control of Piezoelectric Micro-Electro-Mechanical-Systems under Bounded Unknown Perturbations with Experimental Studies）
+- 2018年6月，博士学位论文（Doctoral dissertation），微动平台扫描运动的振动抑制和轮廓跟踪控制研究（Vibration Suppression and Contour Tracking Control of Scanning Motions for Nanopostioners）
+- 2012年6月，本科毕业论文（Undergraduate thesis），仿人双足机器人步行机构及其控制系统设计（Design of Humanoid Biped Robot Walking Mechanism and Its Control System）
+
+
 
 
