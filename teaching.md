@@ -42,14 +42,14 @@
 - **机器人动力学与控制**  （专业必修课）
   *Robot Dynamics and Control*
 
-  - **可编程控制器**  （专业选修课）
+- **可编程控制器**  （专业选修课）
   *Programmable Logic Controller (PLC)*
 
 ---
 
 ## 📘 International Student Courses 留学生课程
 
-  - **Programmable Logic Controller (PLC)**  （Compulsory Modual Course）
+- **Programmable Logic Controller (PLC)**  （Compulsory Modual Course）
     
 ---
 
