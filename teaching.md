@@ -53,7 +53,7 @@
 
 - **可编程控制器**（专业选修课）  
   💡 *Programmable Logic Controller (PLC)*  
-  📎**课件下载链接**（每章完成课堂教学后更新）：
+  📎**课件下载链接**（每章完成课堂教学后更新）：  
   [Ch1](pdf/PLCcn-Ch1.pdf)｜[Ch2](pdf/PLCcn-Ch2.pdf)｜[Ch3](pdf/PLCcn-Ch3.pdf)｜[Ch4](pdf/PLCcn-Ch4.pdf) 
 
 ---
