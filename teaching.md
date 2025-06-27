@@ -71,7 +71,7 @@
 
 ### 🔬 教改课题 / Educational Reform Projects
 
-- **工业和信息化部“十四五”教材建设基地课题** / The "14th Five-Year Plan" Textbook Construction Base Project of the Ministry of Industry and Information Technology
+- **工业和信息化部“十四五”教材建设基地课题 (*The "14th Five-Year Plan" Textbook Construction Base Project of the Ministry of Industry and Information Technology*)**
   *航空航天领域智能制造科教产教融合企业案例与机电控制教材建设研究*
   *Research on Case Studies of Intelligent Manufacturing in Aerospace Industry and Construction of Textbooks for Mechanical and Electrical Control*
   ⏱️ 2024.06 – 2026.06（主持）
