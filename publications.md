@@ -145,7 +145,7 @@
 
 [15] **Jie Ling**, Micky Rakotondrabe, Zhao Feng, Min Ming and Xiaohui Xiao\*. [A robust resonant controller for high-speed scanning of nanopositioners: Design and implementation](https://ieeexplore.ieee.org/abstract/document/8658162/). **_IEEE Transactions on Control Systems Technology_**. 2020, **28**(3): 1116-1123.
 
-### 🐷 2019 and before（2019 及以前）
+### 🐷 2019 （猪年）and before
 
 [14] Zhao Feng, **Jie Ling**, Min Ming, and Xiaohui Xiao\*. [Integrated modified repetitive control with disturbance observer of piezoelectric nanopositioning stages for high-speed and precision motion](https://asmedigitalcollection.asme.org/dynamicsystems/article-abstract/141/8/081006/726541/Integrated-Modified-Repetitive-Control-With). **_Journal of Dynamic Systems Measurement and Control-Transactions of the ASME_**. 2019, **141**(8): 081006-081006-10. 
 
