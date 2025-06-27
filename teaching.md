@@ -113,11 +113,6 @@
 
 ---
 
-
-## Supervised Master Thesis / 指导硕士学位论文
-- 2025年3月，张允执，硕士学位论文，分布式压电叠堆执行器设计与控制研究（Research on Design and Control of Distributed Piezoelectric Stack Actuator）
-- 2025年3月，彭洪涛，硕士学位论文，不同阻尼环境下压电双晶片-反馈杆组件建模与控制研究（Research on Modeling and Control of Piezoelectric Bimorph-Feedback Rod Assembly under Different Damping Environments）
-
 ## Supervised Undergraduate Thesis / 指导本科毕设
 - 2025年5月，张振熙，多腿协调驱动的压电执行器结构设计与优化分析
 - 2025年5月，陶子牛，球形粘滑压电执行器结构设计与优化分析
