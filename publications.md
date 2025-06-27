@@ -37,7 +37,7 @@
  
 ## 📄 Journal Papers (\* Corresponding author) / 期刊论文
 
-### 🐍 2025（蛇年）
+### 🐍 2025（乙巳蛇年）
 
 [62] Yuzhou Duan, **Jie Ling**\*, Micky Rakotondrabe, Zuoqing Yu, Lei Zhang and Yuchuan Zhu\*. [A review of flexible bronchoscope robots for peripheral pulmonary nodule intervention](https://ieeexplore.ieee.org/document/11051056). **_IEEE Transactions on Medical Robotics and Bionics (TMRB)_**. 2025. Doi: 10.1109/TMRB.2025.3583172. (Early Access)
 
@@ -53,7 +53,7 @@
 
 [56] **凌杰**\*，张允执，陈龙，朱玉川．[数字压电叠堆执行器：原理、建模与控制](https://link.cnki.net/urlid/42.1294.TH.20240531.1807.002.)．**中国机械工程**. 2025, 36(2): 228-237.
 
-### 🐲 2024（龙年）
+### 🐲 2024（甲辰龙年）
 
 [55] Yunzhi Zhang, **Jie Ling**\*, and Yuchuan Zhu. [Development and fault-tolerant control of a distributed piezoelectric stack actuator](https://iopscience.iop.org/article/10.1088/1361-665X/ad669e/meta). **_Smart Materials and Structures_**. 2024, **33**(9): 095003.
 
@@ -83,7 +83,7 @@
 
 [42] Zhicheng Song, Linkang Wang, **Jie Ling**, Lingyu Wang, Jinjun Duan, Yaoyao Wang\*, and Bai Chen. [Time-delay control scheme with adaptive fixed-time convergent super-twisting fractional-order nonsingular terminal sliding mode for piezoelectric displacement amplifier](https://www.sciencedirect.com/science/article/pii/S0019057823005645). **_ISA Transactions_**. 2024. **146**:99-113.
 
-### 🐰 2023（兔年）
+### 🐰 2023（癸卯兔年）
 
 [41] Long Chen, Yuchuan Zhu\*, **Jie Ling**, and Mingming Zhang. [Temperature dependence modeling and experimental evaluation of a multidimensional discrete magnetostrictive actuator](https://www.sciencedirect.com/science/article/pii/S1359431123007652). **_Applied Thermal Engineering_**. 2023. **230**(Part B): 120736. 
 
@@ -95,7 +95,7 @@
 
 [37] 郑述峰，朱玉川\*，**凌杰**，刘昶，林文. [轴向双压电叠堆执行器并联控制实验研究](https://bhxb.buaa.edu.cn/bhzk/cn/article/doi/10.13700/j.bh.1001-5965.2021.0432). **北京航空航天大学学报**. 2023,49(06):1460-1470. 
 
-### 🐯 2022（虎年）
+### 🐯 2022（壬寅虎年）
 
 [36] Zhao Feng, Wenyu Liang\*, **Jie Ling**, Xiaohui Xiao\*, Kok Kiong Tan, and Tong Heng Lee. [Precision force tracking control of a surgical device interacting with a deformable object](https://ieeexplore.ieee.org/abstract/document/9794483). **_IEEE/ASME Transactions on Mechatronics_**. 2022. **27**(6): 5327-5338.
 
@@ -115,7 +115,7 @@
 
 [28] Zhao Feng, Min Ming, **Jie Ling**\*, Xiaohui Xiao, Zhixin Yang, and Feng Wan\*. [Fractional delay filter based repetitive control for precision tracking: design and application to a piezoelectric nanopositioning stage](https://www.sciencedirect.com/science/article/abs/pii/S088832702100618X). **_Mechanical Systems and Signal Processing_**. 2022. **164**: 108249. 
 
-### 🐮 2021（牛年）
+### 🐮 2021（辛丑牛年）
 
 [27] Long Chen, Yuchuan Zhu*, **Jie Ling**\* and Zhao Feng. [Development and test of a two-dimensional stacked terfenol-d actuator with high bandwidth and large stroke](https://ieeexplore.ieee.org/abstract/document/9431718/). **_IEEE/ASME Transactions on Mechatronics_**. 2021. **26**(4), 1951-1959. 
 
@@ -127,7 +127,7 @@
 
 [23] Min Ming, Wenyu Liang, Zhao Feng, **Jie Ling**, Abdullah Al Mamun, and Xiaohui Xiao\*. [PID-type sliding mode-based adaptive motion control of a 2-dof piezoelectric ultrasonic motor driven stage](https://www.sciencedirect.com/science/article/abs/pii/S0957415821000428). **_Mechatronics_**. 2021. **76**:102543. 
 
-### 🐭 2020（鼠年）
+### 🐭 2020（庚子鼠年）
 
 [22] Like Cao, **Jie Ling**, Xiaohui Xiao\*. [Study on the influence of image noise on monocular feature-based visual SLAM based on FFDNet](https://www.mdpi.com/1424-8220/20/17/4922). **_Sensors_**. 2020. **20**: 4922. 
 
@@ -145,7 +145,7 @@
 
 [15] **Jie Ling**, Micky Rakotondrabe, Zhao Feng, Min Ming and Xiaohui Xiao\*. [A robust resonant controller for high-speed scanning of nanopositioners: Design and implementation](https://ieeexplore.ieee.org/abstract/document/8658162/). **_IEEE Transactions on Control Systems Technology_**. 2020, **28**(3): 1116-1123.
 
-### 🐷 2019 （猪年）and before
+### 🐷 2019 （己亥猪年）and before
 
 [14] Zhao Feng, **Jie Ling**, Min Ming, and Xiaohui Xiao\*. [Integrated modified repetitive control with disturbance observer of piezoelectric nanopositioning stages for high-speed and precision motion](https://asmedigitalcollection.asme.org/dynamicsystems/article-abstract/141/8/081006/726541/Integrated-Modified-Repetitive-Control-With). **_Journal of Dynamic Systems Measurement and Control-Transactions of the ASME_**. 2019, **141**(8): 081006-081006-10. 
 
