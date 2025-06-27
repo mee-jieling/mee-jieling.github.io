@@ -38,15 +38,15 @@
 
 **B. Eng.**, Mechanical Engineering, Spet. 2008 to Jun. 2012, [Wuhan University](http://www.whu.edu.cn/)
 
-**Ph. D.**, Mechanical Engineering, Spet. 2012 to Jun. 2018, [Wuhan University](http://www.whu.edu.cn/)  (Supervisor: Prof. Xiaohui Xiao)
+**Ph. D.**, Mechanical Engineering, Spet. 2012 to Jun. 2018, [Wuhan University](http://www.whu.edu.cn/)  (Supervisor: Prof. [Xiaohui Xiao](https://pmc.whu.edu.cn/info/1017/13524.htm))
 
 ## Research Experiences
 
 **Visiting Ph.D. Student**, Aug. 2017 to Nov. 2017. Department of Automatic Control and Micro-Mechatronic Systems, [FEMTO-ST Institute0](https://www.femto-st.fr/en) Besançon, France (Supervisor: Prof. [Micky Rakotondrabe](https://m.rakoton.net/))
 
-**Postdoctoral Fellow**, Jul. 2018 to Jun. 2020, Department of Mechanical Engineering, [Wuhan University](http://www.whu.edu.cn/) (WHU), Wuhan, China (Su-pervisor: Prof. Xiaohui Xiao)
+**Postdoctoral Fellow**, Jul. 2018 to Jun. 2020, Department of Mechanical Engineering, [Wuhan University](http://www.whu.edu.cn/) (WHU), Wuhan, China (Su-pervisor: Prof. [Xiaohui Xiao](https://pmc.whu.edu.cn/info/1017/13524.htm))
 
-**Postdoctoral Fellow**, Jan. 2019 to Jan. 2020, Department of Biomedical Engineering, [National University of Singapore](https://cde.nus.edu.sg/bme/) (NUS), Singapore (Supervisor: Prof. Haoyong Yu)
+**Postdoctoral Fellow**, Jan. 2019 to Jan. 2020, Department of Biomedical Engineering, [National University of Singapore](https://cde.nus.edu.sg/bme/) (NUS), Singapore (Supervisor: Prof. [Haoyong Yu](https://cde.nus.edu.sg/bme/bioroboticslab/author/haoyong-yu/))
 
 **Associate Professor**, Aug. 2020 to present, College of Mechanical and Electrical Engineering, [Nanjing University of Aeronautics and Astronautics](https://www.nuaa.edu.cn/) (NUAA), China
 
