@@ -60,8 +60,8 @@
 
 ## 🌐 International Student Courses / 留学生课程
 
-- **Programmable Logic Controller (PLC)**（Compulsory Module Course）  
-  💡 *可编程控制器（核心模块课程）*
+- **Programmable Logic Controller (PLC)**（Compulsory Module Course）    
+  💡 *可编程控制器（核心模块课程）*  
   📎 **Download Link**（The corresponding chapter content will be updated after completing teaching.）：  
   [Ch1](pdf/PLCen-Ch1.pdf)｜[Ch2](pdf/PLCen-Ch2.pdf)｜[Ch3](pdf/PLCen-Ch3.pdf)｜[Ch4](pdf/PLCen-Ch4.pdf) 
 
