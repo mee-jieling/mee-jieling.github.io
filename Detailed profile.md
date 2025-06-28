@@ -52,6 +52,15 @@
 
 **Visiting Professor**, Dec. 2024 to Dec. 2025, Laboratoire Génie de Production, [University of Technologie Tarbes Occitanie Pyrénées](https://www.uttop.fr/fr/index.html) (UTTOP), [University of Toulouse alliance](https://en.univ-toulouse.fr/), France. (Supervisor: Prof. [Micky Rakotondrabe](https://m.rakoton.net/))
 
+
+## Memberships
+
+- Member of IFAC Technical Committee on Mechatronic Systems  
+- IEEE Member  
+- CMES Senior Member *（Chinese Mechanical Engineering Society）*  
+- CSAA Member *（Chinese Society of Aeronautics and Astronautics）*  
+- CSBME Member *（Chinese Society of Biomedical Engineering）*  
+
 ## Prizes, Honors and Awards
 
 第十五届本科生学术论坛优秀指导教师奖，2024
