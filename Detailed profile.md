@@ -50,7 +50,7 @@
 
 ## Memberships
 
-- Member of IFAC Technical Committee on Mechatronic Systems  
+- [Member of IFAC Technical Committee on Mechatronic Systems](https://tc.ifac-control.org/4/2/members-1)  
 - IEEE Member  
 - CMES Senior Member *（Chinese Mechanical Engineering Society）*  
 - CSAA Member *（Chinese Society of Aeronautics and Astronautics）*  
