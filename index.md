@@ -69,7 +69,7 @@ I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power 
 ## 📢 News
 
 - **[2025-06-15]** 🎉
-  <img src="newsimages/tmrb2025-paper.jpg" width="320" alt="TMRB paper"> 
+  <img src="newsimages/tmrb2025-paper.png" width="320" alt="TMRB paper"> 
   A review paper by PhD student **Yuzhou Duan** has been **ACCEPTED** for publication in [IEEE Transactions on Medical Robotics and Bionics (TMRB)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9039958).
   
 ---
