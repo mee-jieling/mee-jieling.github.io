@@ -301,7 +301,7 @@ Xiaohui Xiao, **Jie Ling**, [Zhao Feng](https://scholar.google.com.hk/citations?
   👨‍🎓 **张允执**，硕士学位论文  
   **分布式压电叠堆执行器设计与控制研究**  
   *Research on Design and Control of Distributed Piezoelectric Stack Actuator*
-  <p align="center"><img src="thesisimages/thesis-zyz.jpg" width="320" alt="thesis-zyz"></p>  
+  <p align="center"><img src="thesisimages/thesis-zyz.jpg" width="500" alt="thesis-zyz"></p>  
 
 ---
 
