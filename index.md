@@ -64,7 +64,7 @@ I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power 
 - [🆔  ORCID](https://orcid.org/0000-0002-6786-0422)  
 
 ## 🔬 Research Interests  
-**Medical robotics**, **Smart material actuators**, **Precision motion control**
+**Medical Robotics**, **Smart Material Actuators**, **Intelligent Control**
 
 ## 📢 News
 
@@ -81,21 +81,27 @@ I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power 
       </tr>
     </table>
   </p>  
----
+  
+---  
 
-- **[2025-05-26]** 🏆 课题组博士生**段榆洲**获南京航空航天大学“博士生学位论文创新与创优基金”资助.
+- **[2025-05-26]** 🏆 课题组博士生**段榆洲**获南京航空航天大学“博士生学位论文创新与创优基金”资助.  
+
 ---
 
 - **[2025-05-22]** 🎉 课题组硕士生**彭洪涛**两篇论文分别被《航空科学技术》、《航空动力学报》录用.  
+
 ---
   
-- **[2025-05-16]** 🎉 A paper by master student **Yunzhi Zhang** has been **ACCEPTED** for publication in **Mechatronics** as well as will be presented in IFAC Joint Symposia on Mechatronics & Robotics to be held in the beautiful city of Paris from July 15 to July 18, 2025.
+- **[2025-05-16]** 🎉 A paper by master student **Yunzhi Zhang** has been **ACCEPTED** for publication in **Mechatronics** as well as will be presented in IFAC Joint Symposia on Mechatronics & Robotics to be held in the beautiful city of Paris from July 15 to July 18, 2025.  
+
 ---
 
-- **[2025-05-10]** 📚 A new international collaboration course **Academic Reading, Writing and Presentation Skills** with Prof. Micky Rakotondrabe from [UTTOP](https://www.uttop.fr/en/index.html) has been successfully launched.
+- **[2025-05-10]** 📚 A new international collaboration course **Academic Reading, Writing and Presentation Skills** with Prof. Micky Rakotondrabe from [UTTOP](https://www.uttop.fr/en/index.html) has been successfully launched.  
+
 ---
 
-- **[2025-03-01]** 📝 Dr. Jie Ling has been invited as an **Associate Editor** for the upcoming special issue in [IFAC Mechatronics](https://www.ifac2025.org/) journal with presentation at IFAC Joint Symposia on Mechatronics & Robotics 2025 to be held in Paris.
+- **[2025-03-01]** 📝 Dr. Jie Ling has been invited as an **Associate Editor** for the upcoming special issue in [IFAC Mechatronics](https://www.ifac2025.org/) journal with presentation at IFAC Joint Symposia on Mechatronics & Robotics 2025 to be held in Paris.  
+
 ---
 
 
