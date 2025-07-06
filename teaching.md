@@ -44,6 +44,8 @@
   气动部分：[Ch10](pdf/Ch10.pdf)｜[Ch11](pdf/Ch11.pdf)｜[Ch12](pdf/Ch12.pdf)｜[Ch13](pdf/Ch13.pdf)｜[Ch14](pdf/Ch14.pdf)｜[Ch15](pdf/Ch15.pdf)  
   📚 **教材**：*《液压与气压传动（第 3 版）》，游有鹏、李成刚主编，科学出版社*
   <p align="center"><img src="teachingimages/textbook-yyp.jpg" width="240" alt="描述"></p>  
+
+---
   
 
 - **机器人动力学与控制**（专业必修课）  
@@ -51,6 +53,8 @@
   📎 课件下载链接（每章完成课堂教学后更新）：  
   动力学部分：[Ch1](pdf/Robot-Ch1.pdf)｜[Ch2](pdf/Robot-Ch2.pdf)｜[Ch3](pdf/Robot-Ch3.pdf)｜[Ch4](pdf/Robot-Ch4.pdf)  
   控制部分：[Ch5](pdf/Robot-Ch5.pdf)｜[Ch6](pdf/Robot-Ch6.pdf)｜[Ch7](pdf/Robot-Ch7.pdf)｜[Ch8](pdf/Robot-Ch8.pdf)｜[Ch9](pdf/Robot-Ch9.pdf)
+
+---
 
 
 - **可编程控制器**（专业选修课）  
@@ -67,7 +71,9 @@
 - **Programmable Logic Controller (PLC)**（Compulsory Module Course）    
   💡 *可编程控制器（核心模块课程）*  
   📎 **Download Link**（The corresponding chapter content will be updated after completing teaching.）：  
-  [Ch1](pdf/PLCen-Ch1.pdf)｜[Ch2](pdf/PLCen-Ch2.pdf)｜[Ch3](pdf/PLCen-Ch3.pdf)｜[Ch4](pdf/PLCen-Ch4.pdf) 
+  [Ch1](pdf/PLCen-Ch1.pdf)｜[Ch2](pdf/PLCen-Ch2.pdf)｜[Ch3](pdf/PLCen-Ch3.pdf)｜[Ch4](pdf/PLCen-Ch4.pdf)
+
+---
 
 
 ## 🎓 Master's and Doctoral Courses 研究生课程
@@ -77,10 +83,12 @@
   🧭 *NUAA International Summer Course*  
   🤝 *Joint with [Prof. Micky Rakotondrabe](http://m.rakoton.net/) ([UTTOP](https://www.uttop.fr/en/index.html)), France*
 
+---
+
 - **学术读写说技巧**  
   *Academic Reading, Writing and Presentation Skills*  
   🧭 *NUAA International Summer Course*  
-  🤝 *Joint with [Prof. Micky Rakotondrabe](http://m.rakoton.net/) ([UTTOP](https://www.uttop.fr/en/index.html)), France*
+  🤝 *Joint with [Prof. Micky Rakotondrabe](http://m.rakoton.net/) ([UTTOP](https://www.uttop.fr/en/index.html)), France*  
 
 ---
 
