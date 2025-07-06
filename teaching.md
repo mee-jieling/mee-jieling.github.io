@@ -52,7 +52,7 @@
   💡 *Robot Dynamics and Control*  
   📎 课件下载链接（每章完成课堂教学后更新）：  
   动力学部分：[Ch1](pdf/Robot-Ch1.pdf)｜[Ch2](pdf/Robot-Ch2.pdf)｜[Ch3](pdf/Robot-Ch3.pdf)｜[Ch4](pdf/Robot-Ch4.pdf)  
-  控制部分：[Ch5](pdf/Robot-Ch5.pdf)｜[Ch6](pdf/Robot-Ch6.pdf)｜[Ch7](pdf/Robot-Ch7.pdf)｜[Ch8](pdf/Robot-Ch8.pdf)｜[Ch9](pdf/Robot-Ch9.pdf)
+  控制部分：[Ch5](pdf/Robot-Ch5.pdf)｜[Ch6](pdf/Robot-Ch6.pdf)｜[Ch7](pdf/Robot-Ch7.pdf)｜[Ch8](pdf/Robot-Ch8.pdf)｜[Ch9](pdf/Robot-Ch9.pdf)  
 
 ---
 
@@ -71,7 +71,7 @@
 - **Programmable Logic Controller (PLC)**（Compulsory Module Course）    
   💡 *可编程控制器（核心模块课程）*  
   📎 **Download Link**（The corresponding chapter content will be updated after completing teaching.）：  
-  [Ch1](pdf/PLCen-Ch1.pdf)｜[Ch2](pdf/PLCen-Ch2.pdf)｜[Ch3](pdf/PLCen-Ch3.pdf)｜[Ch4](pdf/PLCen-Ch4.pdf)
+  [Ch1](pdf/PLCen-Ch1.pdf)｜[Ch2](pdf/PLCen-Ch2.pdf)｜[Ch3](pdf/PLCen-Ch3.pdf)｜[Ch4](pdf/PLCen-Ch4.pdf)  
 
 ---
 
@@ -81,7 +81,7 @@
 - **基于智能材料的机电系统：建模与控制**  
   *Modelling and Control of Smart Materials-based Mechatronic Systems*  
   🧭 *NUAA International Summer Course*  
-  🤝 *Joint with [Prof. Micky Rakotondrabe](http://m.rakoton.net/) ([UTTOP](https://www.uttop.fr/en/index.html)), France*
+  🤝 *Joint with [Prof. Micky Rakotondrabe](http://m.rakoton.net/) ([UTTOP](https://www.uttop.fr/en/index.html)), France*  
 
 ---
 
@@ -100,7 +100,7 @@
   *The "14th Five-Year Plan" Textbook Construction Base Project of the Ministry of Industry and Information Technology*  
   📌 航空航天领域智能制造科教产教融合企业案例与机电控制教材建设研究  
   💡 *Research on Case Studies of Intelligent Manufacturing in Aerospace Industry and Construction of Textbooks for Mechanical and Electrical Control*  
-  ⏱️ 2024.06--2026.06 （主持）
+  ⏱️ 2024.06--2026.06 （主持）  
 
 ---
 
@@ -108,7 +108,7 @@
   *Postgraduate Education Reform Project at NUAA*  
   📌 破“五唯”新形势下机械工程研究生创新能力培养的过程控制与分阶段评价机制研究  
   💡 *Process Control and Phased Evaluation Mechanism for Cultivating Innovation Ability of Graduate Students in Mechanical Engineering under the New Anti-"Five-Only" Policy*  
-  ⏱️ 2020.12--2022.12 （主持）
+  ⏱️ 2020.12--2022.12 （主持）  
 
 ---
 
@@ -116,8 +116,7 @@
   *Undergraduate Education Reform Project at NUAA*  
   📌 “新工科”背景下医工融合创新项目式人才培养模式探索与实践  
   💡 *Exploration and Practice of Project-Based Innovative Training Model for Medical-Engineering Integration under the "New Engineering Disciplines" Initiative*  
-  ⏱️ 2023.10--2025.10 （主持）
-
+  ⏱️ 2023.10--2025.10 （主持）  
 
 ---
 
@@ -126,15 +125,14 @@
 - **凌杰**, 朱玉川，王旦  
   📄 *破“五唯”新背景下机械工程研究生创新能力培养*  
   💡 *Innovative Ability Cultivation of Mechanical Engineering Graduate Students in the Context of Breaking the "Five-Only" Norms*  
-  📰 《科教导刊》，2022年第6期，pp. 45–47
+  📰 《科教导刊》，2022年第6期，pp. 45–47  
 
 ---
 
 - **凌杰**, 王旦，朱玉川  
   📄 *医工融合创新项目式人才培养模式探索*  
   💡 *Exploration of Project-Based Training Model for Integrating Medicine and Engineering Innovation*  
-  📰 《中国教育技术装备》，录用待发表
-
+  📰 《中国教育技术装备》，录用待发表  
 
 ---
 
@@ -159,7 +157,7 @@
 - 2021年5月，张正晗，二自由度解耦的压电微夹钳结构设计与性能仿真
 - 2021年5月，刘鹏坤，基于压电振动的细胞切割操作针结构设计与性能分析
 - 2021年5月，虞钧鹏，针对卵母细胞穿刺和注射的压电末端执行器结构设计与性能分析
-- 2021年5月，王晋华，基于变刚度调谐的压电俘能器结构设计与性能分析
+- 2021年5月，王晋华，基于变刚度调谐的压电俘能器结构设计与性能分析  
 
 ---
 
