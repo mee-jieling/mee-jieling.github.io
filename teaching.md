@@ -43,7 +43,7 @@
   液压部分：[Ch2](pdf/Ch2.pdf)｜[Ch3](pdf/Ch3.pdf)｜[Ch4](pdf/Ch4.pdf)｜[Ch5](pdf/Ch5.pdf)｜[Ch6](pdf/Ch6.pdf)｜[Ch7](pdf/Ch7.pdf)  
   气动部分：[Ch10](pdf/Ch10.pdf)｜[Ch11](pdf/Ch11.pdf)｜[Ch12](pdf/Ch12.pdf)｜[Ch13](pdf/Ch13.pdf)｜[Ch14](pdf/Ch14.pdf)｜[Ch15](pdf/Ch15.pdf)  
   📚 **教材**：*《液压与气压传动（第 3 版）》，游有鹏、李成刚主编，科学出版社*
-  <p align="center"><img src="teachingimages/textbook-yyp.jpg" width="320" alt="描述"></p>  
+  <p align="center"><img src="teachingimages/textbook-yyp.jpg" width="240" alt="描述"></p>  
   
 
 - **机器人动力学与控制**（专业必修课）  
@@ -58,7 +58,7 @@
   📎 课件下载链接（每章完成课堂教学后更新）：  
   [Ch1](pdf/PLCcn-Ch1.pdf)｜[Ch2](pdf/PLCcn-Ch2.pdf)｜[Ch3](pdf/PLCcn-Ch3.pdf)｜[Ch4](pdf/PLCcn-Ch4.pdf)  
   📚 **教材**：*《可编程序控制器原理、应用、网络》，徐世许 主编，中国科技大学出版社*
-  <p align="center"><img src="teachingimages/textbook-plc.jpg" width="320" alt="描述"></p>  
+  <p align="center"><img src="teachingimages/textbook-plc.jpg" width="240" alt="描述"></p>  
 
 ---
 
