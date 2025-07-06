@@ -71,6 +71,8 @@ I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power 
 - **[2025-06-15]** 🎉
   <img src="newsimages/tmrb2025-paper.jpg" width="320" alt="TMRB paper"> 
   A review paper by PhD student **Yuzhou Duan** has been **ACCEPTED** for publication in [IEEE Transactions on Medical Robotics and Bionics (TMRB)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9039958).
+  
+---
 
 - **[2025-05-26]** 🏆 课题组博士生**段榆洲**获南京航空航天大学“博士生学位论文创新与创优基金”资助.
 
