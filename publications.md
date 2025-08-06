@@ -39,6 +39,8 @@
 
 ### 🐍 2025（乙巳蛇年）
 
+[65] **凌杰**\*，彭洪涛，张允执，张文星，康佳豪，朱玉川. 电液伺服阀压电双晶片力马达组件数学建模. **航空动力学报**. 2025. (Accepted)
+
 [64] Ruifeng Zhao, **Jie Ling**\*, Pengfei Zhou, Jianfeng Zhong, and Duan Yang. Analytical modeling and experimental validation of gear churning loss in helicopter transmission lubrication systems. **_Journal of Tribology_**. 2025. (Accepted)
 
 [63] Ruifeng Zhao, Pengfei Zhou, Jianfeng Zhong, Duan Yang, and **Jie Ling**\*. [A comparative investigation of CFD approaches for oil–air two-phase flow in high-speed lubricated rolling bearings](https://www.mdpi.com/2075-1702/13/8/678). **_Machines_**. 2025. **13**(8): 678.
