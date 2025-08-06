@@ -68,6 +68,23 @@ I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power 
 
 ## 📢 News
 
+- **[2025-08-06]** 🎉 Two papers by Mater student **Ruifeng Zhao** have been **ACCEPTED** for publication in [MDPI Machines](https://www.mdpi.com/2075-1702/13/8/678) and ASME Journal of Tribology. The two papers focus on the CFD approaches for oil–air two-phase flow in high-speed lubricated rolling bearings and the quantitative analysis of gear churning loss in helicopter transmission lubrication systems, respectively.
+  <p align="center">
+    <table>
+      <tr>
+        <td align="center">
+          <img src="newsimages/Machines-2025-paper.png" width="320" alt="Image 1">
+        </td>
+        <td align="center">
+          <img src="newsimages/JT-2025-paper.png" width="320" alt="Image 2">
+        </td>
+      </tr>
+    </table>
+  </p>  
+  
+---  
+
+
 - **[2025-06-15]** 🎉 A review paper by PhD student **Yuzhou Duan** has been **ACCEPTED** for publication in [IEEE Transactions on Medical Robotics and Bionics (TMRB)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9039958).  
   <p align="center">
     <table>
