@@ -68,7 +68,7 @@ I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power 
 
 ## 📢 News
 
-- **[2025-08-06]** 🎉 Two papers by Mater student **Ruifeng Zhao** have been **ACCEPTED** for publication in [MDPI Machines](https://www.mdpi.com/2075-1702/13/8/678) and ASME Journal of Tribology. The two papers focus on the CFD approaches for oil–air two-phase flow in high-speed lubricated rolling bearings and the quantitative analysis of gear churning loss in helicopter transmission lubrication systems, respectively.
+- **[2025-08-06]** 🎉 Two papers by Master student **Ruifeng Zhao** have been **ACCEPTED** for publication in [MDPI Machines](https://www.mdpi.com/2075-1702/13/8/678) and ASME Journal of Tribology. The two papers focus on the CFD approaches for oil–air two-phase flow in high-speed lubricated rolling bearings and the quantitative analysis of gear churning loss in helicopter transmission lubrication systems, respectively.
   <p align="center">
     <table>
       <tr>
