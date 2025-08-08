@@ -35,7 +35,7 @@
 </div>
 
  
-## 📄 Journal Papers (\* Corresponding author) / 期刊论文
+## 📄 Journal Papers (\* Corresponding author) / 期刊论文（*通讯作者）
 
 ### 🐍 2025（乙巳蛇年）
 
