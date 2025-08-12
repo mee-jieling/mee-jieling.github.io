@@ -105,7 +105,19 @@ I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power 
 
 ---
 
-- **[2025-05-22]** 🎉 课题组硕士生**彭洪涛**两篇论文分别被《航空科学技术》、《航空动力学报》录用.  
+- **[2025-05-22]** 🎉 课题组硕士生**彭洪涛**两篇论文分别被《航空科学技术》、《航空动力学报》录用.
+    <p align="center">
+    <table>
+      <tr>
+        <td align="center">
+          <img src="newsimages/2025-pht-1.jpg" width="320" alt="Image 1">
+        </td>
+        <td align="center">
+          <img src="newsimages/2025-pht-2.png" width="320" alt="Image 2">
+        </td>
+      </tr>
+    </table>
+  </p>  
 
 ---
   
