@@ -74,10 +74,10 @@ procedures in terms of accuracy and repeatability, with robotic-assisted needle 
     <table>
       <tr>
         <td align="center">
-          <img src="newsimages/2025-JWB-1.tiff" width="320" alt="Image 1">
+          <img src="newsimages/2025-JWB-1.png" width="320" alt="Image 1">
         </td>
         <td align="center">
-          <img src="newsimages/2025-JWB-2.tiff" width="320" alt="Image 2">
+          <img src="newsimages/2025-JWB-2.png" width="320" alt="Image 2">
         </td>
       </tr>
     </table>
