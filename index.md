@@ -68,6 +68,23 @@ I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power 
 
 ## 📢 News
 
+- **[2025-08-22]** 🎉 A paper by an undergraduate student group has been **Accepted** for publication in [Journal of Mechanisms and Robotics](https://asmedigitalcollection.asme.org/mechanismsrobotics). This work was funded by College Students' Innovative Entrepreneurial Training Plan Program‌ in NUAA. Robotic-assisted lumbar puncture (LP) has demonstrated significant advantages over manual
+procedures in terms of accuracy and repeatability, with robotic-assisted needle insertion devices (RNIDs) serving as the core component for accurate needle placement. This paper proposes a one degree of freedom (1-DOF) patient-specific RNID to enhance the insertion accuracy.
+  <p align="center">
+    <table>
+      <tr>
+        <td align="center">
+          <img src="newsimages/2025-JWB-1.tiff" width="320" alt="Image 1">
+        </td>
+        <td align="center">
+          <img src="newsimages/2025-JWB-2.tiff" width="320" alt="Image 2">
+        </td>
+      </tr>
+    </table>
+  </p>  
+  
+---  
+
 - **[2025-08-06]** 🎉 Two papers by Master student **Ruifeng Zhao** have been **ACCEPTED** for publication in [MDPI Machines](https://www.mdpi.com/2075-1702/13/8/678) and ASME Journal of Tribology. The two papers focus on the CFD approaches for oil–air two-phase flow in high-speed lubricated rolling bearings and the quantitative analysis of gear churning loss in helicopter transmission lubrication systems, respectively.
   <p align="center">
     <table>
