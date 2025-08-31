@@ -68,7 +68,7 @@ I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power 
 
 ## 📢 News
 
-- **[2025-08-27]** 🏆 Our research group has been granted a National Natural Science Foundation of China (NSFC) Youth Project titled "Research on a Distally Extensible Bronchoscopic Robot for Peripheral Lung Nodule Biopsy". The funding rate this year is 12.26%. Statistics show that approximately 70% of cancerous pulmonary nodules are located in the peripheral lung. However, traditional bronchoscopes are limited by their structural size and turning ability, making it difficult to reach the peripheral lung for biopsy operations. This project aims to achieve innovation in structure, modeling theory, and control methods to develop an end-extensible bronchoscope robot for peripheral pulmonary nodule biopsy.
+- **[2025-08-27]** 🏆 Our research group has been granted a National Natural Science Foundation of China (NSFC) Youth Project titled "Research on a Distally Extensible Bronchoscopic Robot for Peripheral Lung Nodule Biopsy". The funding rate this year is 12.26%. Traditional bronchoscopes are limited by their structural size and turning ability, making it difficult to reach the peripheral lung for biopsy operations. This project aims to achieve innovation in structure, modeling theory, and control methods to develop an end-extensible bronchoscope robot for peripheral pulmonary nodule biopsy.
     <p align="center">
     <table>
       <tr>
