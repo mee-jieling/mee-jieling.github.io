@@ -39,11 +39,13 @@
 
 ### 🐍 2025（乙巳蛇年）
 
+[67] Linfei Li, Yuwen Wang, Yuchaun Zhu\* and **Jie Ling**. Research on backstepping adaptive sliding mode control of digital piezoelectric two-stage proportional valve. **Smart Materials and Structures**.  (Accepted)
+
 [66] Wenbo Jia, Teng Wang, Baohua Zhao, Wenzhuo Huang, Yuzhou Daun, Zuoqing Yu, and **Jie Ling**\*. Design of a patient-specific needle insertion device based on RHILB for accurate and safe lumbar puncture. **_Journal of Mechanisms and Robotics_**. 2025. (Accepted)
 
 [65] **凌杰**\*，彭洪涛，李蕴琪，张文星，康佳豪，朱玉川. 电液伺服阀压电双晶片力马达组件数学建模. **航空动力学报**. 2025. (Accepted)
 
-[64] Ruifeng Zhao, **Jie Ling**\*, Pengfei Zhou, Jianfeng Zhong, and Duan Yang. [Analytical modeling and experimental validation of gear churning loss in helicopter transmission lubrication systems](https://asmedigitalcollection.asme.org/tribology/article/doi/10.1115/1.4069431/1220950?casa_token=eMOC3dnf7PwAAAAA:Ci3P8lNh4YQYBdsnERE1doq75OTPk4WqQPKuJbukJEs7f0JG3qsx9yFlpM9g-b2QGXlin5Q). **_Journal of Tribology_**. 2025. (Accepted)
+[64] Ruifeng Zhao, **Jie Ling**\*, Pengfei Zhou, Jianfeng Zhong, and Duan Yang. [Analytical modeling and experimental validation of gear churning loss in helicopter transmission lubrication systems](https://asmedigitalcollection.asme.org/tribology/article-abstract/148/1/014601/1220950/Analytical-Modeling-and-Experimental-Validation-of?redirectedFrom=fulltext). **_Journal of Tribology_**. 2026, 148 (1): 014601.
 
 [63] Ruifeng Zhao, Pengfei Zhou, Jianfeng Zhong, Duan Yang, and **Jie Ling**\*. [A comparative investigation of CFD approaches for oil–air two-phase flow in high-speed lubricated rolling bearings](https://www.mdpi.com/2075-1702/13/8/678). **_Machines_**. 2025. **13**(8): 678.
 
@@ -188,6 +190,8 @@
 
 
 ## 📑 Conference Papers / 会议论文
+
+[27] Yunqi Li, Mohamed Kouki\*, Micky Rakotondrabe, and **Jie Ling**. Three-stage energy management of microgrid under uncertainties. The 2nd International Conference on Electrical and Computer Engineering Researches (ICECER 2025). 6-8 December 2025, Antananarivo, Madagascar.
 
 [26] Zuoqing Yu, Yuzhou Duan, Lei Zhang, and **Jie Ling**\*. [A patient-mounted spherical scissor-like remote center of motion mechanism for robotic-assisted lumbar puncture](https://link.springer.com/chapter/10.1007/978-981-96-0777-8_9). _17th International Conference on Intelligent Robotics and Applications (ICIRA 2024)_. 31st Jul.~ 2nd Aug, Xi’an, China, 2024.
  
