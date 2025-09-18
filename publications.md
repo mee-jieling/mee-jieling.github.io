@@ -41,7 +41,7 @@
 
 [67] Linfei Li, Yuwen Wang, Yuchaun Zhu\* and **Jie Ling**. Research on backstepping adaptive sliding mode control of digital piezoelectric two-stage proportional valve. **Smart Materials and Structures**.  (Accepted)
 
-[66] Wenbo Jia, Teng Wang, Baohua Zhao, Wenzhuo Huang, Yuzhou Daun, Zuoqing Yu, and **Jie Ling**\*. [Design of a patient-specific needle insertion device based on RHILB for accurate and safe lumbar puncture](https://asmedigitalcollection.asme.org/mechanismsrobotics/article-abstract/doi/10.1115/1.4069673/1221945/Design-of-a-Patient-specific-Needle-Insertion?redirectedFrom=fulltext). **_Journal of Mechanisms and Robotics_**. 2025. (Accepted)
+[66] Wenbo Jia, Teng Wang, Baohua Zhao, Wenzhuo Huang, Yuzhou Daun, Zuoqing Yu, and **Jie Ling**\*. [Design of a patient-specific needle insertion device based on RHILB for accurate and safe lumbar puncture](https://asmedigitalcollection.asme.org/mechanismsrobotics/article/doi/10.1115/1.4069673/1221945?casa_token=2ayLDYBEdLYAAAAA:RkI5rlgT2lpQsNBHyNmwQK4FIpfShtpx_V1WZv-4kq8F-1dOBpTIW6pMGMe-CCwl-1hSCurH). **_Journal of Mechanisms and Robotics_**. 2025, 17(12): 121002.
 
 [65] **凌杰**\*，彭洪涛，李蕴琪，张文星，康佳豪，朱玉川. 电液伺服阀压电双晶片力马达组件数学建模. **航空动力学报**. 2025. (Accepted)
 
