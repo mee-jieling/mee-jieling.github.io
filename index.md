@@ -73,7 +73,7 @@ I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power 
   🌍 More details can be found at Prof. [Micky Rakotondrabe's Homepage](https://m.rakoton.net/OITifacWC26.php) and the [IFAC WC 2026 Website](https://ifac2026.org/fairDash.do).  
 
 <p align="center">
-  <img src="newsimages/IFAC2026.png" width="360" alt="Call for Papers - IFAC WC 2026 Open Invited Track">
+  <img src="newsimages/IFAC2026.png" alt="Call for Papers - IFAC WC 2026 Open Invited Track">
 </p>
 
 ---
