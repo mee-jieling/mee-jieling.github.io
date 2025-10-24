@@ -46,7 +46,7 @@
 
 [65] Wenbo Jia, Teng Wang, Baohua Zhao, Wenzhuo Huang, Yuzhou Daun, Zuoqing Yu, and **Jie Ling**\*. [Design of a patient-specific needle insertion device based on RHILB for accurate and safe lumbar puncture](https://asmedigitalcollection.asme.org/mechanismsrobotics/article/doi/10.1115/1.4069673/1221945?casa_token=2ayLDYBEdLYAAAAA:RkI5rlgT2lpQsNBHyNmwQK4FIpfShtpx_V1WZv-4kq8F-1dOBpTIW6pMGMe-CCwl-1hSCurH). **_Journal of Mechanisms and Robotics_**. 2025, 17(12): 121002.
 
-[64] **凌杰**\*，彭洪涛，李蕴琪，张文星，康佳豪，朱玉川. 电液伺服阀压电双晶片力马达组件数学建模. **航空动力学报**. 2025. (Accepted)
+[64] **凌杰**\*，彭洪涛，李蕴琪，张文星，康佳豪，朱玉川. 电液伺服阀压电双晶片力马达组件数学建模. **航空动力学报**. 2025. doi: 10.13224/j.cnki.jasp.20250241. (Accepted)
 
 [63] Ruifeng Zhao, Pengfei Zhou, Jianfeng Zhong, Duan Yang, and **Jie Ling**\*. [A comparative investigation of CFD approaches for oil–air two-phase flow in high-speed lubricated rolling bearings](https://www.mdpi.com/2075-1702/13/8/678). **_Machines_**. 2025. **13**(8): 678.
 
@@ -54,7 +54,7 @@
 
 [61] 彭洪涛，张允执，**凌杰**\*，张文星，康佳豪，朱玉川. 油液环境下的压电双晶片执行器数学建模与试验分析. **航空科学技术**. 2025. (Accepted)
 
-[60] 彭洪涛，张允执，**凌杰**\*，张文星，康佳豪，朱玉川. 油液环境下的电液伺服阀用压电双晶片执行器复合阻尼控制. **航空动力学报**. 2025. (Accepted)
+[60] 彭洪涛，张允执，**凌杰**\*，张文星，康佳豪，朱玉川. 油液环境下的电液伺服阀用压电双晶片执行器复合阻尼控制. **航空动力学报**. 2025. doi: 10.13224/j.cnki.jasp.20250108. (Accepted)
 
 [59] Yunzhi Zhang, **Jie Ling**\*, Micky Rakotondrabe, Yuchuan Zhu, and Dan Wang. [Modeling and feedforward control of hysteresis in piezoelectric actuators considering its rotation and expansion](https://www.sciencedirect.com/science/article/abs/pii/S0957415825000637). **_Mechatronics_**. 2025. **110**: 103354.
 
