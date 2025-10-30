@@ -38,13 +38,13 @@
 ## 📄 Journal Papers (\* Corresponding author) / 期刊论文（*通讯作者）
 
 ### 🐎 2026（丙午马年）
-[67] Ruifeng Zhao, **Jie Ling**\*, Pengfei Zhou, Jianfeng Zhong, and Duan Yang. [Analytical modeling and experimental validation of gear churning loss in helicopter transmission lubrication systems](https://asmedigitalcollection.asme.org/tribology/article-abstract/148/1/014601/1220950/Analytical-Modeling-and-Experimental-Validation-of?redirectedFrom=fulltext). **_Journal of Tribology_**. 2026, 148 (1): 014601.
+[67] Ruifeng Zhao, **Jie Ling**\*, Pengfei Zhou, Jianfeng Zhong, and Duan Yang. [Analytical modeling and experimental validation of gear churning loss in helicopter transmission lubrication systems](https://asmedigitalcollection.asme.org/tribology/article-abstract/148/1/014601/1220950/Analytical-Modeling-and-Experimental-Validation-of?redirectedFrom=fulltext). **_Journal of Tribology_**. 2026, **148** (1): 014601.
 
 ### 🐍 2025（乙巳蛇年）
 
-[66] Linfei Li, Yuwen Wang, Yuchaun Zhu\* and **Jie Ling**. [Research on backstepping adaptive sliding mode control of digital piezoelectric two-stage proportional valve](https://iopscience.iop.org/article/10.1088/1361-665X/ae0bd0). **Smart Materials and Structures**. 2025. 34(10): 105022.
+[66] Linfei Li, Yuwen Wang, Yuchaun Zhu\* and **Jie Ling**. [Research on backstepping adaptive sliding mode control of digital piezoelectric two-stage proportional valve](https://iopscience.iop.org/article/10.1088/1361-665X/ae0bd0). **Smart Materials and Structures**. 2025. **34**(10): 105022.
 
-[65] Wenbo Jia, Teng Wang, Baohua Zhao, Wenzhuo Huang, Yuzhou Daun, Zuoqing Yu, and **Jie Ling**\*. [Design of a patient-specific needle insertion device based on RHILB for accurate and safe lumbar puncture](https://asmedigitalcollection.asme.org/mechanismsrobotics/article/doi/10.1115/1.4069673/1221945?casa_token=2ayLDYBEdLYAAAAA:RkI5rlgT2lpQsNBHyNmwQK4FIpfShtpx_V1WZv-4kq8F-1dOBpTIW6pMGMe-CCwl-1hSCurH). **_Journal of Mechanisms and Robotics_**. 2025, 17(12): 121002.
+[65] Wenbo Jia, Teng Wang, Baohua Zhao, Wenzhuo Huang, Yuzhou Daun, Zuoqing Yu, and **Jie Ling**\*. [Design of a patient-specific needle insertion device based on RHILB for accurate and safe lumbar puncture](https://asmedigitalcollection.asme.org/mechanismsrobotics/article/doi/10.1115/1.4069673/1221945?casa_token=2ayLDYBEdLYAAAAA:RkI5rlgT2lpQsNBHyNmwQK4FIpfShtpx_V1WZv-4kq8F-1dOBpTIW6pMGMe-CCwl-1hSCurH). **_Journal of Mechanisms and Robotics_**. 2025, **17**(12): 121002.
 
 [64] **凌杰**\*，彭洪涛，李蕴琪，张文星，康佳豪，朱玉川. 电液伺服阀压电双晶片力马达组件数学建模. **航空动力学报**. 2025. doi: 10.13224/j.cnki.jasp.20250241. (Accepted)
 
