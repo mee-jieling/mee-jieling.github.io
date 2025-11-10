@@ -91,7 +91,8 @@ PENG Hongtao, **LING Jie**\*, LI Chenggang, ZHU Yuchuan. NonlinEar modeling and 
 
 [46] Yanwen Wang, Yuchuan Zhu\*, Long Chen, **Jie Ling**, and Mingming Zhang. [Development and testing of a discrete coil magnetostrictive actuator](https://iopscience.iop.org/article/10.1088/1361-665X/ad6382/meta). **Smart Materials and Structures**. 2024, **33**(9): 095001.
 
-[45] 王玉文，朱玉川\*，**凌杰**，陈晓明，张洺铭. [滑阀式压电高速开关阀特性研究](http://www.jasp.com.cn/hkdlxb/article/doi/10.13224/j.cnki.jasp.20220426). **航空动力学报**. 2024. **39**(11): 20220426.
+[45] 王玉文，朱玉川\*，**凌杰**，陈晓明，张洺铭. [滑阀式压电高速开关阀特性研究](http://www.jasp.com.cn/hkdlxb/article/doi/10.13224/j.cnki.jasp.20220426). **航空动力学报**. 2024. **39**(11): 20220426. <br>
+WANG Yuwen, ZHU Yuchuan\*, **LING Jie**, et al. Research on the characteristics of sliding valve piezoelectric high-speed on/off valve[J]. **Journal of Aerospace Power**, 2024, **39**（11）：20220426. (In Chinese)
 
 [44] Yitong Li, Tingting Ye, **Jie Ling**, Xiaohui Xiao, and Zhao Feng\*. [A novel F-shaped linear guiding mechanism based compliant positioning stage with restricted parasitic motion](https://www.sciencedirect.com/science/article/pii/S0141635924000783). **Precision Engineering**. 2024. **88**:674-685.
 
@@ -107,9 +108,11 @@ PENG Hongtao, **LING Jie**\*, LI Chenggang, ZHU Yuchuan. NonlinEar modeling and 
 
 [39] **Jie Ling**, Long Chen, Mingming Zhang, and Yuchuan Zhu*. [Development of a dual-mode electro-hydrostatic actuator with serial-parallel hybrid configured piezoelectric pumps](https://iopscience.iop.org/article/10.1088/1361-665X/acafb5/meta). **Smart Materials and Structures**. 2023, **32**(2): 025011.
 
-[38] 陈晓明，朱玉川\*，**凌杰**，郑述峰，王玉文. [旋转惯性液压变换器的能效特性研究](https://bhxb.buaa.edu.cn/bhzk/cn/article/doi/10.13700/j.bh.1001-5965.2021.0570). **北京航空航天大学学报**. 2023. **49**(08):1982-1990.
+[38] 陈晓明，朱玉川\*，**凌杰**，郑述峰，王玉文. [旋转惯性液压变换器的能效特性研究](https://bhxb.buaa.edu.cn/bhzk/cn/article/doi/10.13700/j.bh.1001-5965.2021.0570). **北京航空航天大学学报**. 2023. **49**(08):1982-1990. <br>
+CHEN Xiaomin, ZHU Yuchuan\*, **LING Jie**, et al. Energy-efficiency characteristic investigation of rotational inertia hydraulic converter[J]. **Journal of Beijing University of Aeronautics and Astronautics**，2023，**49**（8）：1982-1990 （in Chinese）
 
-[37] 郑述峰，朱玉川\*，**凌杰**，刘昶，林文. [轴向双压电叠堆执行器并联控制实验研究](https://bhxb.buaa.edu.cn/bhzk/cn/article/doi/10.13700/j.bh.1001-5965.2021.0432). **北京航空航天大学学报**. 2023. **49**(06):1460-1470. 
+[37] 郑述峰，朱玉川\*，**凌杰**，刘昶，林文. [轴向双压电叠堆执行器并联控制实验研究](https://bhxb.buaa.edu.cn/bhzk/cn/article/doi/10.13700/j.bh.1001-5965.2021.0432). **北京航空航天大学学报**. 2023. **49**(06):1460-1470. <br>
+ZHENG Shufeng, ZHU Yuchuan\*, **LING Jie**, et al. Experimental study on parallel control of axial dual-piezoelectric stack actuator[J]. **Journal of Beijing University of Aeronautics and Astronautics**，2023，**49**（6）：1460-1470 （in Chinese）
 
 ### 🐯 2022（壬寅虎年）
 
@@ -173,7 +176,8 @@ PENG Hongtao, **LING Jie**\*, LI Chenggang, ZHU Yuchuan. NonlinEar modeling and 
 
 [10] Zhao Feng, **Jie Ling**, Min Ming, and Xiaohui Xiao\*. [A model-data integrated iterative learning controller for flexible tracking with application to a piezo nanopositioner](https://journals.sagepub.com/doi/abs/10.1177/0142331217719958). **Transactions of the Institute of Measurement and Control**. 2018. **40**(10):3201-3210. 
 
-[9] 冯朝,**凌杰**,明敏,肖晓晖\*. [融合迭代学习与干扰观测器的压电微动平台精密运动控制](http://www.cqvip.com/qk/90986x/20186/74818282504849564854484855.html). **机器人**. 2018. **40**(6): 825-834. 
+[9] 冯朝,**凌杰**,明敏,肖晓晖\*. [融合迭代学习与干扰观测器的压电微动平台精密运动控制](http://www.cqvip.com/qk/90986x/20186/74818282504849564854484855.html). **机器人**. 2018. **40**(6): 825-834. <br>
+FENG Zhao, **LING Jie**, MING Min, XIAO Xiaohui\*. Precision motion control for a piezoelectric micro-positioning stage via integrating iterative learning and disturbance observer. **Robot**. 2018. **40**(6): 825-834. (In Chinese) 
 
 [8] Min Ming, Zhao Feng, **Jie Ling**, and Xiaohui Xiao\*. [Hysteresis modeling and feedforward compensation of piezoelectric nanopositioning stage with a modified Bouc-Wen model](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/mnl.2017.0793). **Micro & Nano Letters**. 2018. **13**(8): 1170-1174. 
 
@@ -189,7 +193,8 @@ PENG Hongtao, **LING Jie**\*, LI Chenggang, ZHU Yuchuan. NonlinEar modeling and 
 
 [2] Zhao Feng, **Jie Ling**, Min Ming, and Xiaohui Xiao\*. [Data-based double-feedforward controller design for a coupled parallel piezo nanopositioning stage](https://journals.sagepub.com/doi/abs/10.1177/0959651817732502). **Proceedings of the Institution of Mechanical Engineers, Part I - Journal of Systems and Control Engineering**. 2017. **231**(10): 881-892.
 
-[1] **凌杰**, 明敏, 冯朝, 肖晓晖\*. [多轴运动系统非线性轮廓重复跟踪的主从交叉耦合迭代学习控制](http://www.aas.net.cn/fileZDHXB/journal/article/zdhxb/2017/12/PDF/zdhxb-43-12-2127.pdf). **自动化学报**. 2017. **43**(12): 2127-2140.
+[1] **凌杰**, 明敏, 冯朝, 肖晓晖\*. [多轴运动系统非线性轮廓重复跟踪的主从交叉耦合迭代学习控制](http://www.aas.net.cn/fileZDHXB/journal/article/zdhxb/2017/12/PDF/zdhxb-43-12-2127.pdf). **自动化学报**. 2017. **43**(12): 2127-2140. <br>
+**LING Jie**, MING Min, FENG Zhao, XIAO Xiaohui\*. A master-slave cross-coupled iterative learning control for repetitive trackingof nonlinear contours in multi-axis precision motion systems. **ACTA AUTOMATICA SINICA**. 2017. **43**(12): 2127-2140. (In Chinese)
 
 ---
 
