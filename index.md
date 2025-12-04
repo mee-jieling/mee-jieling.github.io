@@ -66,6 +66,12 @@ I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power 
 ## 🔬 Research Interests  
 **Medical Robotics**, **Smart Material Actuators**, **Intelligent Control**
 
+<p align="center">
+  <img src="newsimages/Research map.png" width="640" alt="Research Interests">
+</p>
+
+---
+
 ## 📢 News
 
 - **[2025-09-19]** 📢 **Call for Papers**  
