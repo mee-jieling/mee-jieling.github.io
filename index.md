@@ -67,7 +67,7 @@ I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power 
 **Medical Robotics**, **Smart Material Actuators**, **Intelligent Control**
 
 <p align="center">
-  <img src="newsimages/Research map.png" width="700" alt="Research Interests">
+  <img src="newsimages/Research map.png" width="750" alt="Research Interests">
 </p>
 
 ---
