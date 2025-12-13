@@ -74,15 +74,16 @@ I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power 
 
 ## 📢 News
 
-- **[2025-12-13]** 📢 **Winter school 2026**
-- Prof. Micky Rakotondrabe are organizing a Winter School on "Introduction to Piezoelectric Mechatronics" in the period of February 16-20, 2026, at the University of Technology of Tarbes (UTTOP), in Tarbes city of France (South-West): http://rakoton.net/Schools/PiezoMechatronics/.
--
-- The purpose of this winter school is to introduce to piezoelectric mechatronic systems, from understanding the piezoelectricity principles to advanced modeling of certain systems. The last part of the school will be devoted to introduction to their control. Various applications examples will be presented as well. The winter school encompasses lectures and tutorials. The last day will be devoted to social event. This Winter school is mainly devoted to young and junior researchers (MSc and PhD students, postdoctoral fellows/ATER) who work on smart materials based systems or who would like to discover the fields. It is also opened to engineers and researchers who would like to discover the fields.
--
-- We invite therefore young and junior researchers as well as engineers and researchers working on or interested in smart materials based systems, specifically piezoelectric ones, to participate to this focused Winter School.
--
-- The registration process has two steps: Step-1: **preregistration which is now opened**, and then Step-2: registration payment.
-- Please see the following page for the process: http://rakoton.net/Schools/PiezoMechatronics/registration.php Preregistration and Registration are closed on: February 1, 2026 Winter School period: February 16-20, 2026.
+- **[2025-12-13]** 📢 **Winter School 2026**
+  Prof. Micky Rakotondrabe are organizing a Winter School on "Introduction to Piezoelectric Mechatronics" in the period of February 16-20, 2026, at the University of Technology of Tarbes (UTTOP), in Tarbes city of France (South-West): http://rakoton.net/Schools/PiezoMechatronics/.
+
+  The purpose of this winter school is to introduce to piezoelectric mechatronic systems, from understanding the piezoelectricity principles to advanced modeling of certain systems. The last part of the school will be devoted to introduction to their control. Various applications examples will be presented as well. The winter school encompasses lectures and tutorials. The last day will be devoted to social event. This Winter school is mainly devoted to young and junior researchers (MSc and PhD students, postdoctoral fellows/ATER) who work on smart materials based systems or who would like to discover the fields. It is also opened to engineers and researchers who would like to discover the fields.
+
+  We invite therefore young and junior researchers as well as engineers and researchers working on or interested in smart materials based systems, specifically piezoelectric ones, to participate to this focused Winter School.
+
+  The registration process has two steps: Step-1: **preregistration which is now opened**, and then Step-2: registration payment.
+  
+  Please see the following page for the process: http://rakoton.net/Schools/PiezoMechatronics/registration.php Preregistration and Registration are closed on: February 1, 2026 Winter School period: February 16-20, 2026.
 
 <p align="center">
     <img src="newsimages/winterschool2026.png" width="500" alt="NSFC 2025 Youth Project">       
