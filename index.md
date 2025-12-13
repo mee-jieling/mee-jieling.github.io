@@ -77,13 +77,17 @@ I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power 
 - **[2025-12-13]** 📢 **Winter School 2026 — Introduction to Piezoelectric Mechatronics**
 
   Prof. **Micky Rakotondrabe** is organizing a Winter School on *“Introduction to Piezoelectric Mechatronics”*, which will take place on **February 16–20, 2026** at the **University of Technology of Tarbes (UTTOP)**, Tarbes, France.  
-  More information is available at: http://rakoton.net/Schools/PiezoMechatronics/
+  More information is available at: [http://rakoton.net/Schools/PiezoMechatronics/](http://rakoton.net/Schools/PiezoMechatronics/)
 
   This winter school aims to introduce piezoelectric mechatronic systems, from fundamental piezoelectric principles to advanced system modeling and control. The program includes lectures, tutorials, and application-oriented examples, with the final day dedicated to a social event.
 
   The school is mainly intended for MSc and PhD students, postdoctoral fellows, and young researchers working on or interested in smart material–based systems, especially piezoelectric systems. Engineers and researchers wishing to discover this field are also welcome.
 
-  The registration process consists of two steps: preregistration (currently open) and registration payment. Both preregistration and registration close on **February 1, 2026**.
+  The registration process consists of two steps: **preregistration (currently open)** and registration payment.
+
+  Please see the following page for the process: [http://rakoton.net/Schools/PiezoMechatronics/registration.php](http://rakoton.net/Schools/PiezoMechatronics/registration.php)
+  
+  Both preregistration and registration close on **February 1, 2026**. Winter School period: February 16-20, 2026.
 
   <p align="center">
     <img src="newsimages/winterschool2026.png" alt="Winter School 2026 Poster">
