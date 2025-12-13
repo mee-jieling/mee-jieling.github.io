@@ -86,7 +86,7 @@ I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power 
   Please see the following page for the process: http://rakoton.net/Schools/PiezoMechatronics/registration.php Preregistration and Registration are closed on: February 1, 2026 Winter School period: February 16-20, 2026.
 
 <p align="center">
-    <img src="newsimages/winterschool2026.png" width="500" alt="NSFC 2025 Youth Project">       
+    <img src="newsimages/winterschool2026.png" width="640" alt="Winter School 2026">       
   </p>  
   
 ---  
