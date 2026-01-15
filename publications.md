@@ -44,50 +44,50 @@
 
 [68] **Jie Ling**\*, Yunzhi Zhang, Congan Xie, Micky Rakotondrabe, and Yuchuan Zhu. Self-recovery and fault-tolerant control of distributed piezoelectric stack actuators under temperature perturbation and layer breakdown. **IEEE Transactions on Industrial Electronics**. 2026. (Accept)
 
-[67] Ruifeng Zhao, **Jie Ling**\*, Pengfei Zhou, Jianfeng Zhong, and Duan Yang. [Analytical modeling and experimental validation of gear churning loss in helicopter transmission lubrication systems](https://asmedigitalcollection.asme.org/tribology/article-abstract/148/1/014601/1220950/Analytical-Modeling-and-Experimental-Validation-of?redirectedFrom=fulltext). **Journal of Tribology**. 2026, **148** (1): 014601. ⬇️ [Download](journals/2025-JT.pdf)
+[67] Ruifeng Zhao, **Jie Ling**\*, Pengfei Zhou, Jianfeng Zhong, and Duan Yang. [Analytical modeling and experimental validation of gear churning loss in helicopter transmission lubrication systems](https://asmedigitalcollection.asme.org/tribology/article-abstract/148/1/014601/1220950/Analytical-Modeling-and-Experimental-Validation-of?redirectedFrom=fulltext). **Journal of Tribology**. 2026, **148** (1): 014601. ⬇️ [*Download*](journals/2025-JT.pdf)  
 
 ### 🐍 2025（乙巳蛇年）
 
-[66] Linfei Li, Yuwen Wang, Yuchaun Zhu\* and **Jie Ling**. [Research on backstepping adaptive sliding mode control of digital piezoelectric two-stage proportional valve](https://iopscience.iop.org/article/10.1088/1361-665X/ae0bd0). **Smart Materials and Structures**. 2025. **34**(10): 105022.
+[66] Linfei Li, Yuwen Wang, Yuchaun Zhu\* and **Jie Ling**. [Research on backstepping adaptive sliding mode control of digital piezoelectric two-stage proportional valve](https://iopscience.iop.org/article/10.1088/1361-665X/ae0bd0). **Smart Materials and Structures**. 2025. **34**(10): 105022. 
 
-[65] Wenbo Jia, Teng Wang, Baohua Zhao, Wenzhuo Huang, Yuzhou Daun, Zuoqing Yu, and **Jie Ling**\*. [Design of a patient-specific needle insertion device for accurate and safe lumbar puncture](https://asmedigitalcollection.asme.org/mechanismsrobotics/article/doi/10.1115/1.4069673/1221945?casa_token=2ayLDYBEdLYAAAAA:RkI5rlgT2lpQsNBHyNmwQK4FIpfShtpx_V1WZv-4kq8F-1dOBpTIW6pMGMe-CCwl-1hSCurH). **Journal of Mechanisms and Robotics**. 2025, **17**(12): 121002.
+[65] Wenbo Jia, Teng Wang, Baohua Zhao, Wenzhuo Huang, Yuzhou Daun, Zuoqing Yu, and **Jie Ling**\*. [Design of a patient-specific needle insertion device for accurate and safe lumbar puncture](https://asmedigitalcollection.asme.org/mechanismsrobotics/article/doi/10.1115/1.4069673/1221945?casa_token=2ayLDYBEdLYAAAAA:RkI5rlgT2lpQsNBHyNmwQK4FIpfShtpx_V1WZv-4kq8F-1dOBpTIW6pMGMe-CCwl-1hSCurH). **Journal of Mechanisms and Robotics**. 2025, **17**(12): 121002. ⬇️ [*Download*](journals/2025-JMR.pdf)  
 
 [64] **凌杰**\*，彭洪涛，李蕴琪，张文星，康佳豪，朱玉川. 电液伺服阀压电双晶片力马达组件数学建模. **航空动力学报**. 2025. doi: 10.13224/j.cnki.jasp.20250241. (Accepted) <br>
 **LING Jie**\*, PENG Hongtao, LI Yunqi, et al. Mathematical modeling of piezoelectric bimorph actuated force motor assembly for electrohydraulic servo valve[J]. **Journal of Aerospace Power**, 2025, **40**（X）：20250241. (In Chinese)
 
-[63] Ruifeng Zhao, Pengfei Zhou, Jianfeng Zhong, Duan Yang, and **Jie Ling**\*. [A comparative investigation of CFD approaches for oil–air two-phase flow in high-speed lubricated rolling bearings](https://www.mdpi.com/2075-1702/13/8/678). **Machines**. 2025. **13**(8): 678.
+[63] Ruifeng Zhao, Pengfei Zhou, Jianfeng Zhong, Duan Yang, and **Jie Ling**\*. [A comparative investigation of CFD approaches for oil–air two-phase flow in high-speed lubricated rolling bearings](https://www.mdpi.com/2075-1702/13/8/678). **Machines**. 2025. **13**(8): 678. ⬇️ [*Download*](journals/2025-machines.pdf)  
 
-[62] Yuzhou Duan, **Jie Ling**\*, Micky Rakotondrabe, Zuoqing Yu, Lei Zhang and Yuchuan Zhu\*. [A review of flexible bronchoscope robots for peripheral pulmonary nodule intervention](https://ieeexplore.ieee.org/document/11051056). **IEEE Transactions on Medical Robotics and Bionics (TMRB)**. 2025. **7**(3): 845-862.
+[62] Yuzhou Duan, **Jie Ling**\*, Micky Rakotondrabe, Zuoqing Yu, Lei Zhang and Yuchuan Zhu\*. [A review of flexible bronchoscope robots for peripheral pulmonary nodule intervention](https://ieeexplore.ieee.org/document/11051056). **IEEE Transactions on Medical Robotics and Bionics (TMRB)**. 2025. **7**(3): 845-862. ⬇️ [*Download*](journals/2025-TMRB.pdf)
 
-[61] 彭洪涛，张允执，**凌杰**\*，张文星，康佳豪，朱玉川. 油液环境下的压电双晶片执行器数学建模与试验分析. **航空科学技术**. 2025. **36**(11): 41-47. <br>
+[61] 彭洪涛，张允执，**凌杰**\*，张文星，康佳豪，朱玉川. 油液环境下的压电双晶片执行器数学建模与试验分析. **航空科学技术**. 2025. **36**(11): 41-47. ⬇️ [*Download*](journals/2025- 航空科学技术.pdf) <br>   
 PENG Hongtao, ZHANG Yunzhi, **LING Jie**\*, et al. Mathematical modeling and experimental analysis of a piezoelectric bimorph actuator in oil environments [J]. **Aeronautical Science & Technology**, 2025, **36**(11): 41-47. (In Chinese)
 
 [60] 彭洪涛，张允执，**凌杰**\*，张文星，康佳豪，朱玉川. 油液环境下的电液伺服阀用压电双晶片执行器复合阻尼控制. **航空动力学报**. 2025. doi: 10.13224/j.cnki.jasp.20250108. (Accepted) <br>
 PENG Hongtao, ZHANG Yunzhi, **LING Jie**\*, et al. Damping control of piezoelectric bimorph actuators for electrohydraulic servo valves in oil environments[J]. **Journal of Aerospace Power**, 2025, **40**(X)：20250108. (In Chinese)
 
-[59] Yunzhi Zhang, **Jie Ling**\*, Micky Rakotondrabe, Yuchuan Zhu, and Dan Wang. [Modeling and feedforward control of hysteresis in piezoelectric actuators considering its rotation and expansion](https://www.sciencedirect.com/science/article/abs/pii/S0957415825000637). **Mechatronics**. 2025. **110**: 103354.
+[59] Yunzhi Zhang, **Jie Ling**\*, Micky Rakotondrabe, Yuchuan Zhu, and Dan Wang. [Modeling and feedforward control of hysteresis in piezoelectric actuators considering its rotation and expansion](https://www.sciencedirect.com/science/article/abs/pii/S0957415825000637). **Mechatronics**. 2025. **110**: 103354. ⬇️ [*Download*](journals/2025-Mechatronics.pdf)  
 
-[58] Yuzhou Duan, **Jie Ling**\*, Micky Rakotondrabe, and Yuchuan Zhu\*. [Achieving high-speed smooth motion for stick-slip piezoelectric motors with impact-enhanced driving mode](https://iopscience.iop.org/article/10.1088/1361-665X/adcd34/meta). **Smart Materials and Structures**. 2025. **34**(4): 045022
+[58] Yuzhou Duan, **Jie Ling**\*, Micky Rakotondrabe, and Yuchuan Zhu\*. [Achieving high-speed smooth motion for stick-slip piezoelectric motors with impact-enhanced driving mode](https://iopscience.iop.org/article/10.1088/1361-665X/adcd34/meta). **Smart Materials and Structures**. 2025. **34**(4): 045022. ⬇️ [*Download*](journals/2025-SMS.pdf)  
 
-[57] 彭洪涛，**凌杰**\*，朱玉川，李成刚. [基于J-A模型的压电双晶片执行器非线性建模及验证](http://peaotec.ijournals.cn:8001/ydysg823/article/abstract/20250123?st=search). **压电与声光**. 2025. **47**(1): 142-147. <br>
+[57] 彭洪涛，**凌杰**\*，朱玉川，李成刚. [基于J-A模型的压电双晶片执行器非线性建模及验证](http://peaotec.ijournals.cn:8001/ydysg823/article/abstract/20250123?st=search). **压电与声光**. 2025. **47**(1): 142-147. ⬇️ [*Download*](journals/2025-压电与声光.pdf) <br>
 PENG Hongtao, **LING Jie**\*, LI Chenggang, ZHU Yuchuan. NonlinEar modeling and verification of piezoelectric bimorph actuator based on Jiles-Atherton model. **Piezoelectrics & Acoustooptics**. 2025. **47**(1): 142-147. (In Chinese)
 
-[56] **凌杰**\*，张允执，陈龙，朱玉川．[数字压电叠堆执行器：原理、建模与控制](https://link.cnki.net/urlid/42.1294.TH.20240531.1807.002.)．**中国机械工程**. 2025. **36**(2): 228-237. <br>
+[56] **凌杰**\*，张允执，陈龙，朱玉川．[数字压电叠堆执行器：原理、建模与控制](https://link.cnki.net/urlid/42.1294.TH.20240531.1807.002.)．**中国机械工程**. 2025. **36**(2): 228-237. ⬇️ [*Download*](journals/2025-中国机械工程.pdf) <br>
 **LING Jie**\*, ZHANG Yunzhi, CHEN Ling, and ZHU Yuchuan. Digital piezoelectric stack actuators: Principle, modeling and control. **China Mechanical Engineering**. 2025. **36**(2): 228-237. (In Chinese)
 
-[55] Tingting Ye, Zhao Feng, **Jie Ling**, Yangmin Li\*. [A novel W-shaped flexure-guided mechanism for high-frequency piezo-actuated micromanipulations](https://ieeexplore.ieee.org/abstract/document/10734177). **IEEE/ASME Transactions on Mechatronics**. 2025. **30**(5): 3781-3791.
+[55] Tingting Ye, Zhao Feng, **Jie Ling**, Yangmin Li\*. [A novel W-shaped flexure-guided mechanism for high-frequency piezo-actuated micromanipulations](https://ieeexplore.ieee.org/abstract/document/10734177). **IEEE/ASME Transactions on Mechatronics**. 2025. **30**(5): 3781-3791.  
 
 ### 🐲 2024（甲辰龙年）
 
-[54] Yunzhi Zhang, **Jie Ling**\*, and Yuchuan Zhu. [Development and fault-tolerant control of a distributed piezoelectric stack actuator](https://iopscience.iop.org/article/10.1088/1361-665X/ad669e/meta). **Smart Materials and Structures**. 2024. **33**(9): 095003.
+[54] Yunzhi Zhang, **Jie Ling**\*, and Yuchuan Zhu. [Development and fault-tolerant control of a distributed piezoelectric stack actuator](https://iopscience.iop.org/article/10.1088/1361-665X/ad669e/meta). **Smart Materials and Structures**. 2024. **33**(9): 095003. ⬇️ [*Download*](journals/2024-SMS.pdf)  
 
-[53] Yuzhou Duan, **Jie Ling**\*, and Yuchuan Zhu\*. [Modeling and admittance control of a piezoactuated needle insertion device for safe puncture of spinal membranes](https://asmedigitalcollection.asme.org/medicaldevices/article/18/3/034501/1201723). **Journal of Medical Devices**. 2024. **18**(3): 034501. 
+[53] Yuzhou Duan, **Jie Ling**\*, and Yuchuan Zhu\*. [Modeling and admittance control of a piezoactuated needle insertion device for safe puncture of spinal membranes](https://asmedigitalcollection.asme.org/medicaldevices/article/18/3/034501/1201723). **Journal of Medical Devices**. 2024. **18**(3): 034501. ⬇️ [*Download*](journals/2024-JMD.pdf)  
 
-[52] Yuzhou Duan, **Jie Ling**\*, Zhao Feng, Tingting Ye, Tairen Sun, and Yuchuan Zhu. [A survey of needle steering approaches in minimally invasive surgery](https://link.springer.com/article/10.1007/s10439-024-03494-0). **Annals of Biomedical Engineering**. 2024. **52**: 1492–1517.
+[52] Yuzhou Duan, **Jie Ling**\*, Zhao Feng, Tingting Ye, Tairen Sun, and Yuchuan Zhu. [A survey of needle steering approaches in minimally invasive surgery](https://link.springer.com/article/10.1007/s10439-024-03494-0). **Annals of Biomedical Engineering**. 2024. **52**: 1492–1517. ⬇️ [*Download*](journals/2024-ABME.pdf)  
 
-[51] Yuzhou Duan, **Jie Ling**\*, Zhao Feng, Daojin Yao, Yuchuan Zhu. [Development of a base-actuated three-rhombus configured remote center of motion mechanism for lumbar puncture](https://asmedigitalcollection.asme.org/mechanismsrobotics/article/16/5/054503/1164054). **Journal of Mechanisms and Robotics**. 2024. **16**(5): 054503.
+[51] Yuzhou Duan, **Jie Ling**\*, Zhao Feng, Daojin Yao, Yuchuan Zhu. [Development of a base-actuated three-rhombus configured remote center of motion mechanism for lumbar puncture](https://asmedigitalcollection.asme.org/mechanismsrobotics/article/16/5/054503/1164054). **Journal of Mechanisms and Robotics**. 2024. **16**(5): 054503. ⬇️ [*Download*](journals/2024-JMR.pdf)  
 
-[50]  **Jie Ling**\*, Hongtao Peng, Yuzhou Duan, and Micky Rakotondrabe. [Reducing backward motion of stick-slip piezoelectric actuators using dual driving feet designed by asymmetric stiffness principle](https://www.sciencedirect.com/science/article/pii/S0094114X24002374). **Mechanism and Machine Theory**. 2024. **203**:105810.
+[50]  **Jie Ling**\*, Hongtao Peng, Yuzhou Duan, and Micky Rakotondrabe. [Reducing backward motion of stick-slip piezoelectric actuators using dual driving feet designed by asymmetric stiffness principle](https://www.sciencedirect.com/science/article/pii/S0094114X24002374). **Mechanism and Machine Theory**. 2024. **203**:105810. ⬇️ [*Download*](journals/2024-MMT.pdf)  
 
 [49] Dongdong Zheng, Yangkun Zhang, **Jie Ling**, Haoyong Yu\*, and Xuemei Ren. [Composite learning based adaptive terminal sliding mode control for nonlinear systems with experimental validation](Composite learning based adaptive terminal sliding mode control for nonlinear systems with experimental validation). **IEEE Transactions on Industrial Electronics**. 2025. **72**(8): 8197-8207.
 
