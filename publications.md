@@ -38,6 +38,8 @@
 ## 📄 Journal Papers (\* Corresponding author) / 期刊论文（*通讯作者）
 
 ### 🐎 2026（丙午马年）
+[70] Zhicheng Song, Yang Wu, Yaoyao Wang, **Jie Ling**, and Yangwei Wang\*. [An adaptive robust enhanced time-delay impedance controller for a cell puncture device with soft contact environment](https://ieeexplore.ieee.org/document/11348932). **IEEE Transactions on Automation Science and Engineering**. 2026. (Early Access)
+
 [69] Yunzhi Zhang, Zhao Feng, **Jie Ling**, Chenyang Ding\*. Adaptive neural network fixed-time control of piezoelectric actuator for precision motion tracking. **Precision Engineering**. 2026. (Accept)
 
 [68] **Jie Ling**\*, Yunzhi Zhang, Congan Xie, Micky Rakotondrabe, and Yuchuan Zhu. Self-recovery and fault-tolerant control of distributed piezoelectric stack actuators under temperature perturbation and layer breakdown. **IEEE Transactions on Industrial Electronics**. 2026. (Accept)
