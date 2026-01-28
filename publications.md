@@ -38,7 +38,7 @@
 ## 📄 Journal Papers (\* Corresponding author) / 期刊论文（*通讯作者）
 
 ### 🐎 2026（丙午马年）
-[71] Pengfei Zhou, **Jie Ling**\*, Ruifeng Zhao. Modeling with experimental validation of power loss in high-speed rolling bearings with oil-jet lubrication for helicopter transmission systems. **Tribology International**. 2026. (Accept)  
+[71] Pengfei Zhou, **Jie Ling**\*, Ruifeng Zhao. [Modeling with experimental validation of power loss in high-speed rolling bearings with oil-jet lubrication for helicopter transmission systems](https://www.sciencedirect.com/science/article/pii/S0301679X26001040?dgcid=author). **Tribology International**. 2026. **218**: 111762. ⬇️ [*Download*](journals/2026-TI.pdf)      
 
 [70] Zhicheng Song, Yang Wu, Yaoyao Wang, **Jie Ling**, and Yangwei Wang\*. [An adaptive robust enhanced time-delay impedance controller for a cell puncture device with soft contact environment](https://ieeexplore.ieee.org/document/11348932). **IEEE Transactions on Automation Science and Engineering**. 2026. (Early Access)
 
