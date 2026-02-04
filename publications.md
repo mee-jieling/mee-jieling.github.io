@@ -44,7 +44,7 @@
 
 [69] Yunzhi Zhang, Zhao Feng, **Jie Ling**, Chenyang Ding\*. [Adaptive neural network fixed-time control of piezoelectric actuator for precision motion tracking](https://www.sciencedirect.com/science/article/pii/S0141635926000243). **Precision Engineering**. 2026. **99**: 246-257.  ⬇️ [*Download*](journals/2026-PE.pdf)   
 
-[68] **Jie Ling**\*, Yunzhi Zhang, Congan Xie, Micky Rakotondrabe, and Yuchuan Zhu. Self-recovery and fault-tolerant control of distributed piezoelectric stack actuators under temperature perturbation and layer breakdown. **IEEE Transactions on Industrial Electronics**. 2026. (Accept)
+[68] **Jie Ling**\*, Yunzhi Zhang, Congan Xie, Micky Rakotondrabe, and Yuchuan Zhu. [Self-recovery and fault-tolerant control of distributed piezoelectric stack actuators under temperature perturbation and layer breakdown](https://ieeexplore.ieee.org/document/11371572). **IEEE Transactions on Industrial Electronics**. 2026. DOI: 10.1109/TIE.2026.3657007. (Early Access) ⬇️ [*Download*](journals/2026-TIE.pdf)  
 
 [67] Ruifeng Zhao, **Jie Ling**\*, Pengfei Zhou, Jianfeng Zhong, and Duan Yang. [Analytical modeling and experimental validation of gear churning loss in helicopter transmission lubrication systems](https://asmedigitalcollection.asme.org/tribology/article-abstract/148/1/014601/1220950/Analytical-Modeling-and-Experimental-Validation-of?redirectedFrom=fulltext). **Journal of Tribology**. 2026. **148** (1): 014601. ⬇️ [*Download*](journals/2025-JT.pdf)  
 
