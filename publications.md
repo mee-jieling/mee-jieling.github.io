@@ -61,8 +61,8 @@
 
 [62] Yuzhou Duan, **Jie Ling**\*, Micky Rakotondrabe, Zuoqing Yu, Lei Zhang and Yuchuan Zhu\*. [A review of flexible bronchoscope robots for peripheral pulmonary nodule intervention](https://ieeexplore.ieee.org/document/11051056). **IEEE Transactions on Medical Robotics and Bionics (TMRB)**. 2025. **7**(3): 845-862. ⬇️ [*Download*](journals/2025-TMRB.pdf)
 
-[61] 彭洪涛，张允执，**凌杰**\*，张文星，康佳豪，朱玉川. 油液环境下的压电双晶片执行器数学建模与试验分析. **航空科学技术**. 2025. **36**(11): 41-47. ⬇️ [*Download*](journals/2025- 航空科学技术.pdf) <br>   
-PENG Hongtao, ZHANG Yunzhi, **LING Jie**\*, et al. Mathematical modeling and experimental analysis of a piezoelectric bimorph actuator in oil environments [J]. **Aeronautical Science & Technology**, 2025, **36**(11): 41-47. (In Chinese)
+[61] 彭洪涛，张允执，**凌杰**\*，张文星，康佳豪，朱玉川. 油液环境下的压电双晶片执行器数学建模与试验分析. **航空科学技术**. 2025. **36**(11): 41-47. <br>
+PENG Hongtao, ZHANG Yunzhi, **LING Jie**\*, et al. Mathematical modeling and experimental analysis of a piezoelectric bimorph actuator in oil environments [J]. **Aeronautical Science & Technology**, 2025, **36**(11): 41-47. (In Chinese) ⬇️ [*Download*](journals/2025- 航空科学技术.pdf)  
 
 [60] 彭洪涛，张允执，**凌杰**\*，张文星，康佳豪，朱玉川. 油液环境下的电液伺服阀用压电双晶片执行器复合阻尼控制. **航空动力学报**. 2026. 41(4): 20250108. <br>
 PENG Hongtao, ZHANG Yunzhi, **LING Jie**\*, et al. Damping control of piezoelectric bimorph actuators for electrohydraulic servo valves in oil environments[J]. **Journal of Aerospace Power**, 2026. 41(4): 20250108. (In Chinese) ⬇️ [*Download*](journals/2026-航空动力学报.pdf)    
