@@ -64,8 +64,8 @@
 [61] 彭洪涛，张允执，**凌杰**\*，张文星，康佳豪，朱玉川. 油液环境下的压电双晶片执行器数学建模与试验分析. **航空科学技术**. 2025. **36**(11): 41-47. ⬇️ [*Download*](journals/2025- 航空科学技术.pdf) <br>   
 PENG Hongtao, ZHANG Yunzhi, **LING Jie**\*, et al. Mathematical modeling and experimental analysis of a piezoelectric bimorph actuator in oil environments [J]. **Aeronautical Science & Technology**, 2025, **36**(11): 41-47. (In Chinese)
 
-[60] 彭洪涛，张允执，**凌杰**\*，张文星，康佳豪，朱玉川. 油液环境下的电液伺服阀用压电双晶片执行器复合阻尼控制. **航空动力学报**. 2025. doi: 10.13224/j.cnki.jasp.20250108. (Accepted) <br>
-PENG Hongtao, ZHANG Yunzhi, **LING Jie**\*, et al. Damping control of piezoelectric bimorph actuators for electrohydraulic servo valves in oil environments[J]. **Journal of Aerospace Power**, 2025, **40**(X)：20250108. (In Chinese)
+[60] 彭洪涛，张允执，**凌杰**\*，张文星，康佳豪，朱玉川. 油液环境下的电液伺服阀用压电双晶片执行器复合阻尼控制. **航空动力学报**. 2026. 41(4): 20250108. <br>
+PENG Hongtao, ZHANG Yunzhi, **LING Jie**\*, et al. Damping control of piezoelectric bimorph actuators for electrohydraulic servo valves in oil environments[J]. **Journal of Aerospace Power**, 2026. 41(4): 20250108. (In Chinese) ⬇️ [*Download*](journals/2026-航空动力学报.pdf)    
 
 [59] Yunzhi Zhang, **Jie Ling**\*, Micky Rakotondrabe, Yuchuan Zhu, and Dan Wang. [Modeling and feedforward control of hysteresis in piezoelectric actuators considering its rotation and expansion](https://www.sciencedirect.com/science/article/abs/pii/S0957415825000637). **Mechatronics**. 2025. **110**: 103354. ⬇️ [*Download*](journals/2025-Mechatronics.pdf)  
 
