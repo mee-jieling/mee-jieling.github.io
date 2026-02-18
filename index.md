@@ -74,6 +74,16 @@ I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power 
 
 ## 📢 News
 
+- **[2026-02-18]** 🌍 **Winter School Talk**
+
+ I was honored to deliver a lecture titled "Design and Control of Piezoelectric Actuators in Aerospace Applications" on February 18, 2026, at the Winter School on "Introduction to Piezoelectric Mechatronics" , organized by Prof. Micky Rakotondrabe at the University of Technology Tarbes Occitanie Pyrénées (UTTOP) , France. The talk introduced our recent research at NUAA on piezoelectric stack pumps for electro-hydrostatic actuators, bimorph actuators for high-speed servo valves, and distributed stack actuators with fault-tolerant control—topics addressing the aerospace demands for high power-to-weight ratio, fast response, and enhanced reliability. This visit also continued my long-term collaboration with French institutions, following my previous stays at FEMTO-ST Institute in 2017 and at UTTOP as a visiting scholar from 2024 to 2025. Grateful to Prof. Rakotondrabe for the invitation and to all the participants for the engaging discussions!
+
+   <p align="center">
+    <img src="newsimages/2026-WinterSchool-UTTOP.png" alt="Winter School 2026 Poster">
+  </p>
+  
+---
+
 - **[2025-12-13]** 📢 **Winter School 2026 — Introduction to Piezoelectric Mechatronics**
 
   Prof. **Micky Rakotondrabe** is organizing a Winter School on *“Introduction to Piezoelectric Mechatronics”*, which will take place on **February 16–20, 2026** at the **University of Technology of Tarbes (UTTOP)**, Tarbes, France.  
