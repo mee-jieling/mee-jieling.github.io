@@ -40,7 +40,7 @@
 ### 🐎 2026（丙午马年）
 [71] Pengfei Zhou, **Jie Ling**\*, Ruifeng Zhao. [Modeling with experimental validation of power loss in high-speed rolling bearings with oil-jet lubrication for helicopter transmission systems](https://www.sciencedirect.com/science/article/pii/S0301679X26001040?dgcid=author). **Tribology International**. 2026. **218**: 111762. ⬇️ [*Download*](journals/2026-TI.pdf)      
 
-[70] Zhicheng Song, Yang Wu, Yaoyao Wang, **Jie Ling**, and Yangwei Wang\*. [An adaptive robust enhanced time-delay impedance controller for a cell puncture device with soft contact environment](https://ieeexplore.ieee.org/document/11348932). **IEEE Transactions on Automation Science and Engineering**. 2026. (Early Access)
+[70] Zhicheng Song, Yang Wu, Yaoyao Wang, **Jie Ling**, and Yangwei Wang\*. [An adaptive robust enhanced time-delay impedance controller for a cell puncture device with soft contact environment](https://ieeexplore.ieee.org/document/11348932). **IEEE Transactions on Automation Science and Engineering**. 2026. **23**: 2500-2510. ⬇️ [*Download*](journals/2026-TASE.pdf)   
 
 [69] Yunzhi Zhang, Zhao Feng, **Jie Ling**, Chenyang Ding\*. [Adaptive neural network fixed-time control of piezoelectric actuator for precision motion tracking](https://www.sciencedirect.com/science/article/pii/S0141635926000243). **Precision Engineering**. 2026. **99**: 246-257.  ⬇️ [*Download*](journals/2026-PE.pdf)   
 
