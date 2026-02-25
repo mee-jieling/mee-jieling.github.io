@@ -61,7 +61,7 @@
   💡 *Programmable Logic Controller (PLC)*  
   📎 课件下载链接（每章完成课堂教学后更新）：  
   <!-- [Ch1](pdf/PLCcn-Ch1.pdf)｜[Ch2](pdf/PLCcn-Ch2.pdf)｜[Ch3](pdf/PLCcn-Ch3.pdf)｜[Ch4](pdf/PLCcn-Ch4.pdf) -->  
-  📚 **教材**：*《欧姆龙PLC编及程应用教程(CPIH系列)》，霍罡 主编，机械工业出版社，2023年*
+  📚 **教材**：*《欧姆龙PLC编及程应用教程(CPIH系列)》，主编，机械工业出版社，2023年*
   <p align="center"><img src="teachingimages/textbook-plc2.png" width="180" alt="描述"></p>  
 
 ---
