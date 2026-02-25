@@ -1,4 +1,4 @@
-# Teaching
+<img width="196" height="106" alt="image" src="https://github.com/user-attachments/assets/f7968d7f-db01-43b8-87f2-bbd498c324e8" /># Teaching
 
 <style>
   section {
@@ -39,9 +39,11 @@
 - **液压与气压传动**（专业必修课）  
   💡 *Hydraulic and Pneumatic Transmission*  
   📎 课件下载链接（每章完成课堂教学后更新）：  
+  <!--  
   基础知识：[Ch1](pdf/Ch1.pdf)  
   液压部分：[Ch2](pdf/Ch2.pdf)｜[Ch3](pdf/Ch3.pdf)｜[Ch4](pdf/Ch4.pdf)｜[Ch5](pdf/Ch5.pdf)｜[Ch6](pdf/HP-Ch6.pdf)｜[Ch7](pdf/HP-Ch7.pdf)  
-  气动部分：[Ch10](pdf/HP-Ch10.pdf)｜[Ch11](pdf/HP-Ch11.pdf)｜[Ch12](pdf/HP-Ch12.pdf)｜[Ch13](pdf/HP-Ch13.pdf)｜[Ch14](pdf/HP-Ch14.pdf)｜[Ch15](pdf/HP-Ch15.pdf)  
+  气动部分：[Ch10](pdf/HP-Ch10.pdf)｜[Ch11](pdf/HP-Ch11.pdf)｜[Ch12](pdf/HP-Ch12.pdf)｜[Ch13](pdf/HP-Ch13.pdf)｜[Ch14](pdf/HP-Ch14.pdf)｜[Ch15](pdf/HP-Ch15.pdf)
+  :: -->  
   📚 **教材**：*《液压与气压传动（第 3 版）》，游有鹏、李成刚主编，科学出版社*
   <p align="center"><img src="teachingimages/textbook-yyp.jpg" width="240" alt="描述"></p>  
 
@@ -60,9 +62,11 @@
 - **可编程控制器**（专业选修课）  
   💡 *Programmable Logic Controller (PLC)*  
   📎 课件下载链接（每章完成课堂教学后更新）：  
-  [Ch1](pdf/PLCcn-Ch1.pdf)｜[Ch2](pdf/PLCcn-Ch2.pdf)｜[Ch3](pdf/PLCcn-Ch3.pdf)｜[Ch4](pdf/PLCcn-Ch4.pdf)  
-  📚 **教材**：*《可编程序控制器原理、应用、网络》，徐世许 主编，中国科技大学出版社*
-  <p align="center"><img src="teachingimages/textbook-plc.jpg" width="180" alt="描述"></p>  
+  <!--  
+  [Ch1](pdf/PLCcn-Ch1.pdf)｜[Ch2](pdf/PLCcn-Ch2.pdf)｜[Ch3](pdf/PLCcn-Ch3.pdf)｜[Ch4](pdf/PLCcn-Ch4.pdf)
+  :: -->  
+  📚 **教材**：*《欧姆龙PLC编及程应用教程(CPIH系列)》，霍罡 主编，机械工业出版社，2023年*
+  <p align="center"><img src="teachingimages/textbook-plc2.png" width="180" alt="描述"></p>  
 
 ---
 
@@ -70,9 +74,11 @@
 
 - **Programmable Logic Controller (PLC)**（Compulsory Module Course）    
   💡 *可编程控制器（核心模块课程）*  
-  📎 **Download Link**（The corresponding chapter content will be updated after completing teaching.）：  
+  📎 **Download Link**（The corresponding chapter content will be updated after completing teaching.）：
+   <!--  
   Lectures: [Ch1](pdf/PLCen-Ch1.pdf)｜[Ch2](pdf/PLCen-Ch2.pdf)｜[Ch3](pdf/PLCen-Ch3.pdf)｜[Ch4](pdf/PLCen-Ch4.pdf)   
-  Experiment: [Experiment Guide](pdf/PLC-Experiment-Guide.pdf)｜[PLC-Experiment-Report-Temple](./pdf/PLC-Experiment-Report-Temple.docx)     
+  Experiment: [Experiment Guide](pdf/PLC-Experiment-Guide.pdf)｜[PLC-Experiment-Report-Temple](./pdf/PLC-Experiment-Report-Temple.docx)
+  :: -->
 
 ---
 
@@ -109,7 +115,7 @@
   *Postgraduate Education Reform Project at NUAA*  
   📌 破“五唯”新形势下机械工程研究生创新能力培养的过程控制与分阶段评价机制研究  
   💡 *Process Control and Phased Evaluation Mechanism for Cultivating Innovation Ability of Graduate Students in Mechanical Engineering under the New Anti-"Five-Only" Policy*  
-  ⏱️ 2020.12--2022.12 （主持）  
+  ⏱️ 2020.12--2022.12 （主持，已结题）  
 
 ---
 
@@ -117,7 +123,7 @@
   *Undergraduate Education Reform Project at NUAA*  
   📌 “新工科”背景下医工融合创新项目式人才培养模式探索与实践  
   💡 *Exploration and Practice of Project-Based Innovative Training Model for Medical-Engineering Integration under the "New Engineering Disciplines" Initiative*  
-  ⏱️ 2023.10--2025.10 （主持）  
+  ⏱️ 2023.10--2025.10 （主持，已结题）  
 
 ---
 
