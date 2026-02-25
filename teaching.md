@@ -1,4 +1,4 @@
-<img width="196" height="106" alt="image" src="https://github.com/user-attachments/assets/f7968d7f-db01-43b8-87f2-bbd498c324e8" /># Teaching
+# Teaching
 
 <style>
   section {
