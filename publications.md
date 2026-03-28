@@ -348,6 +348,22 @@ Xiaohui Xiao, **Jie Ling**, [Zhao Feng](https://scholar.google.com.hk/citations?
 
 ---
 
+- 📆 **2026年3月**  
+  👨‍🎓 **张国栋**，硕士学位论文  
+  **庙宇式无轴承永磁薄片电机系统设计与性能分析**  
+  *Design and Performance Analysis of TempleType Bearingless Permanent Magnet Slice Motor System*
+  <p align="center"><img src="thesisimages/thesis-zgd.jpg" width="640" alt="thesis-zgd"></p>  
+
+---
+
+- 📆 **2026年3月**  
+  👨‍🎓 **赵瑞峰**，硕士学位论文  
+  **某型直升机主减速器高速动部件润滑特性研究**  
+  *Investigation on the Lubrication Characteristics of High-Speed Rotating Components in a Helicopter Main Gearbox*
+  <p align="center"><img src="thesisimages/thesis-zrf.jpg" width="640" alt="thesis-zrf"></p>  
+
+---
+
 
 
 
