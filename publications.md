@@ -212,7 +212,11 @@ FENG Zhao, **LING Jie**, MING Min, XIAO Xiaohui\*. Precision motion control for 
 
 ## 📑 Conference Papers / 会议论文
 
-[27] Yunqi Li, Mohamed Kouki\*, Micky Rakotondrabe, and **Jie Ling**. Three-stage energy management of microgrid under uncertainties. The 2nd International Conference on Electrical and Computer Engineering Researches (ICECER 2025). 6-8 December 2025, Antananarivo, Madagascar.
+[29] Maryam Naghdi\*, Iman Izadi, Micky Rakotondrabe, **Jie Ling**. Robust sampled-data model-free adaptive control for a piezoelectric robotic manipulator. _The 23rd IFAC World Congress_. August 23-28, Busan, Republic of Korea, 2026.
+
+[28] Zuoqing Yu, Yuzhou Duan, Kang Shaoshuai, Micky Rakotondrabe, **Jie Ling**\*. Stiffness anisotropy-based modeling for a tendon-driven notched continuum robot. _The 23rd IFAC World Congress_. August 23-28, Busan, Republic of Korea, 2026.
+
+[27] Yunqi Li, Mohamed Kouki\*, Micky Rakotondrabe, and **Jie Ling**. Three-stage energy management of microgrid under uncertainties. The 2nd International Conference on Electrical and Computer Engineering Researches (ICECER 2025). 6-8 December, Antananarivo, Madagascar, 2025.
 
 [26] Zuoqing Yu, Yuzhou Duan, Lei Zhang, and **Jie Ling**\*. [A patient-mounted spherical scissor-like remote center of motion mechanism for robotic-assisted lumbar puncture](https://link.springer.com/chapter/10.1007/978-981-96-0777-8_9). _17th International Conference on Intelligent Robotics and Applications (ICIRA 2024)_. 31st Jul.~ 2nd Aug, Xi’an, China, 2024.
  
