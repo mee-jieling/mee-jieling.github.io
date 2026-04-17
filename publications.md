@@ -38,6 +38,8 @@
 ## 📄 Journal Papers (\* Corresponding author) / 期刊论文（*通讯作者）
 
 ### 🐎 2026（丙午马年）
+[73] Yunzhi Zhang, Zhao Feng, **Jie Ling**, Chenyang Ding\*. [Adaptive neural network fixed-time control of piezoelectric actuator for precision motion tracking](https://doi.org/10.1016/j.precisioneng.2026.01.015). **Precision Engineering**. 2026. **99**: 246-257.
+
 [72] Yunqi Li, Shiyong Niu, Yuchuan Zhu, **Jie Ling**\*, Jiahao Kang. [Modeling and characteristic analysis of the multilayer bimorph and deflector-feedback rod assembly in a deflector jet servo valve](https://journals.sagepub.com/doi/10.1177/09596518261435670). **Proceedings of the Institution of Mechanical Engineers, Part I: Journal of Systems and Control Engineering**. 2026. (Online first) 
 
 [71] Pengfei Zhou, **Jie Ling**\*, Ruifeng Zhao. [Modeling with experimental validation of power loss in high-speed rolling bearings with oil-jet lubrication for helicopter transmission systems](https://www.sciencedirect.com/science/article/pii/S0301679X26001040?dgcid=author). **Tribology International**. 2026. **218**: 111762. ⬇️ [*Download*](journals/2026-TI.pdf)      
