@@ -368,6 +368,14 @@ Xiaohui Xiao, **Jie Ling**, [Zhao Feng](https://scholar.google.com.hk/citations?
   *Investigation on the Lubrication Characteristics of High-Speed Rotating Components in a Helicopter Main Gearbox*
   <p align="center"><img src="thesisimages/thesis-zrf.jpg" width="640" alt="thesis-zrf"></p>  
 
+  ---
+
+- 📆 **2026年6月**  
+  👨‍🎓 **杨琦哲**，硕士学位论文  
+  **数据驱动的压电弯曲片执行器复合控制研究**  
+  *Research on Composite Control of Piezoelectric Bending Actuator Based on Data-Driven Approach*
+  <p align="center"><img src="thesisimages/thesis-yqz.jpg" width="640" alt="thesis-yqz"></p>  
+
 ---
 
 
