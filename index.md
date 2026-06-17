@@ -74,6 +74,14 @@ I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power 
 
 ## 📢 News
 
+- **[2026-06-17]** 🎉 The paper "A Nonlinear Kinematic Model for Film-Laminated Soft Bellows Actuators with Motion Deformation Regime Transition" by PhD student **Yuzhou Duan**  et al. has been **ACCEPTED** for publication in IEEE Robotics and Automation Letters (IEEE RA-L). This paper presents a regime-based piecewise nonlinear kinematic model for film-laminated soft bellows actuators that distinguishes between motion-dominated and deformation-dominated elongation regimes. The model enables efficient bidirectional prediction of axial displacement from volume or pressure inputs, with the transition between regimes analytically derived and integrated into a unified framework. 
+
+  <p align="center">
+  <img src="newsimages/2026-RAL.jpg" width="640" alt="RAL 2026 paper">
+  </p>
+  
+---  
+
 - **[2026-05-30]** 🏆 课题组2026届本科毕业生**黄文卓**学位论文《高速传动系统动部件润滑试验台设计与搅油损失特性分析》获评第九届“精雕杯”毕业设计赛东部赛区二等奖.
 
 ---  
