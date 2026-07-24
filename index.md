@@ -74,6 +74,19 @@ I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power 
 
 ## 📢 News
 
+- **[2026-07-24]** 🤝 **Prof. Micky Rakotondrabe Visits NUAA for Summer Course & Lab Exchange**
+
+Prof. Micky Rakotondrabe (UTTOP, University of Toulouse, France) visited NUAA this July to teach the international summer course "Academic Presentation and Communication Skills." The course combined lectures and workshops to enhance students' academic writing and presentation abilities, and concluded with a simulated international conference where students presented their work in a professional setting.
+
+Prof. Rakotondrabe also visited our lab. We had productive discussions on the design and control of continuum robots and explored potential avenues for future collaboration. Grateful for the inspiring exchange!
+
+  <p align="center">
+  <img src="newsimages/SummerSchool2026.jpg" alt="Summer School 2026">
+  </p>
+  
+---
+
+
 - **[2026-06-17]** 🎉 The paper "A Nonlinear Kinematic Model for Film-Laminated Soft Bellows Actuators with Motion Deformation Regime Transition" by PhD student **Yuzhou Duan**  et al. has been **ACCEPTED** for publication in IEEE Robotics and Automation Letters (IEEE RA-L). This paper presents a regime-based piecewise nonlinear kinematic model for film-laminated soft bellows actuators that distinguishes between motion-dominated and deformation-dominated elongation regimes. The model enables efficient bidirectional prediction of axial displacement from volume or pressure inputs, with the transition between regimes analytically derived and integrated into a unified framework. 
 
   <p align="center">
