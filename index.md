@@ -76,9 +76,9 @@ I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power 
 
 - **[2026-07-24]** 🤝 **Prof. Micky Rakotondrabe Visits NUAA for Summer Course & Lab Exchange**
 
-Prof. Micky Rakotondrabe (UTTOP, University of Toulouse, France) visited NUAA this July to teach the international summer course "Academic Presentation and Communication Skills." The course combined lectures and workshops to enhance students' academic writing and presentation abilities, and concluded with a simulated international conference where students presented their work in a professional setting.
+    Prof. Micky Rakotondrabe (UTTOP, University of Toulouse, France) visited NUAA this July to teach the international summer course "Academic Presentation and Communication Skills." The course combined lectures and workshops to enhance students' academic writing and presentation abilities, and concluded with a simulated international conference where students presented their work in a professional setting.
 
-Prof. Rakotondrabe also visited our lab. We had productive discussions on the design and control of continuum robots and explored potential avenues for future collaboration. Grateful for the inspiring exchange!
+    Prof. Rakotondrabe also visited our lab. We had productive discussions on the design and control of continuum robots and explored potential avenues for future collaboration. Grateful for the inspiring exchange!
 
   <p align="center">
   <img src="newsimages/SummerSchool2026.jpg" alt="Summer School 2026">
