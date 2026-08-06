@@ -74,6 +74,14 @@ I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power 
 
 ## 📢 News
 
+- **[2026-08-06]** 🤝 **课题组研究生团队荣获第十一届全国大学生生物医学工程创新设计竞赛二等奖**
+
+ <p align="center">
+  <img src="newsimages/Competition2026.jpg" alt="Competition 2026">
+  </p>  
+
+---
+
 - **[2026-07-24]** 🤝 **Prof. Micky Rakotondrabe Visits NUAA for Summer Course & Lab Exchange**
 
     Prof. Micky Rakotondrabe (UTTOP, University of Toulouse, France) visited NUAA this July to teach the international summer course "Academic Presentation and Communication Skills." The course combined lectures and workshops to enhance students' academic writing and presentation abilities, and concluded with a simulated international conference where students presented their work in a professional setting.
