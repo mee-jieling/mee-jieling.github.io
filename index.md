@@ -74,7 +74,15 @@ I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power 
 
 ## 📢 News
 
-- **[2026-08-06]** 🤝 **课题组研究生团队荣获第十一届全国大学生生物医学工程创新设计竞赛二等奖**
+- **[2026-08-10]** 📢 **IFAC Mechatronics Journal - Call for Paper** [Special Issue on “Soft and Continuum Robotics: from Design to Control](https://www.sciencedirect.com/special-issue/336031/soft-and-continuum-robotics-from-design-to-control)
+
+<p align="center">
+  <img src="newsimages/IFAC-Mechatronics-SCR.jpg" alt="IFAC Mechatronics Speical Issue">
+  </p>  
+
+---
+
+- **[2026-08-06]** 🏆 **课题组研究生团队荣获第十一届全国大学生生物医学工程创新设计竞赛二等奖**
 
  <p align="center">
   <img src="newsimages/Competition2026.jpg" alt="Competition 2026">
