@@ -43,7 +43,7 @@
 
 [73] Linfei Li, Yuwen Wang, Yuchuan Zhu\*, **Jie Ling**. [Research on high-precision control of digital piezoelectric proportional valve based on PWM-PAM collaborative control](https://www.sciencedirect.com/science/article/abs/pii/S0955598626002542). **Flow Measurement and Instrumentation**. 2026. 103440. ⬇️ [*Download*](journals/2026-FMI.pdf)   
 
-[72] Yunqi Li, Shiyong Niu, Yuchuan Zhu\*, **Jie Ling**, Jiahao Kang. [Modeling and characteristic analysis of the multilayer bimorph and deflector-feedback rod assembly in a deflector jet servo valve](https://journals.sagepub.com/doi/10.1177/09596518261435670). **Proceedings of the Institution of Mechanical Engineers, Part I: Journal of Systems and Control Engineering**. 2026. **240**(7): 1310-1328.  
+[72] Yunqi Li, Shiyong Niu, Yuchuan Zhu\*, **Jie Ling**, Jiahao Kang. [Modeling and characteristic analysis of the multilayer bimorph and deflector-feedback rod assembly in a deflector jet servo valve](https://journals.sagepub.com/doi/10.1177/09596518261435670). **Proceedings of the Institution of Mechanical Engineers, Part I: Journal of Systems and Control Engineering**. 2026. **240**(7): 1310-1328. ⬇️ [*Download*](journals/2026-PartI.pdf)    
 
 [71] Pengfei Zhou, **Jie Ling**\*, Ruifeng Zhao. [Modeling with experimental validation of power loss in high-speed rolling bearings with oil-jet lubrication for helicopter transmission systems](https://www.sciencedirect.com/science/article/pii/S0301679X26001040?dgcid=author). **Tribology International**. 2026. **218**: 111762. ⬇️ [*Download*](journals/2026-TI.pdf)      
 
