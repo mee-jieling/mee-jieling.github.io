@@ -74,6 +74,11 @@ I obtained my B.S. and Ph.D. in Mechanical Engineering from the School of Power 
 
 ## 📢 News
 
+- **[2026-10-13]** 🏆 课题组硕士生**玉作庆**、**周鹏飞**获评2026年研究生国家奖学金.  
+
+---
+
+
 - **[2026-08-10]** 📢 **IFAC Mechatronics Journal - Call for Paper** [Special Issue on “Soft and Continuum Robotics: from Design to Control](https://www.sciencedirect.com/special-issue/336031/soft-and-continuum-robotics-from-design-to-control)
 
 <p align="center">
