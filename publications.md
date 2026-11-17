@@ -39,7 +39,7 @@
 
 ### 🐑 2027（丁未羊年）
 
-[75] Linfei Li, Shuang Tian, Yuchuan Zhu\*, **Jie Ling**. [Digital hydraulic pitch system based on high-speed on/off valves: Modeling and adaptive robust sliding mode control](https://www.sciencedirect.com/science/article/pii/S0029801826049024). 2027. **371**:129068. ⬇️ [*Download*](journals/2027-OE.pdf)   
+[75] Linfei Li, Shuang Tian, Yuchuan Zhu\*, **Jie Ling**. [Digital hydraulic pitch system based on high-speed on/off valves: Modeling and adaptive robust sliding mode control](https://www.sciencedirect.com/science/article/pii/S0029801826049024). **Ocean Engineering**. 2027. **371**:129068. ⬇️ [*Download*](journals/2027-OE.pdf)   
 
 ### 🐎 2026（丙午马年）
 
