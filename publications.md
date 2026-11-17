@@ -37,6 +37,10 @@
  
 ## 📄 Journal Papers (\* Corresponding author) / 期刊论文（*通讯作者）
 
+### 🐑 2027（丁未羊年）
+
+[75] Linfei Li, Shuang Tian, Yuchuan Zhu\*, **Jie Ling**. [Digital hydraulic pitch system based on high-speed on/off valves: Modeling and adaptive robust sliding mode control](https://www.sciencedirect.com/science/article/pii/S0029801826049024). 2027. **371**:129068. ⬇️ [*Download*](journals/2027-OE.pdf)   
+
 ### 🐎 2026（丙午马年）
 
 [74] Yuzhou Duan, **Jie Ling**\*, Zuoqing Yu, and Yuchuan Zhu. [A nonlinear kinematic model for film-laminated soft bellows actuators with motion–deformation regime transition](https://ieeexplore.ieee.org/abstract/document/11669977). **IEEE Robotics and Automation Letters**. 2026. **11**(10): 11873-11880. ⬇️ [*Download*](journals/2026-RAL.pdf)   
