@@ -40,7 +40,7 @@
   💡 *Hydraulic and Pneumatic Transmission*  
   📎 课件下载链接（每章完成课堂教学后更新）：   
   基础知识：[Ch1](pdf/HP-Ch1.pdf)  <br>
-  液压部分：[Ch2](pdf/HP-Ch2.pdf)｜[Ch3](pdf/HP-Ch3.pdf) ｜[Ch4](pdf/Ch4.pdf) ｜[Ch6](pdf/HP-Ch6.pdf) <br>
+  液压部分：[Ch2](pdf/HP-Ch2.pdf)｜[Ch3](pdf/HP-Ch3.pdf) ｜[Ch4](pdf/HP-Ch4.pdf) ｜[Ch6](pdf/HP-Ch6.pdf) <br>
   课程调研报告要求及模版： [调研报告](pdf/液压与气压传动课程调研作业要求题目及模版.zip) <br>  
   <!-- 液压部分：[Ch2](pdf/Ch2.pdf)｜[Ch3](pdf/Ch3.pdf)｜[Ch4](pdf/Ch4.pdf)｜[Ch5](pdf/Ch5.pdf)｜[Ch6](pdf/HP-Ch6.pdf)｜[Ch7](pdf/HP-Ch7.pdf) -->    
   <!-- 气动部分：[Ch10](pdf/HP-Ch10.pdf)｜[Ch11](pdf/HP-Ch11.pdf)｜[Ch12](pdf/HP-Ch12.pdf)｜[Ch13](pdf/HP-Ch13.pdf)｜[Ch14](pdf/HP-Ch14.pdf)｜[Ch15](pdf/HP-Ch15.pdf) -->   <br>  
